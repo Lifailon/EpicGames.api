@@ -26,5 +26,3 @@ jobs:
       git add .
       git commit -m "Update free games list" || echo "No changes to commit"
       git push
-
-# git push https://${{ secrets.GITHUB_TOKEN }}@github.com/Lifailon/egapi.git || echo "No changes to push"
