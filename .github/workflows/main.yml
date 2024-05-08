@@ -2,8 +2,8 @@ name: Publish Free Games List
 
 on:
   workflow_dispatch:  # Разрешить ручной запуск
-  schedule:
-    - cron: '* 1 * * *'  # Запускать каждый 1 час
+#  schedule:
+#    - cron: '* 1 * * *'  # Запускать каждый 1 час
 
 jobs:
   fetch_and_publish:
@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     
     - name: Setup PowerShell
-      uses: microsoft/setup-powershell@v1
+      uses: actions/setup-powershell@v1
       with:
         pwsh-version: '7.3.7'
     
