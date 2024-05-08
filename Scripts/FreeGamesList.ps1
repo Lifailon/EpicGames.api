@@ -23,5 +23,5 @@ $json = $($($($content -split "__REACT_QUERY_INITIAL_QUERIES__ = ")[1] -split "w
 # Обрабатываем данные
 $games = $($json | ConvertFrom-Json).queries.state.data[-1].catalog.searchStore.elements
 # Сохраняем файл
-$path = "${env:GITHUB_WORKSPACE}/freeGames.json"
+$path = "${env:GITHUB_WORKSPACE}/json/FreeGames.json"
 $games | ConvertTo-Json -Depth 10 | Out-File $path
