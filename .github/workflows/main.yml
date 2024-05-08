@@ -1,7 +1,9 @@
-name: Publish Free Games
+name: Publish Free Games List
+
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/10 * * * *'
+
 jobs:
   fetch_and_publish:
     runs-on: ubuntu-latest
@@ -16,7 +18,7 @@ jobs:
         pwsh-version: '7.3.7'
     
     - name: Run PowerShell script
-      run: .\Scripts\Get-FreeGames.ps1
+      run: .\Scripts\FreeGamesList.ps1
 
     - name: Commit and push changes
       run: |
