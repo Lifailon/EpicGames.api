@@ -1,4 +1,4 @@
-name: Publish Free Games List
+name: build-free-games-list
 
 on:
   workflow_dispatch: # Разрешить ручной запуск
@@ -6,17 +6,20 @@ on:
 #    - cron: '* 1 * * *' # Запускать каждый 1 час
 
 jobs:
-  fetch_and_publish:
+  Job_01:
     runs-on: ubuntu-latest
     
     steps:
+    # Загружаем репозиторий
     - name: Checkout repository
       uses: actions/checkout@v2
     
-    - name: Run PowerShell script
+    # Выполняем скрипт
+    - name: Get content and write to file
       run: pwsh -File ./Scripts/FreeGamesList.ps1
       shell: bash
 
+    # Выгружаем файл в репозиторий
     - name: Commit and push changes
       run: |
         git config --global user.name 'GitHub Actions'
