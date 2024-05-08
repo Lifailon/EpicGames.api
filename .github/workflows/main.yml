@@ -1,9 +1,9 @@
 name: Publish Free Games List
 
 on:
-  workflow_dispatch:  # Разрешить ручной запуск
+  workflow_dispatch: # Разрешить ручной запуск
 #  schedule:
-#    - cron: '* 1 * * *'  # Запускать каждый 1 час
+#    - cron: '* 1 * * *' # Запускать каждый 1 час
 
 jobs:
   fetch_and_publish:
@@ -13,14 +13,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
     
-#    - name: Setup PowerShell
-#      uses: actions/setup-powershell@v1
-#      with:
-#        pwsh-version: '7.3.7'
-    
-#    - name: Run PowerShell script
-#      run: .\Scripts\FreeGamesList.ps1
-
     - name: Run PowerShell script
       run: pwsh -File ./Scripts/FreeGamesList.ps1
       shell: bash
@@ -30,5 +22,5 @@ jobs:
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@github.com'
         git add .
-        git commit -m "Update free games list"
-        git push
+        git commit -m "Update free games list" || echo "No changes to commit"
+        git push || echo "No changes to push"
