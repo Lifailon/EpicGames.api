@@ -2,7 +2,8 @@
 $count = "500"
 $price = "tierFree"
 $url = "https://store.epicgames.com/ru/browse?sortBy=releaseDate&sortDir=DESC&priceTier=$($price)&category=Game&count=$($count)&start=0"
-# Делаем запрос
+
+# Список агентов для перебора
 # $Agents = $(
 #     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
 #     "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
@@ -13,16 +14,25 @@ $url = "https://store.epicgames.com/ru/browse?sortBy=releaseDate&sortDir=DESC&pr
 #     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Vivaldi/3.7"
 # )
 # $userAgent = Get-Random -InputObject $Agents
+
+# v1 (HttpClientHandler)
 # $handler = New-Object System.Net.Http.HttpClientHandler
 # $handler.AllowAutoRedirect = $true
 # $httpClient = New-Object System.Net.Http.HttpClient($handler)
-# # WebClient
 # $requestMessage = [System.Net.Http.HttpRequestMessage]::new([System.Net.Http.HttpMethod]::Get, $url)
 # $requestMessage.Headers.Add("User-Agent", $userAgent)
 # $requestMessage.Headers.Add("Accept", "text/html")
 # $response = $httpClient.SendAsync($requestMessage).Result
 # $content = $response.Content.ReadAsStringAsync().Result
 
+# v2 (WebClient)
+# $webClient = New-Object System.Net.WebClient
+# $userAgent = Get-Random -InputObject $Agents
+# $webClient.Headers.Add("User-Agent", $userAgent)
+# $webClient.Headers.Add("Accept", "text/html")
+# $content = $webClient.DownloadString($url)
+
+# v3 (2-й запрос из трассировки в браузере)
 $session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
 $session.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 $response = Invoke-WebRequest -Uri $url -WebSession $session -Headers @{
