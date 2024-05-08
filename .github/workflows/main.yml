@@ -16,7 +16,7 @@ jobs:
     
     # Выполняем скрипт
     - name: Get content and write to file
-      run: pwsh -File ./Scripts/FreeGamesList.ps1
+      run: pwsh -File ./scripts/FreeGamesList.ps1
       shell: bash
 
     # Выгружаем файл в репозиторий
