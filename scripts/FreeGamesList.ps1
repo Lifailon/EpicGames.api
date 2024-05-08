@@ -25,7 +25,7 @@ $url = "https://store.epicgames.com/ru/browse?sortBy=releaseDate&sortDir=DESC&pr
 
 $session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
 $session.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-$response = Invoke-WebRequest -UseBasicParsing -Uri $url -WebSession $session -Headers @{
+$response = Invoke-WebRequest -Uri $url -WebSession $session -Headers @{
     "Accept"="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
     "Service-Worker-Navigation-Preload"="true"
     "Upgrade-Insecure-Requests"="1"
@@ -36,9 +36,6 @@ $response = Invoke-WebRequest -UseBasicParsing -Uri $url -WebSession $session -H
 $content = $response.Content
 
 # Логируем (проверяем содержимое)
-Write-Host "---------------------- Agent ------------------------"
-Write-Host $userAgent
-Write-Host "---------------------- Agent ------------------------"
 Write-Host "---------------------- Content ----------------------"
 Write-Host $content
 Write-Host "---------------------- Content ------------------------"
