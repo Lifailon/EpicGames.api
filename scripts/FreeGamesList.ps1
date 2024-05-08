@@ -14,6 +14,9 @@ $requestMessage.Headers.Add("Accept", "text/html")
 $response = $httpClient.SendAsync($requestMessage).Result
 $content = $response.Content.ReadAsStringAsync().Result
 # Логируем (проверяем содержимое)
+Write-Host "---------------------- Agent ------------------------"
+Write-Host $userAgent
+Write-Host "---------------------- Agent ------------------------"
 Write-Host "---------------------- Content ----------------------"
 Write-Host $content
 Write-Host "---------------------- Content ------------------------"
