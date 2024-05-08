@@ -13,13 +13,17 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
     
-    - name: Setup PowerShell
-      uses: actions/setup-powershell@v1
-      with:
-        pwsh-version: '7.3.7'
+#    - name: Setup PowerShell
+#      uses: actions/setup-powershell@v1
+#      with:
+#        pwsh-version: '7.3.7'
     
+#    - name: Run PowerShell script
+#      run: .\Scripts\FreeGamesList.ps1
+
     - name: Run PowerShell script
-      run: .\Scripts\FreeGamesList.ps1
+      run: pwsh -File ./Scripts/FreeGamesList.ps1
+      shell: bash
 
     - name: Commit and push changes
       run: |
