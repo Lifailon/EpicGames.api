@@ -1,9 +1,9 @@
 name: Publish Free Games List
 
 on:
-  workflow_dispatch
+  workflow_dispatch:  # Разрешить ручной запуск
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '* 1 * * *'  # Запускать каждый 1 час
 
 jobs:
   fetch_and_publish:
