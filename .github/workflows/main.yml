@@ -22,7 +22,5 @@ jobs:
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@github.com'
         git add .
-        git commit -m "Update free games list" || echo "No changes to commit"
-        git push || echo "Permission denied"
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN_TEST }}
+        git commit -m "Update free games list"
+        git push
