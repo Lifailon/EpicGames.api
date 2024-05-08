@@ -10,6 +10,10 @@ $requestMessage.Headers.Add("Accept", "text/html")
 $response = $httpClient.SendAsync($requestMessage).Result
 $content = $response.Content.ReadAsStringAsync().Result
 
+Write-Host "---------------------- JSON ----------------------"
+Get-Content $json
+Write-Host "---------------------- JSON ----------------------"
+
 $json = $($($($content -split "__REACT_QUERY_INITIAL_QUERIES__ = ")[1] -split "window.server_rendered")[0] -replace ";")
 $games = $($json | ConvertFrom-Json).queries.state.data[-1].catalog.searchStore.elements
 
