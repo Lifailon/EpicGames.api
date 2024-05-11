@@ -1,4 +1,4 @@
-# EpicGames Statistics
+# Epic Games Stats
 
 Данный рипозиторий содержит списки игр, который ежедневно обновляется с помощью GitHub Actions.
 
