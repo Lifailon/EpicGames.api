@@ -83,15 +83,16 @@ function Get-GameList {
     $Collections
 }
 
-# Run function
 $Free = Get-GameList -Price tierFree -Region ru -Count 500
+if ($null -ne $Free) {
+    $Free | ConvertTo-Json -Depth 10 | Out-File $pathFree
+}
+
 $Discount = Get-GameList -Price tierDiscouted -Region ru -Count 500
+if ($null -ne $Discount) {
+    $Discount | ConvertTo-Json -Depth 10 | Out-File $pathDiscount
+}
 
-# Save files
-$Free | ConvertTo-Json -Depth 10 | Out-File $pathFree
-$Discount | ConvertTo-Json -Depth 10 | Out-File $pathDiscount
-
-# Giveaway list
 $Giveaway = $Free | Where-Object FullPrice -ne 0
 if ($null -ne $Giveaway) {
     $Giveaway | ConvertTo-Json -Depth 10 | Out-File $pathGiveaway
