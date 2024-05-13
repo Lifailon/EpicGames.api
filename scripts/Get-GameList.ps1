@@ -1,3 +1,4 @@
+# ${env:GITHUB_WORKSPACE} = ".\"
 $pathFree     = "${env:GITHUB_WORKSPACE}/api/free/index.json"
 $pathDiscount = "${env:GITHUB_WORKSPACE}/api/discount/index.json"
 $pathGiveaway = "${env:GITHUB_WORKSPACE}/api/giveaway/index.json"
@@ -8,7 +9,8 @@ function Get-GameList {
         [ValidateSet("en-US","ru")][string]$Region,
         [ValidateRange(100,500)][int]$Count
     )
-    $url = "https://store.epicgames.com/$region/browse?sortBy=releaseDate&sortDir=DESC&priceTier=$($price)&category=Game&count=$($count)&start=0"
+    # $url = "https://store.epicgames.com/$region/browse?sortBy=releaseDate&sortDir=DESC&priceTier=tierDiscouted&category=Game&count=500&start=0"
+    $url = "https://store.epicgames.com/en-US/browse?sortBy=releaseDate&sortDir=DESC&priceTier=$($price)&category=Game&count=$($count)&start=0"
     $Agents = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     
     # v1 (HttpClient)
@@ -53,12 +55,16 @@ function Get-GameList {
     $Collections = New-Object System.Collections.Generic.List[System.Object]
     if ($Price -eq "tierFree") {
         foreach ($game in $games) {
+            $urlGame = $game.offerMappings.pageSlug
+            if ($null -eq $urlGame) {
+                $urlGame = $game.title.ToLower().replace(" ","-")
+            }
             $Collections.Add([PSCustomObject]@{
                 Title           = $game.title
                 Developer       = $game.developerDisplayName
                 Publisher       = $game.publisherDisplayName
                 Description     = $game.description
-                Url             = "https://store.epicgames.com/$region/p/$($game.offerMappings.pageSlug)"
+                Url             = "https://store.epicgames.com/$region/p/$urlGame"
                 ReleaseDate     = $game.releaseDate
                 FullPrice       = $game.price.totalPrice.fmtPrice.originalPrice
                 CurrentPrice    = $game.price.totalPrice.fmtPrice.discountPrice
@@ -68,12 +74,16 @@ function Get-GameList {
     }
     else {
         foreach ($game in $games) {
+            $urlGame = $game.offerMappings.pageSlug
+            if ($null -eq $urlGame) {
+                $urlGame = $game.title.ToLower().replace(" ","-")
+            }
             $Collections.Add([PSCustomObject]@{
                 Title           = $game.title
                 Developer       = $game.developerDisplayName
                 Publisher       = $game.publisherDisplayName
                 Description     = $game.description
-                Url             = "https://store.epicgames.com/$region/p/$($game.offerMappings.pageSlug)"
+                Url             = "https://store.epicgames.com/$region/p/$urlGame"
                 ReleaseDate     = $game.releaseDate
                 FullPrice       = $game.price.totalPrice.fmtPrice.originalPrice
                 Discount        = [string]$([math]::Round((1 - ($($game.price.totalPrice.discountPrice) / $($game.price.totalPrice.originalPrice))) * 100, 2)) + " %"
@@ -155,15 +165,15 @@ Function ConvertTo-Markdown {
 
 ### Generated Markdown
 
-"## Giveaway" | Out-File index.md
+"## Giveaway:" | Out-File index.md
 $giveawayGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/giveaway"
 $giveawayGitHub | Select-Object -ExcludeProperty Description | ConvertTo-Markdown | Out-File index.md -Append
 
-"## Discount" | Out-File index.md -Append
+"## Discount:" | Out-File index.md -Append
 $discountGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/discount"
 $discountGitHub | Select-Object -ExcludeProperty Description | ConvertTo-Markdown | Out-File index.md -Append
 
-"## Free" | Out-File index.md -Append
+"## Free:" | Out-File index.md -Append
 $freeGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/free"
 $freeGitHub | Select-Object -ExcludeProperty Description | ConvertTo-Markdown | Out-File index.md -Append
 
@@ -175,30 +185,92 @@ $md = $(Get-Content index.md -Raw | ConvertFrom-Markdown).html
 $html = @"
 <!DOCTYPE html>
 <html>
-<head>
-    <style>
-        h2 {
-            color: #6495ED;
-        }
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin: auto;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #6495ED;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-$md
-</body>
+    <head>
+        <title>Epic Games Radar</title>
+        <style>
+            header {
+                background-color: #4051B5;
+                color: white;
+                text-align: center;
+                padding: 20px 0;
+                position: fixed;
+                width: 100%;
+                top: 0;
+                left: 0;
+                z-index: 1000;
+            }
+            header a {
+                color: white;
+                text-decoration: none;
+                font-size: 26px;
+            }
+            body {
+                margin: 0;
+                padding-top: 80px;
+                padding-left: 200px;
+                padding-right: 200px;
+            }
+            h2 {
+                color: #4051B5;
+            }
+            table {
+                border-collapse: collapse;
+                width: 100%;
+                margin: auto;
+                font-size: 14px;
+            }
+            th, td {
+                border: 1px solid black;
+                padding: 8px;
+                text-align: left;
+            }
+            th {
+                background-color: #6495ED;
+                color: white;
+            }
+            .scroll-to-top {
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                background-color: #6495ED;
+                color: #fff;
+                border: none;
+                border-radius: 50%;
+                width: 50px;
+                height: 50px;
+                font-size: 24px;
+                cursor: pointer;
+                display: none;
+                z-index: 1000;
+            }
+            .scroll-to-top:hover {
+                background-color: #4051B5;
+            }
+        </style>
+    </head>
+    <body>
+        <header onclick="window.location.href='https://lifailon.github.io/';">
+            <a href="https://lifailon.github.io/">PowerShell Commands</a>
+        </header>
+        <button class="scroll-to-top" onclick="scrollToTop()">↑</button>
+        <script>
+          function scrollToTop() {
+              window.scrollTo({
+                  top: 0,
+                  behavior: 'smooth'
+              });
+          }
+          window.onscroll = function() {
+              var scrollButton = document.querySelector('.scroll-to-top');
+              if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                  scrollButton.style.display = 'block';
+              } else {
+                  scrollButton.style.display = 'none';
+              }
+          };
+        </script>
+        $md
+    </body>
 </html>
 "@
 
