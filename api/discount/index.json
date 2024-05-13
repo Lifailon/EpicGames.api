@@ -1,17 +1,5 @@
 [
   {
-    "Title": "Dofamine",
-    "Developer": "Whale Rock Games",
-    "Publisher": "Whale Rock Games",
-    "Description": "You must explore the labyrinth of riddles and investigate the apocalyptic event at the research facility following the experiments with the Higgs boson, or “the God particle”.",
-    "Url": "https://store.epicgames.com/en-US/p/dofamine-ed4b81",
-    "ReleaseDate": "2024-05-12T09:00:00Z",
-    "FullPrice": "€4.49",
-    "Discount": "40.09 %",
-    "CurrentPrice": "€2.69",
-    "DiscountEndDate": "2024-05-19T09:00:00Z"
-  },
-  {
     "Title": "Cryptmaster",
     "Developer": "Paul Hart, Lee Williams, Akupara Games",
     "Publisher": "Akupara Games",
@@ -262,6 +250,18 @@
     "Discount": "60.03 %",
     "CurrentPrice": "€7.99",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "Steal, Then Just Escape",
+    "Developer": "ReTigma Studio",
+    "Publisher": "ReTigma Studio",
+    "Description": "A Horror Game that will give excitement also a fear at the same time.",
+    "Url": "https://store.epicgames.com/en-US/p/steal-then-just-escape-87b7b6",
+    "ReleaseDate": "2023-11-18T16:00:00Z",
+    "FullPrice": "€3.69",
+    "Discount": "60.16 %",
+    "CurrentPrice": "€1.47",
+    "DiscountEndDate": "2024-05-24T16:00:00Z"
   },
   {
     "Title": "Hide and Seek",
