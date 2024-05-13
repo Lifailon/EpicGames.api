@@ -156,19 +156,20 @@ Function ConvertTo-Markdown {
 ### Generated Markdown
 
 "## Giveaway" | Out-File index.md
-$giveawayGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/giveaway" | Select-Object Title,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate
-$giveawayGitHub | ConvertTo-Markdown | Out-File index.md -Append
+$giveawayGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/giveaway"
+$giveawayGitHub | Select-Object -ExcludeProperty Description | ConvertTo-Markdown | Out-File index.md -Append
 
 "## Discount" | Out-File index.md -Append
-$discountGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/discount" | Select-Object Title,Discount,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate
-$discountGitHub | ConvertTo-Markdown | Out-File index.md -Append
+$discountGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/discount"
+$discountGitHub | Select-Object -ExcludeProperty Description | ConvertTo-Markdown | Out-File index.md -Append
 
 "## Free" | Out-File index.md -Append
-$freeGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/free" | Select-Object Title,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate
-$freeGitHub | ConvertTo-Markdown | Out-File index.md -Append
+$freeGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/free"
+$freeGitHub | Select-Object -ExcludeProperty Description | ConvertTo-Markdown | Out-File index.md -Append
 
 
-# Markdown to HTML
+### Markdown to HTML
+
 $md = $(Get-Content index.md -Raw | ConvertFrom-Markdown).html
 
 $html = @"
@@ -176,9 +177,13 @@ $html = @"
 <html>
 <head>
     <style>
+        h2 {
+            color: #6495ED;
+        }
         table {
             border-collapse: collapse;
             width: 100%;
+            margin: auto;
         }
         th, td {
             border: 1px solid black;
@@ -186,7 +191,8 @@ $html = @"
             text-align: left;
         }
         th {
-            background-color: #f2f2f2;
+            background-color: #6495ED;
+            color: white;
         }
     </style>
 </head>
