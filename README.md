@@ -2,6 +2,8 @@
 
 This repository contains an up-to-date list of free games, discounts, and giveaways in the Epic Games store, updated with **GitHub Actions**. You can get game lists on the project 🌐 [Web Page](https://lifailon.github.io/epic-games-radar) or in `json` format via any REST API client.
 
+![Image alt](https://github.com/Lifailon/epic-games-radar/blob/rsa/image/web-page.jpg)
+
 ### 🚀 Static API (examples of requests)
 
 - 🔹 Endpoint: `/epic-games-radar/api/giveaway`
