@@ -56,12 +56,13 @@ function Get-GameList {
             $Collections.Add([PSCustomObject]@{
                 Title           = $game.title
                 Developer       = $game.developerDisplayName
-                publisher       = $game.publisherDisplayName
+                Publisher       = $game.publisherDisplayName
                 Description     = $game.description
                 Url             = "https://store.epicgames.com/$region/p/$($game.offerMappings.pageSlug)"
                 ReleaseDate     = $game.releaseDate
                 FullPrice       = $game.price.totalPrice.fmtPrice.originalPrice
                 CurrentPrice    = $game.price.totalPrice.fmtPrice.discountPrice
+                DiscountEndDate = $game.price.lineOffers.appliedRules.endDate
             })
         }
     }
@@ -70,25 +71,28 @@ function Get-GameList {
             $Collections.Add([PSCustomObject]@{
                 Title           = $game.title
                 Developer       = $game.developerDisplayName
-                publisher       = $game.publisherDisplayName
+                Publisher       = $game.publisherDisplayName
                 Description     = $game.description
                 Url             = "https://store.epicgames.com/$region/p/$($game.offerMappings.pageSlug)"
                 ReleaseDate     = $game.releaseDate
                 FullPrice       = $game.price.totalPrice.fmtPrice.originalPrice
                 Discount        = [string]$([math]::Round((1 - ($($game.price.totalPrice.discountPrice) / $($game.price.totalPrice.originalPrice))) * 100, 2)) + " %"
                 CurrentPrice    = $game.price.totalPrice.fmtPrice.discountPrice
+                DiscountEndDate = $game.price.lineOffers.appliedRules.endDate
             })
         }
     }
     $Collections
 }
 
-$Free = Get-GameList -Price tierFree -Region ru -Count 500
+### Save files
+
+$Free = Get-GameList -Price tierFree -Region en-US -Count 500
 if ($null -ne $Free) {
     $Free | ConvertTo-Json -Depth 10 | Out-File $pathFree
 }
 
-$Discount = Get-GameList -Price tierDiscouted -Region ru -Count 500
+$Discount = Get-GameList -Price tierDiscouted -Region en-US -Count 500
 if ($null -ne $Discount) {
     $Discount | ConvertTo-Json -Depth 10 | Out-File $pathDiscount
 }
@@ -97,3 +101,68 @@ $Giveaway = $Free | Where-Object FullPrice -ne 0
 if ($null -ne $Giveaway) {
     $Giveaway | ConvertTo-Json -Depth 10 | Out-File $pathGiveaway
 }
+
+Function ConvertTo-Markdown {
+    [CmdletBinding()]
+    [OutputType([string])]
+    Param (
+        [Parameter(
+            Mandatory = $true,
+            Position = 0,
+            ValueFromPipeline = $true
+        )]
+        [PSObject[]]$InputObject
+    )
+    Begin {
+        $items = @()
+        $columns = @{}
+    }
+    Process {
+        ForEach($item in $InputObject) {
+            $items += $item
+            $item.PSObject.Properties | ForEach-Object {
+                if($null -ne $_.Value) {
+                    if(-not $columns.ContainsKey($_.Name) -or $columns[$_.Name] -lt $_.Value.ToString().Length) {
+                        $columns[$_.Name] = $_.Value.ToString().Length
+                    }
+                }
+            }
+        }
+    }
+    End {
+        ForEach($key in $($columns.Keys)) {
+            $columns[$key] = [Math]::Max($columns[$key], $key.Length)
+        }
+        $header = @()
+        ForEach($key in $columns.Keys) {
+            $header += ('{0,-' + $columns[$key] + '}') -f $key
+        }
+        $header -join ' | '
+        $separator = @()
+        ForEach($key in $columns.Keys) {
+            $separator += '-' * $columns[$key]
+        }
+        $separator -join ' | '
+        ForEach($item in $items) {
+            $values = @()
+            ForEach($key in $columns.Keys) {
+                $values += ('{0,-' + $columns[$key] + '}') -f $item.($key)
+            }
+            $values -join ' | '
+        }
+    }
+}
+
+### Generate Markdown table
+
+"## Giveaway" | Out-File index.md
+$giveawayGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/giveaway"
+$giveawayGitHub | Select-Object Title,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate | ConvertTo-Markdown | Out-File index.md -Append
+
+"## Discount" | Out-File index.md -Append
+$discountGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/discount"
+$discountGitHub | Select-Object Title,Discount,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate | ConvertTo-Markdown | Out-File index.md -Append
+
+"## Free" | Out-File index.md -Append
+$freeGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/free"
+$freeGitHub | Select-Object Title,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate | ConvertTo-Markdown | Out-File index.md -Append
