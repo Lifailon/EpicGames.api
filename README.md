@@ -1,12 +1,12 @@
 # Epic Games Radar
 
-This repository contains an up-to-date list of free games, discounts, and giveaways in the Epic Games store, updated with **GitHub Actions**. You can get game lists on the project 🌐 [Web Page](https://lifailon.github.io/epic-games-radar) or in `json` format via any REST API client.
+This repository contains an up-to-date list of free games, discounts, and giveaways in the Epic Games store, updated every hour using **GitHub Actions**. You can get game lists on the project 🌐 [Web Page](https://lifailon.github.io/epic-games-radar) or in `json` format via any REST API client.
 
 ![Image alt](https://github.com/Lifailon/epic-games-radar/blob/rsa/image/web-page.jpg)
 
-### 🚀 Static API (examples of requests)
+## 🚀 Static API (examples of requests)
 
-- 🔹 Endpoint: `/epic-games-radar/api/giveaway`
+### 🔹 Endpoint: `/epic-games-radar/api/giveaway`
 
 ▶️ `$(Invoke-WebRequest "https://lifailon.github.io/epic-games-radar/api/giveaway").Content`
 
@@ -28,7 +28,7 @@ or
 }
 ```
 
-- 🔹 Endpoint: `/epic-games-radar/api/discount`
+### 🔹 Endpoint: `/epic-games-radar/api/discount`
 
 ▶️ `$(Invoke-WebRequest "https://lifailon.github.io/epic-games-radar/api/discount").Content`
 
@@ -66,7 +66,7 @@ or
 ]
 ```
 
-- 🔹 Endpoint: `/epic-games-radar/api/free`
+### 🔹 Endpoint: `/epic-games-radar/api/free`
 
 ▶️ `$(Invoke-WebRequest "https://lifailon.github.io/epic-games-radar/api/free").Content`
 
