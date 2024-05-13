@@ -97,14 +97,33 @@ function Get-GameList {
 
 ### Save json files (for api)
 
-$Free = Get-GameList -Price tierFree -Region en-US -Count 500
-if ($null -ne $Free) {
-    $Free | ConvertTo-Json -Depth 10 | Out-File $pathFree
-}
-
-$Discount = Get-GameList -Price tierDiscouted -Region en-US -Count 500
-if ($null -ne $Discount) {
-    $Discount | ConvertTo-Json -Depth 10 | Out-File $pathDiscount
+switch (Get-Random -InputObject @(1, 2)) {
+    1 {
+        $Free = Get-GameList -Price tierFree -Region en-US -Count 500
+        if ($null -ne $Free) {
+            $Free | ConvertTo-Json -Depth 10 | Out-File $pathFree
+        }
+        
+        Start-Sleep $(Get-Random -Minimum 15 -Maximum 45)
+        
+        $Discount = Get-GameList -Price tierDiscouted -Region en-US -Count 500
+        if ($null -ne $Discount) {
+            $Discount | ConvertTo-Json -Depth 10 | Out-File $pathDiscount
+        }
+    }
+    2 {
+        $Discount = Get-GameList -Price tierDiscouted -Region en-US -Count 500
+        if ($null -ne $Discount) {
+            $Discount | ConvertTo-Json -Depth 10 | Out-File $pathDiscount
+        }
+        
+        Start-Sleep $(Get-Random -Minimum 15 -Maximum 45)
+        
+        $Free = Get-GameList -Price tierFree -Region en-US -Count 500
+        if ($null -ne $Free) {
+            $Free | ConvertTo-Json -Depth 10 | Out-File $pathFree
+        }
+    }
 }
 
 $Giveaway = $Free | Where-Object FullPrice -ne 0
