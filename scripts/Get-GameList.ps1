@@ -223,10 +223,22 @@ $html = @"
                 border: 1px solid black;
                 padding: 8px;
                 text-align: left;
+                cursor: pointer;
             }
             th {
                 background-color: #6495ED;
                 color: white;
+                cursor: pointer;
+                transition: background-color 0.3s;
+            }
+            th:hover {
+                background-color: #4051B5;
+            }
+            .ascending::after {
+                content: " ▲";
+            }
+            .descending::after {
+                content: " ▼";
             }
             .scroll-to-top {
                 position: fixed;
@@ -250,24 +262,76 @@ $html = @"
     </head>
     <body>
         <header onclick="window.location.href='https://lifailon.github.io/';">
-            <a href="https://lifailon.github.io/">PowerShell Commands</a>
+            <a href="https://lifailon.github.io">Home</a>
+            <span> 🔹 </span>
+            <a href="https://lifailon.github.io/epic-games-radar">Epic Games Radar</a>
         </header>
         <button class="scroll-to-top" onclick="scrollToTop()">↑</button>
         <script>
-          function scrollToTop() {
-              window.scrollTo({
-                  top: 0,
-                  behavior: 'smooth'
-              });
-          }
-          window.onscroll = function() {
-              var scrollButton = document.querySelector('.scroll-to-top');
-              if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                  scrollButton.style.display = 'block';
-              } else {
-                  scrollButton.style.display = 'none';
-              }
-          };
+            function scrollToTop() {
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+            }
+            window.onscroll = function() {
+                var scrollButton = document.querySelector('.scroll-to-top');
+                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                    scrollButton.style.display = 'block';
+                } else {
+                    scrollButton.style.display = 'none';
+                }
+            };
+            document.addEventListener("DOMContentLoaded", function() {
+                var tableLinks = document.querySelectorAll("table a");
+                tableLinks.forEach(function(link) {
+                    link.setAttribute("target", "_blank");
+                });
+            });
+            document.addEventListener("DOMContentLoaded", function() {
+                var tables = document.querySelectorAll("table");
+                tables.forEach(function(table) {
+                    makeTableSortable(table);
+                });
+            });
+            function makeTableSortable(table) {
+                var headers = table.querySelectorAll("th");
+                headers.forEach(function(header, index) {
+                    header.addEventListener("click", function() {
+                        sortTable(table, index);
+                    });
+                });
+            }
+            function sortTable(table, columnIndex) {
+                var rows = Array.from(table.rows).slice(1);
+                var ascending = !table.rows[0].cells[columnIndex].classList.contains("ascending");
+                rows.sort(function(rowA, rowB) {
+                    var cellA = rowA.cells[columnIndex].textContent.trim();
+                    var cellB = rowB.cells[columnIndex].textContent.trim();
+                    return ascending ? cellA.localeCompare(cellB) : cellB.localeCompare(cellA);
+                });
+                rows.forEach(function(row) {
+                    table.appendChild(row);
+                });
+                updateHeaderClasses(table, columnIndex, ascending);
+            }
+            function updateHeaderClasses(table, columnIndex, ascending) {
+                var headers = table.querySelectorAll("th");
+                headers.forEach(function(header, index) {
+                    if (index === columnIndex) {
+                        if (ascending) {
+                            header.classList.add("ascending");
+                            header.classList.remove("descending");
+                        } else {
+                            header.classList.add("descending");
+                            header.classList.remove("ascending");
+                        }
+                    } else {
+                        header.classList.remove("ascending");
+                        header.classList.remove("descending");
+                    }
+                });
+            }
         </script>
         $md
     </body>
