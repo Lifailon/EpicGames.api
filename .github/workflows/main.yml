@@ -1,9 +1,9 @@
-name: build-free-games-list
+name: build-game-list
 
 on:
   workflow_dispatch:
 #  schedule:
-#    - cron: '00 00 * * *'
+#    - cron: '00 * * * *'
 
 jobs:
   Job_01:

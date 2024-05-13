@@ -85,7 +85,7 @@ function Get-GameList {
     $Collections
 }
 
-### Save files
+### Save json files (for api)
 
 $Free = Get-GameList -Price tierFree -Region en-US -Count 500
 if ($null -ne $Free) {
@@ -153,16 +153,47 @@ Function ConvertTo-Markdown {
     }
 }
 
-### Generate Markdown table
+### Generated Markdown
 
 "## Giveaway" | Out-File index.md
-$giveawayGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/giveaway"
-$giveawayGitHub | Select-Object Title,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate | ConvertTo-Markdown | Out-File index.md -Append
+$giveawayGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/giveaway" | Select-Object Title,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate
+$giveawayGitHub | ConvertTo-Markdown | Out-File index.md -Append
 
 "## Discount" | Out-File index.md -Append
-$discountGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/discount"
-$discountGitHub | Select-Object Title,Discount,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate | ConvertTo-Markdown | Out-File index.md -Append
+$discountGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/discount" | Select-Object Title,Discount,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate
+$discountGitHub | ConvertTo-Markdown | Out-File index.md -Append
 
 "## Free" | Out-File index.md -Append
-$freeGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/free"
-$freeGitHub | Select-Object Title,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate | ConvertTo-Markdown | Out-File index.md -Append
+$freeGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/free" | Select-Object Title,CurrentPrice,FullPrice,DiscountEndDate,Developer,Publisher,Url,ReleaseDate
+$freeGitHub | ConvertTo-Markdown | Out-File index.md -Append
+
+
+# Markdown to HTML
+$md = $(Get-Content index.md -Raw | ConvertFrom-Markdown).html
+
+$html = @"
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+$md
+</body>
+</html>
+"@
+
+$html | Out-File "index.html"
