@@ -1,10 +1,11 @@
 {
   "Title": "Circus Electrique",
   "Developer": "Zen Studios",
-  "publisher": "Saber Interactive",
-  "Description": "Circus Electrique — это отчасти сюжетная ролевая игра, отчасти боевая тактика, отчасти симулятор управления цирком. Но, самое главное, это игра, от которой невозможно оторваться. Когда лондонские обыватели ни с того, ни с сего вдруг начинают превращаться в безжалостных убийц, судьба города оказывается в умелых руках талантливых цирковых артистов. ",
-  "Url": "https://store.epicgames.com/ru/p/",
+  "Publisher": "Saber Interactive",
+  "Description": "Circus Electrique is part story-driven RPG, part tactics, part circus management, and completely enthralling. When everyday Londoners mysteriously turn into vicious killers, only the show’s talented performers possess the skills necessary to save the city. ",
+  "Url": "https://store.epicgames.com/en-US/p/",
   "ReleaseDate": "2022-09-06T15:00:00Z",
-  "FullPrice": "19,99 $",
-  "CurrentPrice": "0"
+  "FullPrice": "$19.99",
+  "CurrentPrice": "0",
+  "DiscountEndDate": "2024-05-16T15:00:00Z"
 }
