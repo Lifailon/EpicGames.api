@@ -42,10 +42,6 @@ function Get-GameList {
     }
     $content = $response.Content
 
-    # Write-Host "---------------------- Content ----------------------"
-    # Write-Host $content
-    # Write-Host "---------------------- Content ------------------------"
-
     # Get json from html
     $json = $($($($content -split "__REACT_QUERY_INITIAL_QUERIES__ = ")[1] -split "window.server_rendered")[0] -replace ";")
     # Data filtering
@@ -99,30 +95,38 @@ function Get-GameList {
 
 switch (Get-Random -InputObject @(1, 2)) {
     1 {
+        Write-Host "---------------------- Start function Free ---------------------------"
         $Free = Get-GameList -Price tierFree -Region en-US -Count 500
         if ($null -ne $Free) {
             $Free | ConvertTo-Json -Depth 10 | Out-File $pathFree
         }
+        Write-Host "---------------------- End function Free -----------------------------"
         
         Start-Sleep $(Get-Random -Minimum 15 -Maximum 45)
-        
+
+        Write-Host "---------------------- Start function Discouted ----------------------"
         $Discount = Get-GameList -Price tierDiscouted -Region en-US -Count 500
         if ($null -ne $Discount) {
             $Discount | ConvertTo-Json -Depth 10 | Out-File $pathDiscount
         }
+        Write-Host "---------------------- End function Discouted ------------------------"
     }
     2 {
+        Write-Host "---------------------- Start function Discouted ----------------------"
         $Discount = Get-GameList -Price tierDiscouted -Region en-US -Count 500
         if ($null -ne $Discount) {
             $Discount | ConvertTo-Json -Depth 10 | Out-File $pathDiscount
         }
+        Write-Host "---------------------- End function Discouted ------------------------"
         
         Start-Sleep $(Get-Random -Minimum 15 -Maximum 45)
         
+        Write-Host "---------------------- Start function Free ---------------------------"
         $Free = Get-GameList -Price tierFree -Region en-US -Count 500
         if ($null -ne $Free) {
             $Free | ConvertTo-Json -Depth 10 | Out-File $pathFree
         }
+        Write-Host "---------------------- End function Free -----------------------------"
     }
 }
 
