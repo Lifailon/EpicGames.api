@@ -218,6 +218,7 @@ $html = @"
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
         <title>Epic Games Radar</title>
         <style>
             header {
@@ -289,6 +290,22 @@ $html = @"
             }
             .scroll-to-top:hover {
                 background-color: #4051B5;
+            }
+            @media screen and (max-width: 800px) {
+                header a {
+                    font-size: 46px;
+                }
+                body {
+                    padding-left: 20px;
+                    padding-right: 20px;
+                }
+                table {
+                    font-size: 24px;
+                    border-collapse: collapse;
+                    width: 100%;
+                    margin: auto;
+                    overflow-x: auto;
+                }
             }
         </style>
     </head>
