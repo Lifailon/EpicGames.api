@@ -1,41 +1,5 @@
 [
   {
-    "Title": "The Land Beneath Us",
-    "Developer": "FairPlay Studios",
-    "Publisher": "Dear Villagers",
-    "Description": "The Land Beneath Us: A turn-based rogue-lite dungeon crawler rooted in Welsh mythology. Unleash skill combos and wield stylish weaponry in Annwn's Underworld. Conquer the Seven Lords, save The Creator, and retrieve vital Soul-Tech.",
-    "Url": "https://store.epicgames.com/en-US/p/the-land-beneath-us-85394f",
-    "ReleaseDate": "2024-05-13T15:00:00Z",
-    "FullPrice": "$14.99",
-    "CurrentPrice": "$11.99",
-    "Discount": "20.01 %",
-    "DiscountEndDate": "2024-05-20T15:00:00Z"
-  },
-  {
-    "Title": "Fabledom",
-    "Developer": "Grenaa Games",
-    "Publisher": "Dear Villagers",
-    "Description": "Set in a wholesome fairytale world, Fabledom is a laid-back City builder. Enjoy the growth of your settlement, interact with your neighbors and defend your kingdom from magical creatures. All to find true love and live happily ever after!",
-    "Url": "https://store.epicgames.com/en-US/p/fabledom-6d35f7",
-    "ReleaseDate": "2024-05-13T13:00:00Z",
-    "FullPrice": "$20.99",
-    "CurrentPrice": "$13.64",
-    "Discount": "35.02 %",
-    "DiscountEndDate": "2024-05-20T13:00:00Z"
-  },
-  {
-    "Title": "Dofamine",
-    "Developer": "Whale Rock Games",
-    "Publisher": "Whale Rock Games",
-    "Description": "You must explore the labyrinth of riddles and investigate the apocalyptic event at the research facility following the experiments with the Higgs boson, or “the God particle”.",
-    "Url": "https://store.epicgames.com/en-US/p/dofamine-ed4b81",
-    "ReleaseDate": "2024-05-12T09:00:00Z",
-    "FullPrice": "$4.99",
-    "CurrentPrice": "$2.99",
-    "Discount": "40.08 %",
-    "DiscountEndDate": "2024-05-19T09:00:00Z"
-  },
-  {
     "Title": "Dying Light: Standard Edition",
     "Developer": "Techland",
     "Publisher": "Techland",
