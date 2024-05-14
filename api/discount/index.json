@@ -1,14 +1,38 @@
 [
   {
+    "Title": "Dying Light: Standard Edition",
+    "Developer": "Techland",
+    "Publisher": "Techland",
+    "Description": "Survive in a city beset by a zombie virus! Discover the hard choices you will have to make on your secret mission. Will loyalty to your superiors prove stronger than the will to save the survivors? The choice is yours…",
+    "Url": "https://store.epicgames.com/en-US/p/dying-light:-standard-edition",
+    "ReleaseDate": "2024-05-09T17:00:00Z",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$2.99",
+    "Discount": "85.04 %",
+    "DiscountEndDate": "2024-05-16T16:00:00Z"
+  },
+  {
     "Title": "Cryptmaster",
     "Developer": "Paul Hart, Lee Williams, Akupara Games",
     "Publisher": "Akupara Games",
     "Description": "SAY ANYTHING in this bizarre dungeon adventure where words control everything. Fill in the blanks with text or voice to uncover lost abilities, solve strange quests, and play unexpected mini-games. Use your words to conquer the crypt and unleash a whole new kind of spell casting.",
     "Url": "https://store.epicgames.com/en-US/p/cryptmaster-6468dc",
     "ReleaseDate": "2024-05-09T16:00:00Z",
-    "FullPrice": "RUB 749.00",
-    "CurrentPrice": "RUB 674.10",
+    "FullPrice": "$24.99",
+    "CurrentPrice": "$22.49",
     "Discount": "10 %",
+    "DiscountEndDate": "2024-05-16T16:00:00Z"
+  },
+  {
+    "Title": "Crown Trick",
+    "Developer": "NEXT Studios",
+    "Publisher": "Team17",
+    "Description": "Enter a labyrinth that moves as you move, where mastering the elements is key to defeating enemies and uncovering the mysteries of this underground world. Let the power of the crown guide you!",
+    "Url": "https://store.epicgames.com/en-US/p/crown-trick-11494d",
+    "ReleaseDate": "2024-05-09T16:00:00Z",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$11.99",
+    "Discount": "40.02 %",
     "DiscountEndDate": "2024-05-16T16:00:00Z"
   },
   {
@@ -18,9 +42,9 @@
     "Description": "1000xRESIST is a thrilling sci-fi adventure. The year is unknown, and a disease spread by an alien invasion keeps you underground. You are Watcher. You dutifully fulfil your purpose in serving the ALLMOTHER, until the day you discover a shocking secret that changes everything.",
     "Url": "https://store.epicgames.com/en-US/p/1000xresist-fd0537",
     "ReleaseDate": "2024-05-09T15:00:00Z",
-    "FullPrice": "RUB 599.00",
-    "CurrentPrice": "RUB 539.10",
-    "Discount": "10 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$17.99",
+    "Discount": "10.01 %",
     "DiscountEndDate": "2024-05-16T05:59:00Z"
   },
   {
@@ -30,9 +54,9 @@
     "Description": "Prove your ability to read names next to the big red buttons! Show your ability to fight for life in a science center that is falling apart from the consequences of an insane scientific experiment!",
     "Url": "https://store.epicgames.com/en-US/p/cybernetic-fault-b05740",
     "ReleaseDate": "2024-05-09T09:00:00Z",
-    "FullPrice": "RUB 150.00",
-    "CurrentPrice": "RUB 90.00",
-    "Discount": "40 %",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$2.99",
+    "Discount": "40.08 %",
     "DiscountEndDate": "2024-05-16T09:00:00Z"
   },
   {
@@ -42,10 +66,34 @@
     "Description": "The ability to discern hidden connections is both a gift and a curse. The covert mechanisms of reality do not reveal themselves to any and all, and there is a price to pay for this knowledge…",
     "Url": "https://store.epicgames.com/en-US/p/euphoria-supreme-mechanics-590b33",
     "ReleaseDate": "2024-05-09T09:00:00Z",
-    "FullPrice": "RUB 150.00",
-    "CurrentPrice": "RUB 90.00",
-    "Discount": "40 %",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$2.99",
+    "Discount": "40.08 %",
     "DiscountEndDate": "2024-05-16T09:00:00Z"
+  },
+  {
+    "Title": "Cross Tails",
+    "Developer": "Rideon,Inc.",
+    "Publisher": "KEMCO",
+    "Description": "What will the tails witness after a crossing tale? A tactical RPG that portrays a fantasy story of a war between the canine and the feline tribes playable from both points of view.",
+    "Url": "https://store.epicgames.com/en-US/p/cross-tails-47ab3f",
+    "ReleaseDate": "2024-05-09T00:00:00Z",
+    "FullPrice": "$29.99",
+    "CurrentPrice": "$23.99",
+    "Discount": "20.01 %",
+    "DiscountEndDate": "2024-05-15T23:59:00Z"
+  },
+  {
+    "Title": "Parkour Legends",
+    "Developer": "Enter Grip",
+    "Publisher": "Enter Grip",
+    "Description": "A 2D parkour game with air-tight controls, inspired by the thrill of movement and momentum in free running. Vault, sprint, run across walls, rebound, grab ledges, slide, and roll under obstacles to complete hundreds of hand-crafted courses as quickly and stylishly as possible.",
+    "Url": "https://store.epicgames.com/en-US/p/parkour-legends-d71c32",
+    "ReleaseDate": "2024-05-08T10:00:00Z",
+    "FullPrice": "$14.99",
+    "CurrentPrice": "$13.49",
+    "Discount": "10.01 %",
+    "DiscountEndDate": "2024-05-15T10:00:00Z"
   },
   {
     "Title": "Womanizer",
@@ -54,10 +102,46 @@
     "Description": "The charming heartthrob made a bet with his best friend that within a week he would put five girls from the city's rhythmic gymnastics team, which had recently won national competitions, into bed. Will Victor win the bet on the lives of the girls?",
     "Url": "https://store.epicgames.com/en-US/p/womanizer-a847b6",
     "ReleaseDate": "2024-04-30T00:00:00Z",
-    "FullPrice": "RUB 270.00",
-    "CurrentPrice": "RUB 243.00",
-    "Discount": "10 %",
+    "FullPrice": "$8.99",
+    "CurrentPrice": "$8.09",
+    "Discount": "10.01 %",
     "DiscountEndDate": "2024-05-15T23:00:00Z"
+  },
+  {
+    "Title": "Last Hope Bunker: Zombie Survival",
+    "Developer": "ArtDock",
+    "Publisher": "ArtDock",
+    "Description": "You wake up in a bunker! The Earth became a battlefield. Dangerous creatures at every turn. We give you everything you need: medicine, weapons, shelter. Your task is to find your family. And please try to survive in this post-apocalypse.",
+    "Url": "https://store.epicgames.com/en-US/p/last-hope-bunker-zombie-survival-92a49d",
+    "ReleaseDate": "2024-04-09T09:00:00Z",
+    "FullPrice": "$6.99",
+    "CurrentPrice": "$2.79",
+    "Discount": "60.09 %",
+    "DiscountEndDate": "2024-05-30T21:00:00Z"
+  },
+  {
+    "Title": "Repression",
+    "Developer": "MP Inventions",
+    "Publisher": "MP Inventions",
+    "Description": "Embark on a thrilling prehistoric adventure! Harvest resources, form tribes, build bases, survive against dinosaurs, and battle other players. Test your skills, conquer the wilderness, and prove your dominance in this action-packed game! Play now for the ultimate challenge!",
+    "Url": "https://store.epicgames.com/en-US/p/repression-28d3dc",
+    "ReleaseDate": "2024-03-31T00:00:00Z",
+    "FullPrice": "$24.99",
+    "CurrentPrice": "$17.49",
+    "Discount": "30.01 %",
+    "DiscountEndDate": "2024-05-17T08:00:00Z"
+  },
+  {
+    "Title": "We Are Not Alone",
+    "Developer": "Stasis Booth Games Pty. Ltd.",
+    "Publisher": "Stasis Booth Games Pty. Ltd.",
+    "Description": "A new twist on horror that combines first person exploration and third person point and click adventure. As a member of a \"safe\" isolation experiment you'll explore an underground facility, solve puzzles and uncover the mystery of an unknown creature. Just don't make eye contact.",
+    "Url": "https://store.epicgames.com/en-US/p/we-are-not-alone-0afd5f",
+    "ReleaseDate": "2024-03-31T00:00:00Z",
+    "FullPrice": "$14.99",
+    "CurrentPrice": "$11.99",
+    "Discount": "20.01 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
     "Title": "The Wraith of the Galaxy",
@@ -66,22 +150,22 @@
     "Description": "The Wraith of the Galaxy is a third-person space combat game. Aliens have taken over outer space in order to conduct experiments on entire planets. Destroy them or they will destroy you.",
     "Url": "https://store.epicgames.com/en-US/p/the-wraith-of-the-galaxy-ac9fc1",
     "ReleaseDate": "2024-03-17T22:00:00Z",
-    "FullPrice": "RUB 150.00",
-    "CurrentPrice": "RUB 45.00",
-    "Discount": "70 %",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$1.49",
+    "Discount": "70.14 %",
     "DiscountEndDate": "2024-05-31T09:00:00Z"
   },
   {
-    "Title": "Never Synth",
-    "Developer": "Whale Rock Games",
-    "Publisher": "Whale Rock Games",
-    "Description": "NeverSynth is a 3rd person game that is a rhythm driving simulator. This game is a dynamic action game in which you have to drive a car to rhythmic music and collect beats. The more beats you collect, the more game points you earn.",
-    "Url": "https://store.epicgames.com/en-US/p/never-synth-403a04",
-    "ReleaseDate": "2024-03-05T22:00:00Z",
-    "FullPrice": "RUB 90.00",
-    "CurrentPrice": "RUB 27.00",
-    "Discount": "70 %",
-    "DiscountEndDate": "2024-05-14T09:00:00Z"
+    "Title": "Argonauts Agency: Glove of Midas",
+    "Developer": "Workroom7",
+    "Publisher": "8Floor ltd",
+    "Description": "The Argonauts Agency – Experiments with a magical glove lead to a hilarious blunder!",
+    "Url": "https://store.epicgames.com/en-US/p/argonauts-agency-glove-of-midas-94bca3",
+    "ReleaseDate": "2024-02-16T21:00:00Z",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$1.49",
+    "Discount": "70.14 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
     "Title": "Street Fighting Simulator",
@@ -90,9 +174,9 @@
     "Description": "Some strange guys from the next street came to your neighborhood, kick them out.",
     "Url": "https://store.epicgames.com/en-US/p/street-fighting-simulator-40f23a",
     "ReleaseDate": "2024-02-15T22:00:00Z",
-    "FullPrice": "RUB 30.00",
-    "CurrentPrice": "RUB 15.00",
-    "Discount": "50 %",
+    "FullPrice": "$0.99",
+    "CurrentPrice": "$0.49",
+    "Discount": "50.51 %",
     "DiscountEndDate": "2024-05-29T22:00:00Z"
   },
   {
@@ -102,9 +186,9 @@
     "Description": "In the deserted streets of a night city, in a dark forest or in abandoned buildings you can sometimes meet a strange dancing girl in black clothes. If you dare to approach her, she will chase after you and then nothing can save you.",
     "Url": "https://store.epicgames.com/en-US/p/serbian-dancing-lady-94e658",
     "ReleaseDate": "2024-02-10T03:00:00Z",
-    "FullPrice": "RUB 30.00",
-    "CurrentPrice": "RUB 15.00",
-    "Discount": "50 %",
+    "FullPrice": "$0.99",
+    "CurrentPrice": "$0.49",
+    "Discount": "50.51 %",
     "DiscountEndDate": "2024-05-29T22:00:00Z"
   },
   {
@@ -114,10 +198,46 @@
     "Description": "Single player action third-person shooter game set in a sci-fi world",
     "Url": "https://store.epicgames.com/en-US/p/lilaina-space-bounty-hunter-dcf0d4",
     "ReleaseDate": "2024-02-07T03:00:00Z",
-    "FullPrice": "RUB 60.00",
-    "CurrentPrice": "RUB 45.00",
-    "Discount": "25 %",
+    "FullPrice": "$1.99",
+    "CurrentPrice": "$1.49",
+    "Discount": "25.13 %",
     "DiscountEndDate": "2024-05-24T22:00:00Z"
+  },
+  {
+    "Title": "Travel Cuisine Collector's Edition",
+    "Developer": "GameOn Production",
+    "Publisher": "8Floor ltd",
+    "Description": "Travel cuisine - is an interesting strategy game about an aspiring couple of restaurateurs in an exciting competition.",
+    "Url": "https://store.epicgames.com/en-US/p/travel-cuisine-collectors-edition-f24880",
+    "ReleaseDate": "2024-01-11T21:00:00Z",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$2.99",
+    "Discount": "40.08 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "Garden City",
+    "Developer": "8floor ltd",
+    "Publisher": "8Floor ltd",
+    "Description": "Garden City – an exciting strategy game set in park landscapes.",
+    "Url": "https://store.epicgames.com/en-US/p/garden-city-c73d37",
+    "ReleaseDate": "2024-01-05T21:00:00Z",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$2.99",
+    "Discount": "40.08 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "TrekkingAndCamping",
+    "Developer": "Hont",
+    "Publisher": "Hont",
+    "Description": "Trekking and Camping is a climbing-themed walking simulation game that tells the daily adventures of the protagonist named Allen.",
+    "Url": "https://store.epicgames.com/en-US/p/trekkingandcamping-655909",
+    "ReleaseDate": "2023-12-04T00:00:00Z",
+    "FullPrice": "$1.99",
+    "CurrentPrice": "$1.29",
+    "Discount": "35.18 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
     "Title": "1428: Shadows over Silesia",
@@ -126,10 +246,34 @@
     "Description": "Medieval Europe is in the middle of religious upheaval and many a preacher predict the imminent end of the world. Immerse yourself in a dark fantasy story with true historical events in the background. You'll be facing intricate puzzles, challenging battles and cunning stealth.",
     "Url": "https://store.epicgames.com/en-US/p/1428-shadows-over-silesia-266e5f",
     "ReleaseDate": "2023-12-01T14:00:00Z",
-    "FullPrice": "RUB 799.00",
-    "CurrentPrice": "RUB 319.60",
-    "Discount": "60 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$7.99",
+    "Discount": "60.03 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "Steal, Then Just Escape",
+    "Developer": "ReTigma Studio",
+    "Publisher": "ReTigma Studio",
+    "Description": "A Horror Game that will give excitement also a fear at the same time.",
+    "Url": "https://store.epicgames.com/en-US/p/steal-then-just-escape-87b7b6",
+    "ReleaseDate": "2023-11-18T16:00:00Z",
+    "FullPrice": "$3.99",
+    "CurrentPrice": "$1.59",
+    "Discount": "60.15 %",
+    "DiscountEndDate": "2024-05-24T16:00:00Z"
+  },
+  {
+    "Title": "Hide and Seek",
+    "Developer": "HIDY GAME",
+    "Publisher": "HIDY GAME",
+    "Description": "Description is not set",
+    "Url": "https://store.epicgames.com/en-US/p/hide-and-seek-9e0912",
+    "ReleaseDate": "2023-11-17T18:00:00Z",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$3.74",
+    "Discount": "25.05 %",
+    "DiscountEndDate": "2024-05-24T21:00:00Z"
   },
   {
     "Title": "ELECTRON ZARAFTOR",
@@ -138,9 +282,9 @@
     "Description": "Sam is an artificial intelligence drone, programmed by Rebecca, designed and built by the US army.\nConnected to the army database,\nSam start asking questions from the archive.\nAnd accessed the wrong file.",
     "Url": "https://store.epicgames.com/en-US/p/electron-zaraftor-751dfc",
     "ReleaseDate": "2023-11-10T12:00:00Z",
-    "FullPrice": "RUB 749.00",
-    "CurrentPrice": "RUB 59.92",
-    "Discount": "92 %",
+    "FullPrice": "$24.99",
+    "CurrentPrice": "$1.99",
+    "Discount": "92.04 %",
     "DiscountEndDate": "2024-05-16T08:00:00Z"
   },
   {
@@ -150,9 +294,9 @@
     "Description": "ANONYMOUS HUNTING SIMULATOR is a dynamic first-person shooter. Your task is to explore the location and collect ten masks to complete the level.",
     "Url": "https://store.epicgames.com/en-US/p/anonymous-hunting-simulator-5eac14",
     "ReleaseDate": "2023-11-10T10:00:00Z",
-    "FullPrice": "RUB 30.00",
-    "CurrentPrice": "RUB 15.00",
-    "Discount": "50 %",
+    "FullPrice": "$0.99",
+    "CurrentPrice": "$0.49",
+    "Discount": "50.51 %",
     "DiscountEndDate": "2024-05-24T22:00:00Z"
   },
   {
@@ -162,9 +306,9 @@
     "Description": "A top-down Roguelite Bullethell where you kill thousands of Bugs! Get up to 5 Automatic firing Weapons, and a Controllable Weapon too. Slay Bugs, Get Upgrades, and Kill More.  Pick from 3 Upgrade Cards on Level Up, choose correctly may your choice bring great damage and glory.",
     "Url": "https://store.epicgames.com/en-US/p/entomophobia-5e766c",
     "ReleaseDate": "2023-10-31T00:00:00Z",
-    "FullPrice": "RUB 90.00",
-    "CurrentPrice": "RUB 72.00",
-    "Discount": "20 %",
+    "FullPrice": "$2.99",
+    "CurrentPrice": "$2.39",
+    "Discount": "20.07 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -174,10 +318,58 @@
     "Description": "The main characters of modern games can be very different. Brave knights, brilliant scientists or superheroes saving entire worlds. This game offers you a more unusual experience. Here you can become a Birch.",
     "Url": "https://store.epicgames.com/en-US/p/birch-simulator-21969e",
     "ReleaseDate": "2023-10-26T16:00:00Z",
-    "FullPrice": "RUB 30.00",
-    "CurrentPrice": "RUB 15.00",
-    "Discount": "50 %",
+    "FullPrice": "$0.99",
+    "CurrentPrice": "$0.49",
+    "Discount": "50.51 %",
     "DiscountEndDate": "2024-05-19T22:00:00Z"
+  },
+  {
+    "Title": "Griddlers Victorian Picnic",
+    "Developer": "Big Up Studio",
+    "Publisher": "8Floor ltd",
+    "Description": "Take a trip to wonderful England! 120 fun levels in Nonogram Victorian Picnic!",
+    "Url": "https://store.epicgames.com/en-US/p/griddlers-victorian-picnic-fcc2ab",
+    "ReleaseDate": "2023-10-24T21:00:00Z",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$1.49",
+    "Discount": "70.14 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "Sakura Day Mahjong",
+    "Developer": "Creobit",
+    "Publisher": "8Floor ltd",
+    "Description": "Travel around mysterious Asia! Visit the lost Wind Valley. Gaze into the waters of the magical Emerald Waterfall and don’t get lost in the Imperial Garden.",
+    "Url": "https://store.epicgames.com/en-US/p/sakura-day-mahjong-007b44",
+    "ReleaseDate": "2023-10-11T01:00:00Z",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$3.49",
+    "Discount": "30.06 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "1001 Jigsaw Cute Cats",
+    "Developer": "Creobit",
+    "Publisher": "8Floor ltd",
+    "Description": "A new game in the series of 1001 Puzzles. Cute, funny, cozy cats will melt even the coldest hearts! Assemble the puzzle pieces and enjoy the cute faces of pets.",
+    "Url": "https://store.epicgames.com/en-US/p/1001-jigsaw-cute-cats-36eb93",
+    "ReleaseDate": "2023-10-02T02:00:00Z",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$2.49",
+    "Discount": "50.1 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "Mysteries of the Undead",
+    "Developer": "GO! Games",
+    "Publisher": "8Floor ltd",
+    "Description": "Demystify the zombie island and break the ancient curse! What was the reason for the disaster - virus or magic?",
+    "Url": "https://store.epicgames.com/en-US/p/mysteries-of-the-undead-46140a",
+    "ReleaseDate": "2023-10-02T00:00:00Z",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$2.49",
+    "Discount": "50.1 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
     "Title": "Mystery in the Office",
@@ -186,10 +378,22 @@
     "Description": "Escape from a mysteriously locked office in this immersive and humorous text-based game. Experience the consequences of terrible management as you investigate interactive rooms, unlock the exit, and unravel the mystery of why the office was abandoned.",
     "Url": "https://store.epicgames.com/en-US/p/mystery-in-the-office-f629ad",
     "ReleaseDate": "2023-09-28T17:00:00Z",
-    "FullPrice": "RUB 82.00",
-    "CurrentPrice": "RUB 41.00",
-    "Discount": "50 %",
+    "FullPrice": "$1.99",
+    "CurrentPrice": "$0.99",
+    "Discount": "50.25 %",
     "DiscountEndDate": "2024-05-23T16:00:00Z"
+  },
+  {
+    "Title": "Enchanted Portals",
+    "Developer": "Xixo Games Studio",
+    "Publisher": "Xixo Games Studio",
+    "Description": "Bobby and Penny, rookie magicians, enter an adventure to get back to their dimension and retrieve the Magic Book in Enchanted Portals, a co-op 2D platformer.",
+    "Url": "https://store.epicgames.com/en-US/p/enchanted-portals-65ca68",
+    "ReleaseDate": "2023-09-26T11:00:00Z",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$11.99",
+    "Discount": "40.02 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
     "Title": "Road Defense: Outsiders",
@@ -198,9 +402,9 @@
     "Description": "Protect vehicles on the road and survive! Road Defense: Outsiders is a game that combines elements of the 'roguelike' and 'tower defense' genres. Upgrade the towers and your own skills to be able to annihilate all the life around you!",
     "Url": "https://store.epicgames.com/en-US/p/road-defense-outsiders-22e4ba",
     "ReleaseDate": "2023-09-22T19:00:00Z",
-    "FullPrice": "RUB 125.00",
-    "CurrentPrice": "RUB 100.00",
-    "Discount": "20 %",
+    "FullPrice": "$2.99",
+    "CurrentPrice": "$2.39",
+    "Discount": "20.07 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -210,9 +414,9 @@
     "Description": "An all new dice-deck-building roguelike, Astrea, has you chart a path through the ruins of a lost civilization as one of six brave Oracles. Using an ever-changing deck of dice and enchanted Sentinels, Purify waves of Corrupted foes and a decayed goddess to save the Star System.",
     "Url": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
     "ReleaseDate": "2023-09-21T16:00:00Z",
-    "FullPrice": "RUB 749.00",
-    "CurrentPrice": "RUB 599.20",
-    "Discount": "20 %",
+    "FullPrice": "$24.99",
+    "CurrentPrice": "$19.99",
+    "Discount": "20.01 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -222,9 +426,21 @@
     "Description": "Planeticus invites you to conquer new planets in the company of friends or strangers, as well as compete with each other. The essence of the game is to capture planets, manage resources, create as many of your own super planets as possible and generate space invaders.",
     "Url": "https://store.epicgames.com/en-US/p/planeticusgame-5dd84a",
     "ReleaseDate": "2023-09-12T06:00:00Z",
-    "FullPrice": "RUB 210.00",
-    "CurrentPrice": "RUB 157.50",
-    "Discount": "25 %",
+    "FullPrice": "$6.99",
+    "CurrentPrice": "$5.24",
+    "Discount": "25.04 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "Death Crown",
+    "Developer": "5WORD TEAM",
+    "Publisher": "5WORD TEAM",
+    "Description": "Death Crown is a minimalist real time strategy game in a 1bit style, where you will be play Death herself, commanding her legions of death, and punishing humanity's Kingdom for its overconfidence.",
+    "Url": "https://store.epicgames.com/en-US/p/death-crown-b2f5cd",
+    "ReleaseDate": "2023-08-22T23:00:00Z",
+    "FullPrice": "$9.99",
+    "CurrentPrice": "$1.99",
+    "Discount": "80.08 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -234,9 +450,21 @@
     "Description": "Dive into the pulsating universe of Virus Infinite. Harness your logic to outsmart vibrant viruses, using color-matching prowess and Power Pill strategy in this captivating sci-fi puzzle game.",
     "Url": "https://store.epicgames.com/en-US/p/virus-infinite-b9ed68",
     "ReleaseDate": "2023-08-02T14:00:00Z",
-    "FullPrice": "RUB 299.00",
-    "CurrentPrice": "RUB 146.51",
-    "Discount": "51 %",
+    "FullPrice": "$9.99",
+    "CurrentPrice": "$4.89",
+    "Discount": "51.05 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "Bloxs",
+    "Developer": "Landmark Digital Productions",
+    "Publisher": "Landmark Digital Production",
+    "Description": "Bloxs is a 3rd person 3D platformer game where your goal is to collect as many coins as possible to win a house.",
+    "Url": "https://store.epicgames.com/en-US/p/bloxs-aae143",
+    "ReleaseDate": "2023-07-26T15:00:00Z",
+    "FullPrice": "$7.99",
+    "CurrentPrice": "$1.99",
+    "Discount": "75.09 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -246,10 +474,22 @@
     "Description": "In this game you will play as an archaeologist who is driven by a desire to find an ancient artifact. The hero will travel to Greece to solve riddles and avoid hazardous traps. But he is not the only one who wishes to obtain the treasure...",
     "Url": "https://store.epicgames.com/en-US/p/palladium-adventure-in-greece-f1ee1b",
     "ReleaseDate": "2023-07-20T15:00:00Z",
-    "FullPrice": "RUB 299.00",
-    "CurrentPrice": "RUB 89.70",
-    "Discount": "70 %",
+    "FullPrice": "$9.99",
+    "CurrentPrice": "$2.99",
+    "Discount": "70.07 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "maze horror～迷宮ホラー～",
+    "Developer": "Kudou",
+    "Publisher": "Kudou",
+    "Description": "An old man lost in an underground labyrinth searches for a key to escape.",
+    "Url": "https://store.epicgames.com/en-US/p/jampjjj-7c830e",
+    "ReleaseDate": "2023-06-13T15:00:00Z",
+    "FullPrice": "$2.49",
+    "CurrentPrice": "$1.24",
+    "Discount": "50.2 %",
+    "DiscountEndDate": "2024-05-30T15:00:00Z"
   },
   {
     "Title": "Shame Legacy",
@@ -258,10 +498,22 @@
     "Description": "Shame Legacy is a first-person survival-horror, set in a forsaken cultist village. You attempt to survive using stealth and escape. By solving puzzles, you unravel the mystery that's h(a)unting you.",
     "Url": "https://store.epicgames.com/en-US/p/shame-legacy-ef1b66",
     "ReleaseDate": "2023-05-30T12:00:00Z",
-    "FullPrice": "RUB 749.00",
-    "CurrentPrice": "RUB 149.80",
-    "Discount": "80 %",
+    "FullPrice": "$24.99",
+    "CurrentPrice": "$4.99",
+    "Discount": "80.03 %",
     "DiscountEndDate": "2024-05-18T22:00:00Z"
+  },
+  {
+    "Title": "World of Contraptions",
+    "Developer": "JCP Games Studio",
+    "Publisher": "JCP Games Studio",
+    "Description": "World of Contraptions is a physics-based building game in which you build the most varied contraptions to solve the most diverse types of puzzles.",
+    "Url": "https://store.epicgames.com/en-US/p/world-of-contraptions-6dbc07",
+    "ReleaseDate": "2023-05-29T11:00:00Z",
+    "FullPrice": "$9.99",
+    "CurrentPrice": "$2.99",
+    "Discount": "70.07 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
     "Title": "Gardenia",
@@ -270,10 +522,22 @@
     "Description": "A laid-back combination of a gardening simulator and a fairy tale adventure. Help Wood Grandpa clean the island and restore its beauty so that its former inhabitants can return to their homes. Take photos of your garden compositions, relax and discover the secrets.",
     "Url": "https://store.epicgames.com/en-US/p/gardenia-630482",
     "ReleaseDate": "2023-05-26T16:00:00Z",
-    "FullPrice": "RUB 299.00",
-    "CurrentPrice": "RUB 269.10",
-    "Discount": "10 %",
+    "FullPrice": "$9.99",
+    "CurrentPrice": "$8.99",
+    "Discount": "10.01 %",
     "DiscountEndDate": "2024-05-19T23:00:00Z"
+  },
+  {
+    "Title": "Tuk Tuk Race",
+    "Developer": "INORK Game",
+    "Publisher": "INORK Game",
+    "Description": "\"Tuk Tuk Race\" is a game in which you race in a tuk-tuk.\nRide a tuk-tuk and try to win the race!\nLet's drive in the nature of beautiful graphics in a tuk-tuk.\nNow, please enjoy this funny racing game.",
+    "Url": "https://store.epicgames.com/en-US/p/tuk-tuk-race-1ff590",
+    "ReleaseDate": "2023-05-25T07:00:00Z",
+    "FullPrice": "$3.99",
+    "CurrentPrice": "$1.99",
+    "Discount": "50.13 %",
+    "DiscountEndDate": "2024-05-21T15:00:00Z"
   },
   {
     "Title": "The Inheritance of Crimson Manor",
@@ -282,9 +546,9 @@
     "Description": "Explore a beautiful and Enigmatic Victorian Manor with a dark secret, In this gothic horror story first person exploration puzzle game filled with fine art, secret passages and mysterious mechanical puzzles playing as the executor of the last will from the enigmatic Magnate.",
     "Url": "https://store.epicgames.com/en-US/p/the-inheritance-of-crimson-manor-81bc67",
     "ReleaseDate": "2023-05-18T14:00:00Z",
-    "FullPrice": "RUB 599.00",
-    "CurrentPrice": "RUB 119.80",
-    "Discount": "80 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$3.99",
+    "Discount": "80.04 %",
     "DiscountEndDate": "2024-05-26T07:00:00Z"
   },
   {
@@ -294,9 +558,9 @@
     "Description": "Behind every brilliant invention, hides a magical story. Guide a troop of tin soldiers through a magical toy-filled world, in this immersive puzzle adventure game from members of the team that brought you Fable.",
     "Url": "https://store.epicgames.com/en-US/p/tin-hearts-221ecf",
     "ReleaseDate": "2023-05-16T09:00:00Z",
-    "FullPrice": "RUB 599.00",
-    "CurrentPrice": "RUB 389.35",
-    "Discount": "35 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$12.99",
+    "Discount": "35.02 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -306,9 +570,21 @@
     "Description": "After losing his parents and barely escaping his burning home, Zach wakes up in the hospital where he meets Aya, the ghost of a girl. Who is she, and why can only Zach see her? Together they try to investigate Aya's past, which quickly awakens new dangers.",
     "Url": "https://store.epicgames.com/en-US/p/elegies-aya-17c3f1",
     "ReleaseDate": "2023-05-12T15:00:00Z",
-    "FullPrice": "RUB 539.00",
-    "CurrentPrice": "RUB 323.40",
-    "Discount": "40 %",
+    "FullPrice": "$17.99",
+    "CurrentPrice": "$10.79",
+    "Discount": "40.02 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "Emergency Crew 2 Global Warming",
+    "Developer": "GameOn Production",
+    "Publisher": "8Floor ltd",
+    "Description": "Hurricanes are raging in Sunland! Once again, Stephen Shepard leads an Emergency Crew to help people in their hour of need and get to the bottom of what's going on.",
+    "Url": "https://store.epicgames.com/en-US/p/emergency-crew-1-04340a",
+    "ReleaseDate": "2023-05-08T06:00:00Z",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$1.49",
+    "Discount": "70.14 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -318,9 +594,9 @@
     "Description": "Saboteur! is the classic retro game hit made by Clive Townsend in 1985 for the ZX Spectrum 8-bit computer. In 1985 Saboteur! received the prestigious award \"The Crash Smash\" from Crash magazine and was high-rated with a 93% score.",
     "Url": "https://store.epicgames.com/en-US/p/saboteur-f3d01d",
     "ReleaseDate": "2023-04-28T18:00:00Z",
-    "FullPrice": "RUB 240.00",
-    "CurrentPrice": "RUB 216.00",
-    "Discount": "10 %",
+    "FullPrice": "$7.99",
+    "CurrentPrice": "$7.19",
+    "Discount": "10.01 %",
     "DiscountEndDate": "2024-05-19T23:00:00Z"
   },
   {
@@ -330,9 +606,9 @@
     "Description": "Saboteur II: Avenging Angel is the second part of the classic retro game hit made by Clive Townsend in 1985 for the ZX Spectrum 8-bit computer. In 1985 Saboteur! received the prestigious award \"The Crash Smash\" from Crash magazine and was high-rated with a 93% score.",
     "Url": "https://store.epicgames.com/en-US/p/saboteur-ii-avenging-angel-33e83c",
     "ReleaseDate": "2023-04-28T18:00:00Z",
-    "FullPrice": "RUB 240.00",
-    "CurrentPrice": "RUB 216.00",
-    "Discount": "10 %",
+    "FullPrice": "$7.99",
+    "CurrentPrice": "$7.19",
+    "Discount": "10.01 %",
     "DiscountEndDate": "2024-05-19T23:00:00Z"
   },
   {
@@ -342,10 +618,22 @@
     "Description": "Saboteur SiO is the official sequel to the classic retro games Saboteur! and Saboteur II: Avenging Angel.\nTravel the world in this original ninja mission, created and developed by the original author, Clive Townsend.",
     "Url": "https://store.epicgames.com/en-US/p/saboteur-sio-123236",
     "ReleaseDate": "2023-04-28T18:00:00Z",
-    "FullPrice": "RUB 329.00",
-    "CurrentPrice": "RUB 296.10",
-    "Discount": "10 %",
+    "FullPrice": "$10.99",
+    "CurrentPrice": "$9.89",
+    "Discount": "10.01 %",
     "DiscountEndDate": "2024-05-19T23:00:00Z"
+  },
+  {
+    "Title": "Skotos",
+    "Developer": "KomodoBit Games",
+    "Publisher": "KomodoBit Games",
+    "Description": "Inspired by IT, explore a twisted reality shrouded in darkness. Platform through an ever-changing world where up is down and left is right in an effort to find an end to the eternal darkness.",
+    "Url": "https://store.epicgames.com/en-US/p/skotos-455463",
+    "ReleaseDate": "2023-03-29T11:00:00Z",
+    "FullPrice": "$14.99",
+    "CurrentPrice": "$12.29",
+    "Discount": "18.01 %",
+    "DiscountEndDate": "2024-05-30T06:00:00Z"
   },
   {
     "Title": "Crime Boss: Rockay City",
@@ -354,9 +642,9 @@
     "Description": "Crime Boss: Rockay City is an organized crime game combining first-person shooter action and turf wars, playable solo or with friends. Take on the role of Travis Baker – a man with his sights set on becoming the new King of Rockay City, one crime at a time…",
     "Url": "https://store.epicgames.com/en-US/p/crime-boss:-rockay-city",
     "ReleaseDate": "2023-03-28T15:00:00Z",
-    "FullPrice": "RUB 2,399.00",
-    "CurrentPrice": "RUB 959.60",
-    "Discount": "60 %",
+    "FullPrice": "$39.99",
+    "CurrentPrice": "$15.99",
+    "Discount": "60.02 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -366,10 +654,22 @@
     "Description": "You are a nomadic slugcat, both predator and prey in a broken ecosystem. Grab your spear and brave the industrial wastes, hunting enough food to survive, but be wary— other, bigger creatures have the same plan... and slugcats look delicious.",
     "Url": "https://store.epicgames.com/en-US/p/rain-world-4c860c",
     "ReleaseDate": "2023-01-25T06:00:00Z",
-    "FullPrice": "RUB 749.00",
-    "CurrentPrice": "RUB 299.60",
-    "Discount": "60 %",
+    "FullPrice": "$24.99",
+    "CurrentPrice": "$9.99",
+    "Discount": "60.02 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "Forspoken",
+    "Developer": "Square Enix",
+    "Publisher": "Square Enix",
+    "Description": "Forspoken follows the journey of Frey, a young New Yorker transported to the beautiful and cruel land of Athia. In search of a way home, Frey must use her newfound magical abilities to traverse sprawling landscapes and battle monstrous creatures.",
+    "Url": "https://store.epicgames.com/en-US/p/forspoken",
+    "ReleaseDate": "2023-01-24T17:00:00Z",
+    "FullPrice": "$69.99",
+    "CurrentPrice": "$27.99",
+    "Discount": "60.01 %",
+    "DiscountEndDate": "2024-05-20T15:00:00Z"
   },
   {
     "Title": "FROGUE",
@@ -378,9 +678,33 @@
     "Description": "Embark in a procedurally generated journey in FROGUE, a Roguelike Bullet Hell Platformer.",
     "Url": "https://store.epicgames.com/en-US/p/frogue-c91fc5",
     "ReleaseDate": "2022-12-31T00:00:00Z",
-    "FullPrice": "RUB 329.00",
-    "CurrentPrice": "RUB 263.20",
-    "Discount": "20 %",
+    "FullPrice": "$10.99",
+    "CurrentPrice": "$8.79",
+    "Discount": "20.02 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "MY LITTLE PONY A Maretime Bay Adventure",
+    "Developer": "Melbot Studios",
+    "Publisher": "Outright Games Ltd.",
+    "Description": "Explore Equestria, meet new MY LITTLE PONY friends, and bring back the magic of Maretime Bay Day festival!",
+    "Url": "https://store.epicgames.com/en-US/p/my-little-pony-a-maretime-bay-adventure-6a2cce",
+    "ReleaseDate": "2022-12-15T18:00:00Z",
+    "FullPrice": "$39.99",
+    "CurrentPrice": "$15.99",
+    "Discount": "60.02 %",
+    "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "The Callisto Protocol",
+    "Developer": "Striking Distance Studios",
+    "Publisher": "KRAFTON, Inc.",
+    "Description": "Survive to escape the horrors of Callisto. Using a unique blend of shooting and close-quarters combat, players will need to combat rapidly evolving creatures while scavenging to unlock new weapons and gear to outrun the growing threat of Jupiter's Dead Moon.",
+    "Url": "https://store.epicgames.com/en-US/p/the-callisto-protocol",
+    "ReleaseDate": "2022-12-03T05:00:00Z",
+    "FullPrice": "$59.99",
+    "CurrentPrice": "$17.99",
+    "Discount": "70.01 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -390,9 +714,9 @@
     "Description": "The world might as well be over - Soccer Inc. has closed down every local stadium, team and tournament. What kind of world can survive without the beautiful game? Thankfully a magical soccer ball has chosen you, our Savior of Soccer!",
     "Url": "https://store.epicgames.com/en-US/p/soccer-story-c2fe73",
     "ReleaseDate": "2022-11-29T16:00:00Z",
-    "FullPrice": "RUB 449.00",
-    "CurrentPrice": "RUB 179.60",
-    "Discount": "60 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$7.99",
+    "Discount": "60.03 %",
     "DiscountEndDate": "2024-05-19T00:00:00Z"
   },
   {
@@ -402,9 +726,9 @@
     "Description": "A Sci-fi 2D action-platformer, metroidvania, souls-like game. Explore the apocalypse cyberpunk world full of supernatural beings, some of them are only visible in the light source of your drones. Kill, gain, upgrade, get stronger in the dark world! ",
     "Url": "https://store.epicgames.com/en-US/p/dark-light",
     "ReleaseDate": "2022-09-30T15:00:00Z",
-    "FullPrice": "RUB 620.00",
-    "CurrentPrice": "RUB 403.00",
-    "Discount": "35 %",
+    "FullPrice": "$16.99",
+    "CurrentPrice": "$11.04",
+    "Discount": "35.02 %",
     "DiscountEndDate": "2024-05-17T14:08:00Z"
   },
   {
@@ -414,9 +738,9 @@
     "Description": "Absolute Tactics is a turn-based, tactical RPG adventure with a compelling storyline and strategic battles, puzzles and quests. Evoke your heroes’ unique, class-based abilities and attack patterns and customize your playstyle to defeat an array of enemies and giant boss monsters.",
     "Url": "https://store.epicgames.com/en-US/p/absolute-tactics-ca91e4",
     "ReleaseDate": "2022-09-15T16:00:00Z",
-    "FullPrice": "RUB 549.00",
-    "CurrentPrice": "RUB 384.30",
-    "Discount": "30 %",
+    "FullPrice": "$24.99",
+    "CurrentPrice": "$17.49",
+    "Discount": "30.01 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -426,7 +750,7 @@
     "Description": "Circus Electrique is part story-driven RPG, part tactics, part circus management, and completely enthralling. When everyday Londoners mysteriously turn into vicious killers, only the show’s talented performers possess the skills necessary to save the city. ",
     "Url": "https://store.epicgames.com/en-US/p/circus-electrique",
     "ReleaseDate": "2022-09-06T15:00:00Z",
-    "FullPrice": "RUB 669.00",
+    "FullPrice": "$19.99",
     "CurrentPrice": "0",
     "Discount": "100 %",
     "DiscountEndDate": "2024-05-16T15:00:00Z"
@@ -438,9 +762,9 @@
     "Description": "Based on the popular TV franchise, this charming couch co-op quiz game for 1-8 players will have you face more than 6800 fully English-voiced questions. Prove how much you still know from school and that you are, in fact, smarter than a 5th grader.",
     "Url": "https://store.epicgames.com/en-US/p/are-you-smarter-than-a-5th-grader-bc328a",
     "ReleaseDate": "2022-08-23T13:00:00Z",
-    "FullPrice": "RUB 999.00",
-    "CurrentPrice": "RUB 599.40",
-    "Discount": "40 %",
+    "FullPrice": "$29.99",
+    "CurrentPrice": "$17.99",
+    "Discount": "40.01 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -450,9 +774,9 @@
     "Description": "Even at this moment, our fashionable city is under assault. Baggy pants, dull suits, sightings of socks with sandals. A message needs to be sent, and it needs to be sent in style... Time to serve some good ol' Fashion Justice!",
     "Url": "https://store.epicgames.com/en-US/p/fashion-police-squad",
     "ReleaseDate": "2022-08-15T15:00:00Z",
-    "FullPrice": "RUB 449.00",
-    "CurrentPrice": "RUB 224.50",
-    "Discount": "50 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$9.99",
+    "Discount": "50.03 %",
     "DiscountEndDate": "2024-05-19T00:00:00Z"
   },
   {
@@ -462,9 +786,9 @@
     "Description": "Undergrave is a tactical roguelike which moving, jumping, dashing and 𝘁𝗵𝗿𝗼𝘄𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝘀𝘄𝗼𝗿𝗱 𝗮𝘄𝗮𝘆 strategically is vital for success.",
     "Url": "https://store.epicgames.com/en-US/p/undergrave-4d084b",
     "ReleaseDate": "2022-07-13T16:00:00Z",
-    "FullPrice": "RUB 199.00",
-    "CurrentPrice": "RUB 99.50",
-    "Discount": "50 %",
+    "FullPrice": "$9.99",
+    "CurrentPrice": "$4.99",
+    "Discount": "50.05 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -474,9 +798,9 @@
     "Description": "Star Vikings Forever is a humorous Puzzle/RPG developed by the award-winning creators of Chroma Squad, Dungeonland, and Relic Hunters Zero.",
     "Url": "https://store.epicgames.com/en-US/p/star-vikings-forever-215b84",
     "ReleaseDate": "2022-05-13T14:00:00Z",
-    "FullPrice": "RUB 199.00",
-    "CurrentPrice": "RUB 19.90",
-    "Discount": "90 %",
+    "FullPrice": "$9.99",
+    "CurrentPrice": "$0.99",
+    "Discount": "90.09 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -486,9 +810,9 @@
     "Description": "Transcend the material realm and assume your true form as Spinch, a hyper-agile organism consumed by the quest to rescue a litter of its missing offspring, in this side-scrolling, psychedelic platformer from the mind of award-winning Canadian cartoonist, Jesse Jacobs.",
     "Url": "https://store.epicgames.com/en-US/p/spinch-239b03",
     "ReleaseDate": "2022-05-07T03:00:00Z",
-    "FullPrice": "RUB 349.00",
-    "CurrentPrice": "RUB 157.05",
-    "Discount": "55 %",
+    "FullPrice": "$14.99",
+    "CurrentPrice": "$6.74",
+    "Discount": "55.04 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -498,9 +822,9 @@
     "Description": "Interact with the spirits of the dead, solve the puzzles of the mysterious mansion, and help Elena find her missing father.",
     "Url": "https://store.epicgames.com/en-US/p/whispering-willows-bde110",
     "ReleaseDate": "2022-05-06T19:00:00Z",
-    "FullPrice": "RUB 199.00",
-    "CurrentPrice": "RUB 19.90",
-    "Discount": "90 %",
+    "FullPrice": "$9.99",
+    "CurrentPrice": "$0.99",
+    "Discount": "90.09 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -510,9 +834,9 @@
     "Description": "A Rhythm Role-Playing Game! Fight party crashing monsters with the power of music! Level your party and upgrade your gear while dancing to the beat of some SICK tunes. Grab a friend and combine forces in all game modes in The Metronomicon: Slay the Dance Floor!",
     "Url": "https://store.epicgames.com/en-US/p/the-metronomicon-766679",
     "ReleaseDate": "2022-05-06T13:00:00Z",
-    "FullPrice": "RUB 449.00",
-    "CurrentPrice": "RUB 67.35",
-    "Discount": "85 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$2.99",
+    "Discount": "85.04 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -522,9 +846,9 @@
     "Description": "Keep in Mind follows Jonas, a tormented alcoholic whose life is falling apart. He awakens to a shadowy mirror world where beasts lurk and the stars don't shine. Jonas must face twisted beasts if he ever wishes to return home and learn the truth, about truth about his darkness.",
     "Url": "https://store.epicgames.com/en-US/p/keep-in-mind-remastered-6ee77a",
     "ReleaseDate": "2022-05-06T07:00:00Z",
-    "FullPrice": "RUB 44.00",
-    "CurrentPrice": "RUB 17.60",
-    "Discount": "60 %",
+    "FullPrice": "$1.99",
+    "CurrentPrice": "$0.79",
+    "Discount": "60.3 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -534,9 +858,9 @@
     "Description": "Fight your way as Mean Mcallister, the baddest chicken in town, through multiple hordes of enemies to save your girlfriend in this hilarious, strategic button-mashing, action-RPG.",
     "Url": "https://store.epicgames.com/en-US/p/chicken-assassin-reloaded-279863",
     "ReleaseDate": "2022-05-05T22:00:00Z",
-    "FullPrice": "RUB 99.00",
-    "CurrentPrice": "RUB 24.75",
-    "Discount": "75 %",
+    "FullPrice": "$4.99",
+    "CurrentPrice": "$1.24",
+    "Discount": "75.15 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -546,9 +870,9 @@
     "Description": "Delve into an environmental puzzle platformer built on exploring and understanding gravity-shifting structures. You are a voiceless being that has just been born into a world where a bodiless voice awaits your arrival. Go forth and seek your purpose.",
     "Url": "https://store.epicgames.com/en-US/p/etherborn-00f378",
     "ReleaseDate": "2022-04-30T05:00:00Z",
-    "FullPrice": "RUB 349.00",
-    "CurrentPrice": "RUB 87.25",
-    "Discount": "75 %",
+    "FullPrice": "$16.99",
+    "CurrentPrice": "$4.24",
+    "Discount": "75.04 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -558,9 +882,9 @@
     "Description": "No jumping, no walking. Raven's Hike is an unique 2d platformer in which all movement is based on her Grappling Hook.",
     "Url": "https://store.epicgames.com/en-US/p/ravens-hike-c34341",
     "ReleaseDate": "2022-04-28T13:00:00Z",
-    "FullPrice": "RUB 88.00",
-    "CurrentPrice": "RUB 35.20",
-    "Discount": "60 %",
+    "FullPrice": "$3.99",
+    "CurrentPrice": "$1.59",
+    "Discount": "60.15 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -570,9 +894,9 @@
     "Description": "Step right up - you’re the next contestant! Create KILLTACULAR Carnage like your life depends on it! EXECUTE not just your enemies, but death-defying combos to woo ALL-IMPORTANT fans! Satisfy your Fans’ THIRST for BLOOD and reap the rewards. Do WHATEVER it takes to gain freedom.",
     "Url": "https://store.epicgames.com/en-US/p/gone-viral-c60635",
     "ReleaseDate": "2022-04-25T07:00:00Z",
-    "FullPrice": "RUB 449.00",
-    "CurrentPrice": "RUB 179.60",
-    "Discount": "60 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$7.99",
+    "Discount": "60.03 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -582,9 +906,9 @@
     "Description": "Help this sympathetic Snake on her journey to the hidden treasure, solve puzzles that mix mechanics of the classic game Snake with Sokoban",
     "Url": "https://store.epicgames.com/en-US/p/upaon-a-snakes-journey-672f92",
     "ReleaseDate": "2022-04-18T16:30:00Z",
-    "FullPrice": "RUB 55.00",
-    "CurrentPrice": "RUB 22.00",
-    "Discount": "60 %",
+    "FullPrice": "$2.49",
+    "CurrentPrice": "$0.99",
+    "Discount": "60.24 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -594,10 +918,22 @@
     "Description": "In an abandoned medical university, test your intellectual might as you unravel a 20-year-old mystery in this depraved first-person puzzle adventure, doing what it takes to escape your fate as a macabre scientist's human experiment. The ends justify the means in The Crow’s Eye.",
     "Url": "https://store.epicgames.com/en-US/p/the-crows-eye-af7d60",
     "ReleaseDate": "2022-04-18T13:00:00Z",
-    "FullPrice": "RUB 199.00",
-    "CurrentPrice": "RUB 79.60",
-    "Discount": "60 %",
+    "FullPrice": "$9.99",
+    "CurrentPrice": "$3.99",
+    "Discount": "60.06 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+    "Developer": "KOEI TECMO GAMES CO., LTD.",
+    "Publisher": "Square Enix",
+    "Description": "In this hard-core action RPG, Jack must hazard numerous challenges to bring the light of the crystals back to Cornelia, a kingdom conquered by darkness.",
+    "Url": "https://store.epicgames.com/en-US/p/stranger-of-paradise-final-fantasy-origin",
+    "ReleaseDate": "2022-04-18T04:00:00Z",
+    "FullPrice": "$39.99",
+    "CurrentPrice": "$19.99",
+    "Discount": "50.01 %",
+    "DiscountEndDate": "2024-05-20T15:00:00Z"
   },
   {
     "Title": "Red Ronin",
@@ -606,9 +942,9 @@
     "Description": "Red Ronin is a Tactical Turn-based but fast paced dash 'n slash game where a bloodthirsty ronin and her companion bot searches for revenge.",
     "Url": "https://store.epicgames.com/en-US/p/red-ronin-d2678c",
     "ReleaseDate": "2022-03-17T00:00:00Z",
-    "FullPrice": "RUB 179.00",
-    "CurrentPrice": "RUB 71.60",
-    "Discount": "60 %",
+    "FullPrice": "$7.99",
+    "CurrentPrice": "$3.19",
+    "Discount": "60.08 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -618,9 +954,9 @@
     "Description": "You owe us money, Joe, and we plan to collect. We don't care where it comes from, but you'd better not skip town on us. Otherwise your family will be searching the river for your body.",
     "Url": "https://store.epicgames.com/en-US/p/family-man-bbc679",
     "ReleaseDate": "2022-03-10T00:00:00Z",
-    "FullPrice": "RUB 449.00",
-    "CurrentPrice": "RUB 67.35",
-    "Discount": "85 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$2.99",
+    "Discount": "85.04 %",
     "DiscountEndDate": "2024-05-19T00:00:00Z"
   },
   {
@@ -630,9 +966,9 @@
     "Description": "Prepare your decks and go on a pilgrimage through the wasteland! Nowhere Prophet is a unique single-player card game. Travel across randomly generated maps and lead your followers in deep tactical combat. Discover new cards and build your deck as you explore this strange world",
     "Url": "https://store.epicgames.com/en-US/p/nowhere-prophet-4790db",
     "ReleaseDate": "2022-03-10T00:00:00Z",
-    "FullPrice": "RUB 549.00",
-    "CurrentPrice": "RUB 219.60",
-    "Discount": "60 %",
+    "FullPrice": "$24.99",
+    "CurrentPrice": "$9.99",
+    "Discount": "60.02 %",
     "DiscountEndDate": "2024-05-19T00:00:00Z"
   },
   {
@@ -642,9 +978,9 @@
     "Description": "Immigration Enforcement Case #112: You are under arrest. Unless your friends can cross a broken America, retrieve your identifying documents and stay out of trouble... this is the end of the American dream for you.",
     "Url": "https://store.epicgames.com/en-US/p/not-tonight-2",
     "ReleaseDate": "2022-02-11T16:00:00Z",
-    "FullPrice": "RUB 449.00",
-    "CurrentPrice": "RUB 179.60",
-    "Discount": "60 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$7.99",
+    "Discount": "60.03 %",
     "DiscountEndDate": "2024-05-19T00:00:00Z"
   },
   {
@@ -654,9 +990,9 @@
     "Description": "Open your own Card shop by the seaside! Buy, trade and sell Cards, OR keep them for your own collection! Earn reputation with customers, beat your shop goals, unlock new decorations, and host exciting events to bring everyone to the best Card shop in town!",
     "Url": "https://store.epicgames.com/en-US/p/kardboard-kings-0962f8",
     "ReleaseDate": "2022-02-10T14:00:00Z",
-    "FullPrice": "RUB 449.00",
-    "CurrentPrice": "RUB 314.30",
-    "Discount": "30 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$13.99",
+    "Discount": "30.02 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -666,10 +1002,22 @@
     "Description": "Take your perceptivity to a new dimension in a relaxing low-poly isometric puzzle game. Find the differences in the beautiful, fully rotatable, and zoomable 3D environments. Can you find them all?",
     "Url": "https://store.epicgames.com/en-US/p/tiny-lands-527466",
     "ReleaseDate": "2021-12-21T00:00:00Z",
-    "FullPrice": "RUB 149.00",
-    "CurrentPrice": "RUB 59.60",
-    "Discount": "60 %",
+    "FullPrice": "$6.99",
+    "CurrentPrice": "$2.79",
+    "Discount": "60.09 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "Developer": "-",
+    "Publisher": "-",
+    "Description": "Cloud Strife, an ex SOLDIER operative, decends on the mako-powered city of Midgar. The world of the timeless classic FINAL FANTASY VII is reborn, using cutting-edge graphics technology, a new battle system and an additional adventure featuring Yuffie Kisaragi.",
+    "Url": "https://store.epicgames.com/en-US/p/final-fantasy-vii-remake-intergrade",
+    "ReleaseDate": "2021-12-16T14:30:00Z",
+    "FullPrice": "$69.99",
+    "CurrentPrice": "$34.99",
+    "Discount": "50.01 %",
+    "DiscountEndDate": "2024-05-20T15:00:00Z"
   },
   {
     "Title": "The Darkside Detective",
@@ -678,9 +1026,9 @@
     "Description": "Grab your trench coat, tune your sixth sense and join the Darkside Division as they investigate the bizarre, the downright dangerous and the mildly confusing cases of Twin Lakes. \n\nFlesh-hungry tentacles, and the occasional missing sock are no match for The Darkside Detective.",
     "Url": "https://store.epicgames.com/en-US/p/the-darkside-detective-02fd5a",
     "ReleaseDate": "2021-12-07T08:00:00Z",
-    "FullPrice": "RUB 449.00",
-    "CurrentPrice": "RUB 134.70",
-    "Discount": "70 %",
+    "FullPrice": "$14.99",
+    "CurrentPrice": "$4.49",
+    "Discount": "70.05 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -690,9 +1038,9 @@
     "Description": "An online multiplayer survival game, now with sorcery, set in the lands of Conan the Barbarian. Survive in a vast open world sandbox, build your home into a kingdom, and dominate your enemies in single or multiplayer.",
     "Url": "https://store.epicgames.com/en-US/p/conan-exiles",
     "ReleaseDate": "2021-11-23T16:00:00Z",
-    "FullPrice": "RUB 2,100.00",
-    "CurrentPrice": "RUB 840.00",
-    "Discount": "60 %",
+    "FullPrice": "$39.99",
+    "CurrentPrice": "$15.99",
+    "Discount": "60.02 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -702,9 +1050,9 @@
     "Description": "It's time to build a zoo! Let out your wild side, and create your own animal empire with this cute, expansive management sim. Import and breed rare creatures, hire the right staff, keep your visitors happy, and deal with plenty of weird and wonderful events.",
     "Url": "https://store.epicgames.com/en-US/p/let's-build-a-zoo",
     "ReleaseDate": "2021-11-05T16:00:00Z",
-    "FullPrice": "RUB 449.00",
-    "CurrentPrice": "RUB 224.50",
-    "Discount": "50 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$9.99",
+    "Discount": "50.03 %",
     "DiscountEndDate": "2024-05-18T00:00:00Z"
   },
   {
@@ -714,9 +1062,9 @@
     "Description": "Delouse your room and pack up your travel-sized ouija board, it’s time to re-enter Twin Lakes. America’s 34th most haunted city. Join Detective McQueen as he puzzles his way through 6 cases, risking life and pixelated limb to solve the macabre mysteries that plague the poor town.",
     "Url": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-174fcf",
     "ReleaseDate": "2021-11-01T07:00:00Z",
-    "FullPrice": "RUB 449.00",
-    "CurrentPrice": "RUB 246.95",
-    "Discount": "45 %",
+    "FullPrice": "$14.99",
+    "CurrentPrice": "$8.24",
+    "Discount": "45.03 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -726,10 +1074,22 @@
     "Description": "Isometric real-time tactics game that takes place on the Eastern front of WWII. Its story-driven campaign takes inspiration in the grim events that actually took place and the real stories around them. Dive into the dark side of war alone or in co-op.",
     "Url": "https://store.epicgames.com/en-US/p/war-mongrels",
     "ReleaseDate": "2021-10-19T16:00:00Z",
-    "FullPrice": "RUB 825.00",
-    "CurrentPrice": "RUB 165.00",
-    "Discount": "80 %",
+    "FullPrice": "$44.99",
+    "CurrentPrice": "$8.99",
+    "Discount": "80.02 %",
     "DiscountEndDate": "2024-05-18T22:00:00Z"
+  },
+  {
+    "Title": "NEO: The World Ends with You",
+    "Developer": "h.a.n.d., Inc.",
+    "Publisher": "Square Enix",
+    "Description": "\"Only the possibility of you can change our fate\" A long-awaited new story in The World Ends with You series has finally arrived! Rindo's life is on the line as he is forced to play the \"Reapers' Game.\"",
+    "Url": "https://store.epicgames.com/en-US/p/neo:-the-world-ends-with-you",
+    "ReleaseDate": "2021-09-28T15:00:00Z",
+    "FullPrice": "$59.99",
+    "CurrentPrice": "$23.99",
+    "Discount": "60.01 %",
+    "DiscountEndDate": "2024-05-20T15:00:00Z"
   },
   {
     "Title": "Behind the Frame: The Finest Scenery",
@@ -738,9 +1098,9 @@
     "Description": "Guide brush strokes and solve a variety of puzzles to help an aspiring artist complete her masterpiece. As her painting starts to take shape, uncover an emotional tale of chance and artistry revealed behind unrelated yet familiar moments.",
     "Url": "https://store.epicgames.com/en-US/p/behind-the-frame:-the-finest-scenery",
     "ReleaseDate": "2021-08-25T13:00:00Z",
-    "FullPrice": "RUB 199.00",
-    "CurrentPrice": "RUB 129.35",
-    "Discount": "35 %",
+    "FullPrice": "$12.99",
+    "CurrentPrice": "$8.44",
+    "Discount": "35.03 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   },
   {
@@ -750,10 +1110,58 @@
     "Description": "GRIME is a fast, unforgiving Action-Adventure RPG in which you crush your foes with living weapons that mutate form and function, and then consume their remains with a black hole to strengthen your vessel as you break apart a world of anatomical intrigue.",
     "Url": "https://store.epicgames.com/en-US/p/grime",
     "ReleaseDate": "2021-08-02T13:00:00Z",
-    "FullPrice": "RUB 549.00",
-    "CurrentPrice": "RUB 329.40",
-    "Discount": "40 %",
+    "FullPrice": "$24.99",
+    "CurrentPrice": "$14.99",
+    "Discount": "40.02 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+    "Developer": "-",
+    "Publisher": "-",
+    "Description": "The KINGDOM HEARTS HD 2.8 Final Chapter Prologue features 3 magical experiences, all leading up to KINGDOM HEARTS III: - KINGDOM HEARTS Dream Drop Distance HD - KINGDOM HEARTS χ Back Cover (movie) - KINGDOM HEARTS 0.2 Birth by Sleep – A fragmentary passage –",
+    "Url": "https://store.epicgames.com/en-US/p/kingdom-hearts-hd-2.8-final-chapter-prologue",
+    "ReleaseDate": "2021-03-30T13:00:00Z",
+    "FullPrice": "$59.99",
+    "CurrentPrice": "$23.99",
+    "Discount": "60.01 %",
+    "DiscountEndDate": "2024-05-20T15:00:00Z"
+  },
+  {
+    "Title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+    "Developer": "-",
+    "Publisher": "-",
+    "Description": "KINGDOM HEARTS HD 1.5 + 2.5 ReMIX is an HD remastered collection of 6 unforgettable KINGDOM HEARTS experiences. KINGDOM HEARTS HD 1.5 + 2.5 ReMIX is the perfect opportunity to start wielding your Keyblade to save the Disney worlds from darkness.",
+    "Url": "https://store.epicgames.com/en-US/p/kingdom-hearts-hd-1.5+2.5-remix",
+    "ReleaseDate": "2021-03-30T13:00:00Z",
+    "FullPrice": "$49.99",
+    "CurrentPrice": "$19.99",
+    "Discount": "60.01 %",
+    "DiscountEndDate": "2024-05-20T15:00:00Z"
+  },
+  {
+    "Title": "KINGDOM HEARTS Melody of Memory",
+    "Developer": "-",
+    "Publisher": "-",
+    "Description": "Experience the music of KINGDOM HEARTS like never before! Melody of Memory is a rhythm action game featuring 20+ characters, 140+ music tracks, and online VS multiplayer mode. Explore the music and memories from the KINGDOM HEARTS series.",
+    "Url": "https://store.epicgames.com/en-US/p/kingdom-hearts-melody-of-memory",
+    "ReleaseDate": "2021-03-30T13:00:00Z",
+    "FullPrice": "$59.99",
+    "CurrentPrice": "$23.99",
+    "Discount": "60.01 %",
+    "DiscountEndDate": "2024-05-20T15:00:00Z"
+  },
+  {
+    "Title": "KINGDOM HEARTS III + Re Mind (DLC)",
+    "Developer": "-",
+    "Publisher": "-",
+    "Description": "KINGDOM HEARTS III + Re Mind (DLC) tells the power of friendship as Sora and his friends embark on a perilous adventure. Set in a vast array of Disney worlds, KINGDOM HEARTS follows the journey of Sora, a young boy and unknowing heir to a spectacular power.",
+    "Url": "https://store.epicgames.com/en-US/p/kingdom-hearts-iii-+-re-mind-(dlc)",
+    "ReleaseDate": "2021-03-30T13:00:00Z",
+    "FullPrice": "$59.99",
+    "CurrentPrice": "$23.99",
+    "Discount": "60.01 %",
+    "DiscountEndDate": "2024-05-20T15:00:00Z"
   },
   {
     "Title": "Hypnospace Outlaw",
@@ -762,9 +1170,9 @@
     "Description": "Hypnospace Outlaw is a '90s internet simulator in which you scour Hypnospace's wide variety of weird and wonderful websites to hunt down wrongdoers, while also avoiding viruses and adware, and downloading a plethora of apps that may or may not be useful.",
     "Url": "https://store.epicgames.com/en-US/p/hypnospace-outlaw",
     "ReleaseDate": "2021-03-26T16:00:00Z",
-    "FullPrice": "RUB 435.00",
-    "CurrentPrice": "RUB 174.00",
-    "Discount": "60 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$7.99",
+    "Discount": "60.03 %",
     "DiscountEndDate": "2024-05-19T00:00:00Z"
   },
   {
@@ -774,9 +1182,9 @@
     "Description": "In this kingdom management RPG, petitioners will arrive in the throne room to ask for your advice and assistance. Decide whether to help them, or to conserve your resources. Remember: supplies are limited, and not everyone has your best interests at heart...",
     "Url": "https://store.epicgames.com/en-US/p/yes-your-grace",
     "ReleaseDate": "2021-03-26T16:00:00Z",
-    "FullPrice": "RUB 435.00",
-    "CurrentPrice": "RUB 152.25",
-    "Discount": "65 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$6.99",
+    "Discount": "65.03 %",
     "DiscountEndDate": "2024-05-19T00:00:00Z"
   },
   {
@@ -786,10 +1194,22 @@
     "Description": "Berlin 1933. “Adolf Hitler is chancellor!” We all know the consequences this message bore. Unspeakable horrors and suffering would sweep across the world. Few would stand and fight the monstrosity that was the German Reich. Will you?",
     "Url": "https://store.epicgames.com/en-US/p/through-the-darkest-of-times",
     "ReleaseDate": "2020-12-10T18:00:00Z",
-    "FullPrice": "RUB 399.00",
-    "CurrentPrice": "RUB 79.80",
-    "Discount": "80 %",
+    "FullPrice": "$14.99",
+    "CurrentPrice": "$2.99",
+    "Discount": "80.05 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
+  },
+  {
+    "Title": "DRAGON QUEST® XI S: Echoes of an Elusive Age™",
+    "Developer": "-",
+    "Publisher": "-",
+    "Description": "This all-new, complete edition includes the critically acclaimed DRAGON QUEST XI, plus additional side quests, an orchestral soundtrack, 2D mode, and more! Whether you're a longtime fan or a new adventurer, this is the ultimate DQXI experience!",
+    "Url": "https://store.epicgames.com/en-US/p/dragon-quest®-xi-s:-echoes-of-an-elusive-age™",
+    "ReleaseDate": "2020-09-24T09:00:00Z",
+    "FullPrice": "$39.99",
+    "CurrentPrice": "$23.99",
+    "Discount": "40.01 %",
+    "DiscountEndDate": "2024-05-20T15:00:00Z"
   },
   {
     "Title": "Disco Elysium - The Final Cut",
@@ -798,9 +1218,9 @@
     "Description": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You’re a detective with a unique skill system at your disposal. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
     "Url": "https://store.epicgames.com/en-US/p/disco-elysium",
     "ReleaseDate": "2020-06-06T18:00:00Z",
-    "FullPrice": "RUB 725.00",
-    "CurrentPrice": "RUB 181.25",
-    "Discount": "75 %",
+    "FullPrice": "$39.99",
+    "CurrentPrice": "$9.99",
+    "Discount": "75.02 %",
     "DiscountEndDate": "2024-05-16T10:00:00Z"
   },
   {
@@ -810,9 +1230,9 @@
     "Description": "A mutant soap opera where small-town gossip meets the supernatural. Join Kai as she arrives in the mysterious community of Mutazione to care for her ailing grandfather. Discover scenic hangouts, magical gardens, new friends, and old secrets...",
     "Url": "https://store.epicgames.com/en-US/p/mutazione",
     "ReleaseDate": "2020-03-04T16:00:00Z",
-    "FullPrice": "RUB 435.00",
-    "CurrentPrice": "RUB 174.00",
-    "Discount": "60 %",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$7.99",
+    "Discount": "60.03 %",
     "DiscountEndDate": "2024-05-14T15:00:00Z"
   }
 ]
