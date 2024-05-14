@@ -186,17 +186,29 @@ Function ConvertTo-Markdown {
     }
 }
 
+### Get the date of last changes of json files in the repository
+
+$dateGiveaway = Get-Date -Format "dd.MM.yyyy HH:mm" -Date $(Invoke-RestMethod -Uri "https://api.github.com/repos/Lifailon/epic-games-radar/commits?path=api/giveaway/index.json")[0].commit.author.date
+$dateDiscount = Get-Date -Format "dd.MM.yyyy HH:mm" -Date $(Invoke-RestMethod -Uri "https://api.github.com/repos/Lifailon/epic-games-radar/commits?path=api/discount/index.json")[0].commit.author.date
+$dateFree = Get-Date -Format "dd.MM.yyyy HH:mm" -Date $(Invoke-RestMethod -Uri "https://api.github.com/repos/Lifailon/epic-games-radar/commits?path=api/free/index.json")[0].commit.author.date
+
 ### Generated Markdown
 
 "## Giveaway:" | Out-File index.md
+"Last update: $dateGiveaway" | Out-File index.md -Append
+"" | Out-File index.md -Append
 $giveawayGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/giveaway"
 $giveawayGitHub | Select-Object -ExcludeProperty Description | ConvertTo-Markdown | Out-File index.md -Append
 
 "## Discount:" | Out-File index.md -Append
+"Last update: $dateDiscount" | Out-File index.md -Append
+"" | Out-File index.md -Append
 $discountGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/discount"
 $discountGitHub | Select-Object -ExcludeProperty Description | ConvertTo-Markdown | Out-File index.md -Append
 
 "## Free:" | Out-File index.md -Append
+"Last update: $dateFree" | Out-File index.md -Append
+"" | Out-File index.md -Append
 $freeGitHub = Invoke-RestMethod "https://lifailon.github.io/epic-games-radar/api/free"
 $freeGitHub | Select-Object -ExcludeProperty Description | ConvertTo-Markdown | Out-File index.md -Append
 

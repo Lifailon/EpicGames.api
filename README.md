@@ -1,8 +1,6 @@
 # Epic Games Radar
 
-This repository contains an up-to-date list of free games, discounts, and giveaways in the Epic Games store, updated every hour using **GitHub Actions**. You can get game lists on the project 📣 [Web Page](https://lifailon.github.io/epic-games-radar) (the report is initially generated in [Markdown format](https://github.com/Lifailon/epic-games-radar/blob/rsa/index.md)) or in `json` format via any REST API client.
-
-> ⚠️ The `CloudFlare` system does not allow you to make resular queries, so the data may not always be up to date.
+This repository contains an up-to-date list of free games, discounts, and giveaways in the Epic Games store, updated using **GitHub Actions** (the date of the last report update is shown above the table). You can get game lists on the project 📣 [Web Page](https://lifailon.github.io/epic-games-radar) (the report is initially generated in [Markdown format](https://github.com/Lifailon/epic-games-radar/blob/rsa/index.md)) or in `json` format via any REST API client.
 
 ![Image alt](https://github.com/Lifailon/epic-games-radar/blob/rsa/image/web-page.jpg)
 
