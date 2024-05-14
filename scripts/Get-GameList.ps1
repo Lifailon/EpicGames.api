@@ -9,8 +9,8 @@ function Get-GameList {
         [ValidateSet("en-US","ru")][string]$Region,
         [ValidateRange(100,500)][int]$Count
     )
-    # $url = "https://store.epicgames.com/$region/browse?sortBy=releaseDate&sortDir=DESC&priceTier=tierDiscouted&category=Game&count=500&start=0"
-    $url = "https://store.epicgames.com/en-US/browse?sortBy=releaseDate&sortDir=DESC&priceTier=$($price)&category=Game&count=$($count)&start=0"
+    # $url = "https://store.epicgames.com/en-US/browse?sortBy=releaseDate&sortDir=DESC&priceTier=tierFree&category=Game&count=500&start=0"
+    $url = "https://store.epicgames.com/$Region/browse?sortBy=releaseDate&sortDir=DESC&priceTier=$($Price)&category=Game&count=$($Count)&start=0"
     $Agents = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     
     # v1 (HttpClient)
@@ -49,44 +49,41 @@ function Get-GameList {
 
     # Output formatting
     $Collections = New-Object System.Collections.Generic.List[System.Object]
-    if ($Price -eq "tierFree") {
-        foreach ($game in $games) {
-            $urlGame = $game.offerMappings.pageSlug
-            if ($null -eq $urlGame) {
-                $urlGame = $game.title.ToLower().replace(" ","-")
-            }
-            $Collections.Add([PSCustomObject]@{
-                Title           = $game.title
-                Developer       = $game.developerDisplayName
-                Publisher       = $game.publisherDisplayName
-                Description     = $game.description
-                Url             = "https://store.epicgames.com/$region/p/$urlGame"
-                ReleaseDate     = $game.releaseDate
-                FullPrice       = $game.price.totalPrice.fmtPrice.originalPrice
-                CurrentPrice    = $game.price.totalPrice.fmtPrice.discountPrice
-                DiscountEndDate = $game.price.lineOffers.appliedRules.endDate
-            })
+    foreach ($game in $games) {
+        $urlGame = $game.offerMappings.pageSlug
+        if ($null -eq $urlGame) {
+            $urlGame = $game.title.ToLower().replace(" ","-")
         }
-    }
-    else {
-        foreach ($game in $games) {
-            $urlGame = $game.offerMappings.pageSlug
-            if ($null -eq $urlGame) {
-                $urlGame = $game.title.ToLower().replace(" ","-")
-            }
-            $Collections.Add([PSCustomObject]@{
-                Title           = $game.title
-                Developer       = $game.developerDisplayName
-                Publisher       = $game.publisherDisplayName
-                Description     = $game.description
-                Url             = "https://store.epicgames.com/$region/p/$urlGame"
-                ReleaseDate     = $game.releaseDate
-                FullPrice       = $game.price.totalPrice.fmtPrice.originalPrice
-                Discount        = [string]$([math]::Round((1 - ($($game.price.totalPrice.discountPrice) / $($game.price.totalPrice.originalPrice))) * 100, 2)) + " %"
-                CurrentPrice    = $game.price.totalPrice.fmtPrice.discountPrice
-                DiscountEndDate = $game.price.lineOffers.appliedRules.endDate
-            })
+        $Developer = $game.developerDisplayName
+        $Publisher = $game.publisherDisplayName
+        if ($null -eq $Developer) {
+            $Developer = "-"
         }
+        if ($null -eq $Publisher) {
+            $Publisher = "-"
+        }
+        $FullPrice = $game.price.totalPrice.fmtPrice.originalPrice
+        if ($FullPrice -eq 0) {
+            $Discount = "Free"
+        } else {
+            $Discount = [string]$([math]::Round((1 - ($($game.price.totalPrice.discountPrice) / $($game.price.totalPrice.originalPrice))) * 100, 2)) + " %"
+        }
+        $DiscountEndDate = $game.price.lineOffers.appliedRules.endDate
+        if ($null -eq $DiscountEndDate) {
+            $DiscountEndDate = "-"
+        }
+        $Collections.Add([PSCustomObject]@{
+            Title           = $game.title
+            Developer       = $Developer
+            Publisher       = $Publisher
+            Description     = $game.description
+            Url             = "https://store.epicgames.com/$region/p/$urlGame"
+            ReleaseDate     = $game.releaseDate
+            FullPrice       = $FullPrice
+            CurrentPrice    = $game.price.totalPrice.fmtPrice.discountPrice
+            Discount        = $Discount
+            DiscountEndDate = $DiscountEndDate
+        })
     }
     $Collections
 }
@@ -102,7 +99,7 @@ switch (Get-Random -InputObject @(1, 2)) {
         }
         Write-Host "---------------------- End function Free -----------------------------"
         
-        Start-Sleep $(Get-Random -Minimum 15 -Maximum 45)
+        Start-Sleep $(Get-Random -Minimum 10 -Maximum 30)
 
         Write-Host "---------------------- Start function Discouted ----------------------"
         $Discount = Get-GameList -Price tierDiscouted -Region en-US -Count 500
@@ -119,7 +116,7 @@ switch (Get-Random -InputObject @(1, 2)) {
         }
         Write-Host "---------------------- End function Discouted ------------------------"
         
-        Start-Sleep $(Get-Random -Minimum 15 -Maximum 45)
+        Start-Sleep $(Get-Random -Minimum 10 -Maximum 30)
         
         Write-Host "---------------------- Start function Free ---------------------------"
         $Free = Get-GameList -Price tierFree -Region en-US -Count 500

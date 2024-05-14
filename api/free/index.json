@@ -8,17 +8,7 @@
     "ReleaseDate": "2024-05-10T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Ivorfall",
-    "Developer": "Inquiry Games LLC",
-    "Publisher": "Inquiry Games LLC",
-    "Description": "Ivorfall City is in danger and only you have what it takes to save it! Ivorfall is a Steampunk, roguelike, twin-stick shooter where you take up the mantle of Detective Flintlock who must face off against hordes of enemies in destructible environments.",
-    "Url": "https://store.epicgames.com/en-US/p/ivorfall-5a38c0",
-    "ReleaseDate": "2024-05-10T06:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -30,28 +20,7 @@
     "ReleaseDate": "2024-05-10T02:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Our Souls Never Sleep",
-    "Developer": "EtherealChaos",
-    "Publisher": "Catalyst Games, LLC",
-    "Description": "Enter the realm of restless souls, where nightmares come alive and sleep is just a distant memory.",
-    "Url": "https://store.epicgames.com/en-US/p/our-souls-never-sleep-5efc96",
-    "ReleaseDate": "2024-05-08T16:44:28.625Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Diamond Drone",
-    "Developer": "Program-Ace",
-    "Publisher": "Program-Ace",
-    "Description": "Put your drone piloting skills to the test in Drone PA! Race against the clock to collect all the rubies while keeping an eye on your battery level. Don't forget to search for batteries on the floor to recharge. How skilled are you at maneuvering drones?",
-    "Url": "https://store.epicgames.com/en-US/p/my-product-3b0853",
-    "ReleaseDate": "2024-05-05T21:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -63,17 +32,7 @@
     "ReleaseDate": "2024-05-03T07:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "FoxCode",
-    "Developer": "FoxCode Games",
-    "Publisher": "FoxCode Games",
-    "Description": "*Base game! One map included.\n\nYou can choose one of two paths: creation or destruction. We have chosen to protect the most powerful artifact ever created by humanity... or perhaps by something beyond it. We live always prepared, governed by a code of honor we call FoxCode.",
-    "Url": "https://store.epicgames.com/en-US/p/versus-0763da",
-    "ReleaseDate": "2024-04-30T23:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -85,61 +44,7 @@
     "ReleaseDate": "2024-04-30T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "FusyFox",
-    "Developer": "FSN Global",
-    "Publisher": "FSN Global",
-    "Description": "FusyFox is an immersive Web3 sci-fi game that takes you and a crew of intergalactic foxes to Mars with one goal: to build the galaxy's first decentralized city. This third-person shooter combines top-notch visuals and gameplay mechanics for a genuinely engaging experience.",
-    "Url": "https://store.epicgames.com/en-US/p/fusyfox-752d01",
-    "ReleaseDate": "2024-04-30T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "RacerLoop",
-    "Developer": "Maniac Panda Games",
-    "Publisher": "Maniac Panda Games",
-    "Description": "Racerloop is a fast paced zero-gravity arcade racing game set in the Outer Ring universe.\nJoin the competition and immerse yourself in high-speed tournaments where you’ll race through various landscapes throughout the galaxy!",
-    "Url": "https://store.epicgames.com/en-US/p/racerloop-4d3ab2",
-    "ReleaseDate": "2024-04-29T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Smelogs Playground",
-    "Developer": "Nifty Productions",
-    "Publisher": "Nifty Productions",
-    "Description": "Smelogs Playground is a Real-Time Strategy game with charming aesthetics and a simple but effective gameplay mechanism. Take over the playful and rocky Smelogs to compete against each other for fun and honor!",
-    "Url": "https://store.epicgames.com/en-US/p/smelogs-playground-a953e3",
-    "ReleaseDate": "2024-04-25T15:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Altiros",
-    "Developer": "Heatherglade",
-    "Publisher": "Heatherglade Publishing",
-    "Description": "Build! Craft! Destroy! Jump on clouds and fight cute monsters in skill-based battles of steel, magic and spirit in this online sandbox adventure set in a fantastical world of sky islands!",
-    "Url": "https://store.epicgames.com/en-US/p/altiros-d54b90",
-    "ReleaseDate": "2024-04-24T10:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Rumble Club",
-    "Developer": "Lightfox Games",
-    "Publisher": "Mad Mushroom",
-    "Description": "First rule of Rumble Club: TELL EVERYONE about Rumble Club.\n\nFall into a physics based massive multiplayer battle! Join up to 20 clumsy players in epic knockout madness and punch, push, throw, and trick everyone else out of the arena!",
-    "Url": "https://store.epicgames.com/en-US/p/rumble-club-674364",
-    "ReleaseDate": "2024-04-23T16:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -151,17 +56,7 @@
     "ReleaseDate": "2024-04-23T12:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Mars Battle",
-    "Developer": "Mars4",
-    "Publisher": "Mars4",
-    "Description": "Battle it out on the surface of Mars",
-    "Url": "https://store.epicgames.com/en-US/p/mars-battle-6d58c4",
-    "ReleaseDate": "2024-04-20T20:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -173,50 +68,7 @@
     "ReleaseDate": "2024-04-18T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Unescape?",
-    "Developer": "Dead Mannequin Studios",
-    "Publisher": "Catalyst Games, LLC",
-    "Description": "Jump into a stunning 3D world in a FREE, nostalgic 2D platformer!  Fight and explore your way through an amazing student-made adventure!",
-    "Url": "https://store.epicgames.com/en-US/p/unescape-4663c6",
-    "ReleaseDate": "2024-04-18T02:15:05.335Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "AC Sailing",
-    "Developer": "Emirates Team New Zealand",
-    "Publisher": "Emirates Team New Zealand",
-    "Description": "Experience the thrill of high-tech sailing with AC Sailing. Take command of the latest generation yachts and foil your way to victory in breathtaking online races against top sailors worldwide.",
-    "Url": "https://store.epicgames.com/en-US/p/ac-sailing-f23bc9",
-    "ReleaseDate": "2024-04-15T04:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Phantom Watcher",
-    "Developer": "Silly Studioz",
-    "Publisher": "Catalyst Games, LLC",
-    "Description": "Phantom Watcher is a chilling horror-strategy game. Survive the haunted hospital’s mysteries, navigating ghostly behaviors in a unique CRT aesthetic. Each playthrough is a new eerie challenge. Dare to uncover the secrets?",
-    "Url": "https://store.epicgames.com/en-US/p/phantom-watcher-10faa4",
-    "ReleaseDate": "2024-04-09T17:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Alpha League",
-    "Developer": "Beaveroid Entertainment",
-    "Publisher": "Beaveroid Entertainment",
-    "Description": "Alpha League is a free-to-play, hero based Auto Chess. In Alpha League, simply pick and build your favorite hero in a Roguelike fashion with 10 different combat genres, and then battle the other 7 Bots or Players to be the winner.",
-    "Url": "https://store.epicgames.com/en-US/p/alpha-league-ca4166",
-    "ReleaseDate": "2024-04-07T03:29:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -228,28 +80,7 @@
     "ReleaseDate": "2024-04-03T02:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Era.S Decode",
-    "Developer": "Cosmic Sagas",
-    "Publisher": "Cosmic Sagas",
-    "Description": "Immerse into this next-gen Arena MP comp platform, with beautiful GFX on Unreal Engine 5. A high-speed, engaging, ultra fun TPS versus with 9 playable Ascendants to choose. Experience tactical reflex esports in a innovative way unlike anything you've ever seen! Price: $6.00/month",
-    "Url": "https://store.epicgames.com/en-US/p/eras-decode-ff58c7",
-    "ReleaseDate": "2024-03-31T14:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Project Apidom",
-    "Developer": "Breach.gg",
-    "Publisher": "Breach.gg",
-    "Description": "Project Apidom is free-to-play multiplayer extraction RPG set in the apocalyptic future world of Pangea. Fight against other players and monsters for resources and items, gain experience to earn skill points and build an unstoppable Apidom to match your playstyle.",
-    "Url": "https://store.epicgames.com/en-US/p/project-apidom-8d4585",
-    "ReleaseDate": "2024-03-29T04:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -261,39 +92,7 @@
     "ReleaseDate": "2024-03-27T00:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "MICROVOLTS: Recharged",
-    "Developer": "Masangsoft",
-    "Publisher": "Masangsoft",
-    "Description": "Microvolts Recharged is a quirky lobby-based third-person shooter with a unique toy theme. The game features a fun character cast and freely swappable 7 weapon types. Battle it out across dozens of large well-designed maps and frag your enemies!",
-    "Url": "https://store.epicgames.com/en-US/p/microvolts_recharged-73b608",
-    "ReleaseDate": "2024-03-26T08:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Motorbike Evolution 2024",
-    "Developer": "Petr Šimůnek",
-    "Publisher": "Petr Šimůnek",
-    "Description": "The first ever true MMO motorbike racing game is here! Play with up to 39 friends!",
-    "Url": "https://store.epicgames.com/en-US/p/motorbike-evolution-2024-fa40bf",
-    "ReleaseDate": "2024-03-25T13:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Unreal Physics",
-    "Developer": "Jilted Generation Productions",
-    "Publisher": "Jilted Generation Productions",
-    "Description": "Unreal Physics is a exploration of in-game physics like never before, this dynamic 3D sandbox features a mesmerizing collection of demos, showcasing stunning visuals and realistic simulations. It's a playground of endless possibilities where creativity meets cutting edge physics",
-    "Url": "https://store.epicgames.com/en-US/p/unreal-physics-bdb358",
-    "ReleaseDate": "2024-03-24T17:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -305,72 +104,7 @@
     "ReleaseDate": "2024-03-21T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Kneedle Knight",
-    "Developer": "SMU Guildhall",
-    "Publisher": "SMU Guildhall",
-    "Description": "Kneedle Knight is a 3rd-person puzzle platformer game. Sir Lukoss the Small wields his magic needle sword to solve puzzles, platform across magical objects, and defeat cursed candle minions to return to normal and defeat the Witch of Fabric!",
-    "Url": "https://store.epicgames.com/en-US/p/kneedle-knight-f3bbbb",
-    "ReleaseDate": "2024-03-21T01:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Minsho",
-    "Developer": "Minertti",
-    "Publisher": "Minertti",
-    "Description": "Fight and compete with your friends against ruthless and difficult enemies, create a strategy, level up and participate in our exclusive events.",
-    "Url": "https://store.epicgames.com/en-US/p/minsho-bde021",
-    "ReleaseDate": "2024-03-20T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Unsung Empires The Cholas I - Prologue",
-    "Developer": "Ayelet Studio",
-    "Publisher": "Ayelet Studio",
-    "Description": "Unsung Empires: The Cholas – prologue is a narrative-driven, action-adventure game.  Take control of Rajendra Chola and fight your way through the kingdom of Srivijaya with swords and bow and arrow.",
-    "Url": "https://store.epicgames.com/en-US/p/unsung-empires-the-cholas-09fb06",
-    "ReleaseDate": "2024-03-17T22:58:23.137Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Blade of God X",
-    "Developer": "Void Labs",
-    "Publisher": "Void Labs",
-    "Description": "BOGX emerges from the shadows as a captivating dark-themed Action RPG crafted by Void Labs, marking a thrilling continuation of the Blade of God saga.\n\nFrom Game, Beyond Game.\n\nInheritor, the gods lie vanquished in twilight—\nYou stand as the last sentinel.",
-    "Url": "https://store.epicgames.com/en-US/p/bogx-a639f3",
-    "ReleaseDate": "2024-03-11T08:43:11.113Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Asurya's Embers",
-    "Developer": "SMU Guildhall",
-    "Publisher": "SMU Guildhall",
-    "Description": "Asurya’s Embers is a 1st-person, single-player, bow-and-arrow shooter set in an ancient Himalayan village plagued by an environmental disaster wrought by the vengeful sun god, Asurya.",
-    "Url": "https://store.epicgames.com/en-US/p/asuryas-embers-6bcdde",
-    "ReleaseDate": "2024-03-06T18:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Hailot - Random Card Defense",
-    "Developer": "Marc Studio",
-    "Publisher": "Marc Studio",
-    "Description": "Shards vs. Petals? At least 170 combinations, 360+ random card defenses!",
-    "Url": "https://store.epicgames.com/en-US/p/hailot-7a5a5f",
-    "ReleaseDate": "2024-03-05T16:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -382,6 +116,7 @@
     "ReleaseDate": "2024-03-04T00:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -393,17 +128,7 @@
     "ReleaseDate": "2024-02-23T03:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Cosmik Battle",
-    "Developer": "Cometh Studio",
-    "Publisher": "Cometh Studio",
-    "Description": "Cosmik Battle is the next-generation Trading Card Game pitting players against one another  in exhilarating space battles. Reduce your enemies’ ships to dust and climb the ranks to become the galaxy’s top pilot. Buckle up! It’s gonna be one hell of a ride!",
-    "Url": "https://store.epicgames.com/en-US/p/cosmik-battle-f6dbf4",
-    "ReleaseDate": "2024-02-20T13:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -415,17 +140,7 @@
     "ReleaseDate": "2024-02-16T10:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Nuclear Fission Simulator",
-    "Developer": "YD Visual",
-    "Publisher": "YD Visual",
-    "Description": "Simulates the fission of Uranium 235 (U235) atoms.",
-    "Url": "https://store.epicgames.com/en-US/p/nuclear-fission-simulator-d1ebc5",
-    "ReleaseDate": "2024-02-14T16:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -437,6 +152,7 @@
     "ReleaseDate": "2024-02-12T20:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -448,6 +164,7 @@
     "ReleaseDate": "2024-02-11T05:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -459,6 +176,7 @@
     "ReleaseDate": "2024-02-08T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -470,72 +188,7 @@
     "ReleaseDate": "2024-02-07T21:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Awaken",
-    "Developer": "Polrare Labs",
-    "Publisher": "Polrare Labs",
-    "Description": "Awaken is a Fighting game & Open-world metaverse. Within Awaken immersive gaming world, players will have a chance to immerse themselves in the traditional combat domain with real interactions seamlessly integrated into the metaverse.",
-    "Url": "https://store.epicgames.com/en-US/p/awaken-257d0f",
-    "ReleaseDate": "2024-02-05T07:04:49.498Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "BlueSuburbia",
-    "Developer": "alienmelon",
-    "Publisher": "alienmelon",
-    "Description": "BlueSuburbia is a haunted world where you explore poems through immersive environments. Seek out dark secrets, confront your demons, and delve deeper into a dream that dances between beauty and horror. Explore forgotten dreamscapes and open worlds on your quest to find hope.",
-    "Url": "https://store.epicgames.com/en-US/p/bluesuburbia-49019f",
-    "ReleaseDate": "2024-02-01T21:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "BUNKERZONE",
-    "Developer": "forplayers.studio",
-    "Publisher": "forplayers.studio",
-    "Description": "Survive the judgement",
-    "Url": "https://store.epicgames.com/en-US/p/bunkerzone-f0914b",
-    "ReleaseDate": "2024-02-01T09:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Bladerite",
-    "Developer": "LUSHENG PTE LTD",
-    "Publisher": "LUSHENG PTE LTD",
-    "Description": "As battle royale game, Bladerite presents action game enthusiasts with an opportunity to monetize gaming skills. Earn rewards based on defeating opponents in each match, and immerse yourself in a melee combat world where the economy is supported by cryptocurrency.",
-    "Url": "https://store.epicgames.com/en-US/p/bladerite-0f382c",
-    "ReleaseDate": "2024-02-01T04:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Retro Commander",
-    "Developer": "Noble Master LLC",
-    "Publisher": "Noble Master LLC",
-    "Description": "Retro Commander is a post-apocalyptic real-time strategy wargame (RTS). Take command and fight it out in a world where a cataclysmic timeline has transpired on Mother Earth. Wage wars solo, against the AI, or take on your gaming comrades and friends.",
-    "Url": "https://store.epicgames.com/en-US/p/retro-commander-7814fc",
-    "ReleaseDate": "2024-02-01T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "The Evolving Forest",
-    "Developer": "Humble Sage Games",
-    "Publisher": "Raini Studios",
-    "Description": "The Evolving forest is a free to play management game in which you cultivate your own personal plant collection.\n\nUnlock new plant varieties by breeding your specimens together and battle your unique critters together against your friends online.",
-    "Url": "https://store.epicgames.com/en-US/p/the-evolving-forest-b4a1bb",
-    "ReleaseDate": "2024-01-31T02:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -547,17 +200,7 @@
     "ReleaseDate": "2024-01-31T00:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Fishing Planet",
-    "Developer": "Fishing Planet LLC.",
-    "Publisher": "Fishing Planet LLC.",
-    "Description": "Fishing Planet® is a highly realistic first-person online multiplayer fishing simulator. Developed by avid fishing enthusiasts to bring you the full thrill of actual angling on your screen.\n \nFree-to-Play and just a download away!",
-    "Url": "https://store.epicgames.com/en-US/p/fishing-planet-87df68",
-    "ReleaseDate": "2024-01-30T13:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -569,6 +212,7 @@
     "ReleaseDate": "2024-01-24T18:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -580,17 +224,7 @@
     "ReleaseDate": "2024-01-20T04:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Take The Throne",
-    "Developer": "TopVR",
-    "Publisher": "TopVR",
-    "Description": "Take the Throne is a new Massive Multiplayer Online Battle Royale game with up to 25 players in a free-for-all bloody fight to be crowned and take the throne! Take the Throne is built on PvP encounters and is filled with comedic physics-based gameplay.",
-    "Url": "https://store.epicgames.com/en-US/p/take-the-throne-917f96",
-    "ReleaseDate": "2024-01-20T02:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -602,6 +236,7 @@
     "ReleaseDate": "2024-01-15T07:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -613,17 +248,7 @@
     "ReleaseDate": "2024-01-10T09:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Anito Legends",
-    "Developer": "Gawang Ginto Inc.",
-    "Publisher": "Gawang Ginto Inc.",
-    "Description": "Anito Legends is a free-to-play multi-platform strategic auto-battler. Assemble a team of Anitos, customize their equipment, go on adventures, and battle with other players!",
-    "Url": "https://store.epicgames.com/en-US/p/anito-legends-e2180a",
-    "ReleaseDate": "2024-01-10T01:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -635,28 +260,7 @@
     "ReleaseDate": "2024-01-08T09:50:20.259Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "OpenSeason",
-    "Developer": "Fractional Uprising Studios",
-    "Publisher": "Fractional Uprising Studios",
-    "Description": "Fractional Uprising Studios presents a third person shooter pinning various NFT communities against each other in a multiplayer battle royale.\n\nYou will need to hold a Fractional Uprising Studios Membership to play this game and other productions.",
-    "Url": "https://store.epicgames.com/en-US/p/openseason-75e993",
-    "ReleaseDate": "2024-01-05T17:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Underground Waifus TCG",
-    "Developer": "Jurval Corp",
-    "Publisher": "Jurval Corp",
-    "Description": "Welcome to Underground Waifus: Dive into the Future of TCG multiplayer with PVP Battles. Play for free this CCG and battler card game and compete, achieve quests and earn free rewards! not set",
-    "Url": "https://store.epicgames.com/en-US/p/underground-waifus-tcg-4c889b",
-    "ReleaseDate": "2023-12-29T05:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -668,17 +272,7 @@
     "ReleaseDate": "2023-12-27T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "NEVERMORE",
-    "Developer": "2ndRevelation",
-    "Publisher": "2ndRevelation",
-    "Description": "This game is a Visual Novel produced by 2nd Revision. It tells the story of the protagonist Cheng Feng, who received an anonymous letter and returned to his hometown after three years of absence, but was involved in a serial murder case.",
-    "Url": "https://store.epicgames.com/en-US/p/nevermore-294488",
-    "ReleaseDate": "2023-12-24T16:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -690,28 +284,7 @@
     "ReleaseDate": "2023-12-21T06:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Tangles",
-    "Developer": "Saham Studio",
-    "Publisher": "Saham Studio",
-    "Description": "Awakening from a long coma following a training injury, Soldier Basel finds himself alone in an isolated camp on a deserted island surrounded by questions and mystery. Dive into a quest for answers, and the discovery of enigmatic secrets.",
-    "Url": "https://store.epicgames.com/en-US/p/tangles-e99298",
-    "ReleaseDate": "2023-12-21T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Zeeverse",
-    "Developer": "Beetroot Lab",
-    "Publisher": "Beetroot Lab",
-    "Description": "Free-to-play monster-tamer RPG set in an indigenous fantasy world. A place where social gameplay meets turn-based strategy, exploration, and the thrill of collecting!",
-    "Url": "https://store.epicgames.com/en-US/p/zeeverse-92a34e",
-    "ReleaseDate": "2023-12-18T14:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -723,127 +296,7 @@
     "ReleaseDate": "2023-12-18T13:00:00.996Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Aviatrix",
-    "Developer": "Falconian",
-    "Publisher": "Space Falcon LLC",
-    "Description": "Become the hero of Aviatrix",
-    "Url": "https://store.epicgames.com/en-US/p/avi-35e86e",
-    "ReleaseDate": "2023-12-12T17:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "A Christmas Carol VR",
-    "Developer": "Agile Lens",
-    "Publisher": "Agile Lens",
-    "Description": "In a blend of old and new media, we invite you to join us for a classical Dickensian recital featuring bleeding-edge motion-capture and interactive broadcast technology. Enjoy this live, digital performance from the comfort of your own home as up close and personal as you like.",
-    "Url": "https://store.epicgames.com/en-US/p/a-christmas-carol-vr-00de5c",
-    "ReleaseDate": "2023-12-12T00:32:47.48Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Bezogia",
-    "Developer": "Zogi Labs",
-    "Publisher": "Zogi Labs",
-    "Description": "The ultimate gaming experience! Unleash your creativity in MMORPG, Battle Royale, Speed Race, Survival, and Party Game modes. Join a thriving global community, compete in epic competitions, and shape the future of gaming. Download now and embark on your legendary adventure!",
-    "Url": "https://store.epicgames.com/en-US/p/legends-of-bezogia-33aa76",
-    "ReleaseDate": "2023-12-11T16:01:04.001Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Coryphaeus Championships",
-    "Developer": "Coryphaeus Corp",
-    "Publisher": "Coryphaeus Corp",
-    "Description": "A card game designed for professional play. Download Coryphaeus Championships now, immerse in endless competitions and become a tournament champion!",
-    "Url": "https://store.epicgames.com/en-US/p/coryphaeus-championships-216f4a",
-    "ReleaseDate": "2023-12-07T20:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Carsick Carventure",
-    "Developer": "Carsick Carventure",
-    "Publisher": "Petr Šimůnek",
-    "Description": "Carsic Carventure is a simple hyper-casual game where you drive your 2D car as far as possible. Discover new places, set new records, and beat your friends! Enjoy infinite levels and different game modes!",
-    "Url": "https://store.epicgames.com/en-US/p/carsick-carventure-d216ba",
-    "ReleaseDate": "2023-12-07T14:52:25.231Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "King of Avalon",
-    "Developer": "FunPlus International AG",
-    "Publisher": "FunPlus International AG",
-    "Description": "Summon your Dragon and be the King of Frost and Flame in Avalon!",
-    "Url": "https://store.epicgames.com/en-US/p/king-of-avalon-113d24",
-    "ReleaseDate": "2023-12-06T06:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "GGDENMetaverse",
-    "Developer": "GGDEN",
-    "Publisher": "GGDEN",
-    "Description": "Step into GGDEN Metaverse, where gaming transcends reality. Immerse yourself in a dynamic world of personalized virtual theaters, VIP experiences, and community-driven gameplay.",
-    "Url": "https://store.epicgames.com/en-US/p/ggdenmetaverse-64f15a",
-    "ReleaseDate": "2023-12-06T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Zarathustra - Cybergeddon",
-    "Developer": "Tim Rachor",
-    "Publisher": "Tim Rachor",
-    "Description": "Take on the role of Agent Amy Tanner and solve a case in a cyberpunk future, where technology and religion have become one - A classic pixel art point&click adventure with voice-over.",
-    "Url": "https://store.epicgames.com/en-US/p/zarathustra-cybergeddon-70bc56",
-    "ReleaseDate": "2023-12-05T11:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Legendary Road Online",
-    "Developer": "Oze Play",
-    "Publisher": "Oze Play",
-    "Description": "Legendary Road Online is a MMORPG that puts the player deep into ancient Chinese, Islamic, and European civilizations. The Legendary Road, was in short, a major cultural and economic trading gateway.",
-    "Url": "https://store.epicgames.com/en-US/p/legendary-road-online-e3f617",
-    "ReleaseDate": "2023-12-04T02:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Pinball M",
-    "Developer": "Zen Studios",
-    "Publisher": "Zen Studios",
-    "Description": "Get ready to tilt into terror. The new horror-inspired pinball platform for fearless players. Prove your skills on the most sinister, gory, and badass tables ever brought to life.",
-    "Url": "https://store.epicgames.com/en-US/p/pinball-m-755276",
-    "ReleaseDate": "2023-11-30T16:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Champions Ascension",
-    "Developer": "Rough House Games",
-    "Publisher": "Rough House Games",
-    "Description": "Enter this action-packed Arena RPG and ascend the ranks. On your path to ascension, defeat other Champions, collect resources, and build epic weapons and armor. Collect your unique Champions and hone their fighting prowess in the arena as you earn glory on the sand and blood!",
-    "Url": "https://store.epicgames.com/en-US/p/champions-ascension-aa77be",
-    "ReleaseDate": "2023-11-30T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -855,6 +308,7 @@
     "ReleaseDate": "2023-11-29T22:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -866,6 +320,7 @@
     "ReleaseDate": "2023-11-28T20:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -877,28 +332,7 @@
     "ReleaseDate": "2023-11-24T09:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Dreamhaven",
-    "Developer": "EsportsPc, LLC",
-    "Publisher": "EsportsPc, LLC",
-    "Description": "Unlock the doors to your wildest dreams with Dreamhaven! Designed by an extraordinary team of junior developers aged 8-14, players will travel, through the imaginations and dreams of the next generation. Interact with AI power npc's that can create open ended conversations.",
-    "Url": "https://store.epicgames.com/en-US/p/dreamhaven-f9bad3",
-    "ReleaseDate": "2023-11-23T17:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Null Gravity Labyrinth",
-    "Developer": "Vincent Vogl",
-    "Publisher": "Vincent Vogl",
-    "Description": "Find the golden cube to exit this abstract labyrinth.\nWhen touching a spinning cube all elements with the same color will disappear and new paths will form.\nWhen you touch a portal it will teleport you to another portal of the same color.\nCurrently only level 1 and 2 are playable",
-    "Url": "https://store.epicgames.com/en-US/p/null-gravity-labyrinth-daeebe",
-    "ReleaseDate": "2023-11-22T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -910,17 +344,7 @@
     "ReleaseDate": "2023-11-21T08:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "AIMX",
-    "Developer": "aimx sarl",
-    "Publisher": "aimx sarl",
-    "Description": "Free, easy to use & efficient aim trainer.\nImprove on exercises specific to your game.",
-    "Url": "https://store.epicgames.com/en-US/p/aimx-237344",
-    "ReleaseDate": "2023-11-20T19:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -932,6 +356,7 @@
     "ReleaseDate": "2023-11-18T02:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -943,17 +368,7 @@
     "ReleaseDate": "2023-11-16T06:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "COLD WAR 2395: SOLUS",
-    "Developer": "Maxwell Software",
-    "Publisher": "Maxwell Software",
-    "Description": "COLD WAR 2395: SOLUS invites you to explore an abandoned research outpost on a distant planet. Learn the secrets of the last person to venture there and uncover a galaxy-spanning conspiracy's origin.",
-    "Url": "https://store.epicgames.com/en-US/p/cold-war-2395-solus-d87631",
-    "ReleaseDate": "2023-11-16T02:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -965,17 +380,7 @@
     "ReleaseDate": "2023-11-15T09:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Life Makeover Global",
-    "Developer": "Archosaur Games",
-    "Publisher": "Archosaur Games",
-    "Description": "Explore Life Makeover: Unleash your style, dye outfits, and design freely. Dive into unlimited dress-up, build your dream home - all for free.",
-    "Url": "https://store.epicgames.com/en-US/p/lifemakeoverglobal-1aa05a",
-    "ReleaseDate": "2023-11-15T08:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -987,105 +392,7 @@
     "ReleaseDate": "2023-11-15T02:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Metalstorm",
-    "Developer": "Starform",
-    "Publisher": "Starform",
-    "Description": "Welcome to Metalstorm, the ultimate team-based multiplayer air combat experience! \n\nA truly free-to-play game. Engage in live 5v5 air combat with friends against real players around the world. Collect and upgrade the world’s most advanced and legendary jets.",
-    "Url": "https://store.epicgames.com/en-US/p/metalstorm",
-    "ReleaseDate": "2023-11-14T19:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "United Football",
-    "Developer": "MetaverseME Ltd",
-    "Publisher": "MetaverseME Ltd",
-    "Description": "United Football is a free to play, multiplayer, 5-a-side online football game. \n\nUnited Football allows players to play in teams consisting of both human and AI players and boasts a unique control system and viewpoint that puts the gamer right in the action.",
-    "Url": "https://store.epicgames.com/en-US/p/united-football-0279e8",
-    "ReleaseDate": "2023-11-13T19:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "The InVincible Iron Ivy - Enter the Pretty Pretty Princess",
-    "Developer": "JCM Design of North Carolina, Incorporated",
-    "Publisher": "JCM Design of North Carolina, Incorporated",
-    "Description": "Take the role of The InVincible Iron Ivy (\"Iron Ivy\") in this Soulslike 3rd person RPG. You will unlock Iron Ivy's Sci-FI Powers by accumulating experience points (“XP”), deactivating enemy troopers, acquiring items, and completing quests.",
-    "Url": "https://store.epicgames.com/en-US/p/the-invincible-iron-ivyenter-the-pretty-pretty-princess-ed912d",
-    "ReleaseDate": "2023-11-10T03:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Meta Lordz",
-    "Developer": "Starlight Worlds",
-    "Publisher": "Starlight Worlds",
-    "Description": "Meta Lordz is a web3 free-to-play competitive game. The game features MOBA-style combat focusing on precise skillshots, which is presented in a team based game mode that combines thrilling Boss battles with objectives similar to capture-the-flag, creating a unique experience.",
-    "Url": "https://store.epicgames.com/en-US/p/meta_lordz-8b5183",
-    "ReleaseDate": "2023-11-06T18:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Blights Wrath",
-    "Developer": "Equilibrium Games",
-    "Publisher": "Equilibrium Games",
-    "Description": "Hack and Slash RPG",
-    "Url": "https://store.epicgames.com/en-US/p/blights-wrath-16a247",
-    "ReleaseDate": "2023-11-03T23:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Phantom Blade: Executioners",
-    "Developer": "S-GAME",
-    "Publisher": "S-GAME",
-    "Description": "Phantom Blade: Executioners is a fast-paced action game set in the Phantom World, an original world conceptualized by S-GAME.",
-    "Url": "https://store.epicgames.com/en-US/p/phantom-blade-executioners-918ac0",
-    "ReleaseDate": "2023-11-03T05:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "The Hidden Room",
-    "Developer": "Mario Amato, Emanuele Avallone",
-    "Publisher": "Emanuele Avallone",
-    "Description": "The Hidden Room is an escape room containing various puzzles. Several popular rumors speak of a hidden treasure somewhere in the home of Tom Barkley, an American archaeologist who moved to Germany.",
-    "Url": "https://store.epicgames.com/en-US/p/the-hidden-room-1a63ec",
-    "ReleaseDate": "2023-10-31T14:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Supernova Shards",
-    "Developer": "Sunday Games",
-    "Publisher": "Sunday Games",
-    "Description": "Supernova Shards is a sandbox survival MMORPG set in a sci-fi, persistent open world with a realistic economy. Players can mine resources, build and manage colonies, upgrade their characters and spaceships, complete quests, and collaborate or compete with friends.",
-    "Url": "https://store.epicgames.com/en-US/p/supernova-shards-402d95",
-    "ReleaseDate": "2023-10-31T09:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Yaku",
-    "Developer": "Raijin Labs",
-    "Publisher": "Raijin Labs",
-    "Description": "Craft your reality, fight and explore in a cyberpunk-fantasy MMO/Metaverse, where japanese legends entwine with cutting-edge technology. Embark on epic quests, uncover enigmatic mysteries, and, above all, undergo a transcendent journey from mere mortal to all-powerful Kami beings",
-    "Url": "https://store.epicgames.com/en-US/p/yakuverse-170f13",
-    "ReleaseDate": "2023-10-31T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1097,17 +404,7 @@
     "ReleaseDate": "2023-10-30T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Kugle",
-    "Developer": "KugleCorp",
-    "Publisher": "KugleCorp",
-    "Description": "Play with your friends in a galaxy in which you collect, breed and trade Kugles.",
-    "Url": "https://store.epicgames.com/en-US/p/kugle-e7e6b3",
-    "ReleaseDate": "2023-10-30T16:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1119,6 +416,7 @@
     "ReleaseDate": "2023-10-29T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1130,6 +428,7 @@
     "ReleaseDate": "2023-10-26T07:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1141,17 +440,7 @@
     "ReleaseDate": "2023-10-26T06:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Palia",
-    "Developer": "Singularity 6",
-    "Publisher": "Singularity 6",
-    "Description": "Explore a vibrant new world made just for you with Palia, a free-to-play, cozy sim MMO game. Craft, cook, fish, and farm with friends as you live the life of your dreams and discover an enchanting adventure filled with colorful characters and a mystery to unravel.",
-    "Url": "https://store.epicgames.com/en-US/p/palia-0d428e",
-    "ReleaseDate": "2023-10-24T17:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1163,6 +452,7 @@
     "ReleaseDate": "2023-10-24T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1174,17 +464,7 @@
     "ReleaseDate": "2023-10-20T06:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Brawlers",
-    "Developer": "Tyranno Studios",
-    "Publisher": "Tyranno Studios",
-    "Description": "One of the top Web3 fighting games, developed by Tyranno Studios! A rowdy collision of strategy and suplexes, designed by the Magic: The Gathering mastermind.",
-    "Url": "https://store.epicgames.com/en-US/p/brawlers-84957e",
-    "ReleaseDate": "2023-10-17T19:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1196,6 +476,7 @@
     "ReleaseDate": "2023-10-16T07:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1207,6 +488,7 @@
     "ReleaseDate": "2023-10-13T10:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1218,28 +500,7 @@
     "ReleaseDate": "2023-10-13T03:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Starheim",
-    "Developer": "Null Reference Games",
-    "Publisher": "Null Reference Games",
-    "Description": "Starheim is a free to play indie spaceship piloting MMO set in a universe based on Norse mythology. Materials from destroying AI ships, other players, and mining asteroids can be used to upgrade your ship, with dozens of models on your journey from small fighter to dreadnought.",
-    "Url": "https://store.epicgames.com/en-US/p/starheim-8fae84",
-    "ReleaseDate": "2023-10-06T19:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Torque Drift 2",
-    "Developer": "Grease Monkey Games Pty Ltd",
-    "Publisher": "Grease Monkey Games Pty Ltd",
-    "Description": "From the colourful drift scene of Tokyo streets to professional competitions sponsored by global brands, Torque Drift 2 invokes all aspects of drift culture and offers an experience as diverse and dynamic as the motorsport itself.",
-    "Url": "https://store.epicgames.com/en-US/p/torque-drift-2-b08765",
-    "ReleaseDate": "2023-10-02T23:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1251,17 +512,7 @@
     "ReleaseDate": "2023-10-02T09:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Spiderbro",
-    "Developer": "Studio Pond",
-    "Publisher": "Studio Pond",
-    "Description": "Help Spiderbro through a strange dystopia and overcome the shadow spider that is constantly hindering you. Collect items and solve puzzles and keep moving, don't let the shadow spider get the better of you.",
-    "Url": "https://store.epicgames.com/en-US/p/spiderbro-e037b7",
-    "ReleaseDate": "2023-10-01T23:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1273,28 +524,7 @@
     "ReleaseDate": "2023-10-01T22:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "3D City: Metaverse",
-    "Developer": "3D Studio",
-    "Publisher": "3D Studio",
-    "Description": "3DC offers a vibrant urban sandbox, blending Sim City's strategic city-building, GTA 5's open-world exploration, and Assassin's Creed's parkour narratives. Dive in, shape the metropolis, and embark on thrilling missions in a stunning environment.",
-    "Url": "https://store.epicgames.com/en-US/p/3d-city-32fc13",
-    "ReleaseDate": "2023-09-30T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Engine Evolution 2023",
-    "Developer": "Petr Šimůnek",
-    "Publisher": "Petr Šimůnek",
-    "Description": "Your favorite racing MMO is back - this time with amazing tracks, more entertaining physics, and much more! Enjoy multiplayer racing action more intense than ever before!",
-    "Url": "https://store.epicgames.com/en-US/p/engine-evolution-2023-7d9eb7",
-    "ReleaseDate": "2023-09-30T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1306,61 +536,7 @@
     "ReleaseDate": "2023-09-29T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Disney Speedstorm",
-    "Developer": "Gameloft",
-    "Publisher": "Gameloft",
-    "Description": "Disney Speedstorm",
-    "Url": "https://store.epicgames.com/en-US/p/disney-speedstorm",
-    "ReleaseDate": "2023-09-28T08:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "The Riflemen",
-    "Developer": "Normogames",
-    "Publisher": "Bonus Stage Publishing",
-    "Description": "Grab your friends and drop into the fast-paced The Riflemen, a WW2 themed 5v5 player face-off that combines tactics, looting, shootouts and chaos.",
-    "Url": "https://store.epicgames.com/en-US/p/the-riflemen-8be608",
-    "ReleaseDate": "2023-09-28T03:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "APE SQUAD",
-    "Developer": "NSStudio",
-    "Publisher": "DFCHAIN",
-    "Description": "New war start Aim, Shoot and Throw. \nAdvanced Military Actions in Modern Combat\nhigh quality visuals\nPleasant and deep gameplay\nAdvanced game mode system",
-    "Url": "https://store.epicgames.com/en-US/p/apesquad-f24b7f",
-    "ReleaseDate": "2023-09-26T01:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Project Adam : AI Attack",
-    "Developer": "VirtualFlow Inc",
-    "Publisher": "VirtualFlow Inc",
-    "Description": "2222 AD,\nHumanity will suffer destruction due to highly developed AI.\n\nAdam, a special forces agent who survives, wakes up in a laboratory...\nThat place was the robots' giant space battleship 'Eden'.\n\nAct like AI as much as possible,\nEscape Eden from the eyes of AI!",
-    "Url": "https://store.epicgames.com/en-US/p/projectadam-eec00e",
-    "ReleaseDate": "2023-09-25T12:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Hellen's Gallery: Making Story with AI",
-    "Developer": "VirtualFlow Inc",
-    "Publisher": "VirtualFlow Inc",
-    "Description": "You just entered the gallery made by AIs.\nBut the guide Hellen is strange to be an AI.\nThe stories that AI created are also somewhat awkward.\n\nShall we make our own stories and solve Hellen's mysteries in the four experience zones introduced by Hellen?",
-    "Url": "https://store.epicgames.com/en-US/p/projecthellen-b5df12",
-    "ReleaseDate": "2023-09-25T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1372,6 +548,7 @@
     "ReleaseDate": "2023-09-22T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1383,6 +560,7 @@
     "ReleaseDate": "2023-09-20T18:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1394,6 +572,7 @@
     "ReleaseDate": "2023-09-18T21:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1405,6 +584,7 @@
     "ReleaseDate": "2023-09-18T00:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1416,17 +596,7 @@
     "ReleaseDate": "2023-09-15T06:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Sphere Guider",
-    "Developer": "Velite Games",
-    "Publisher": "Velite Games",
-    "Description": "Race against the clock in this Casually Difficult Rolling Ball Game!",
-    "Url": "https://store.epicgames.com/en-US/p/sphere-guider-e20c86",
-    "ReleaseDate": "2023-09-15T05:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1438,6 +608,7 @@
     "ReleaseDate": "2023-09-14T14:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1449,6 +620,7 @@
     "ReleaseDate": "2023-09-12T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1460,17 +632,7 @@
     "ReleaseDate": "2023-09-10T11:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "SYNCED",
-    "Developer": "NExT Studios",
-    "Publisher": "Level Infinite",
-    "Description": "SYNCED is a match-based Rogue-Looter shooter developed by NExT Studios. In a techno-apocalyptic future, you are a Runner who joins the war with deadly techno-creatures called Nanos inside the sealed exclusion zone known as the Meridian.",
-    "Url": "https://store.epicgames.com/en-US/p/synced",
-    "ReleaseDate": "2023-09-08T04:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1482,17 +644,7 @@
     "ReleaseDate": "2023-09-06T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Stormshot: Isle of Adventure",
-    "Developer": "FunPlus International AG",
-    "Publisher": "FunPlus International AG",
-    "Description": "300 brilliant levels await! Come unveil the myth of Treasure Isle!",
-    "Url": "https://store.epicgames.com/en-US/p/stormshot-1e4cf4",
-    "ReleaseDate": "2023-09-04T09:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1504,17 +656,7 @@
     "ReleaseDate": "2023-09-02T12:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Hysteria in Howlsbend",
-    "Developer": "Amber G, Anna S, Charlie A, Dmitry P, Jingyu Z",
-    "Publisher": "Amber G, Anna S, Charlie A, Dmitry P, Jingyu Z",
-    "Description": "Hysteria in Howlsbend is an Interactive Narrative Experience driven by conversational AI Characters.",
-    "Url": "https://store.epicgames.com/en-US/p/hysteria-in-howlsbend-bfaf38",
-    "ReleaseDate": "2023-08-31T16:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1526,17 +668,7 @@
     "ReleaseDate": "2023-08-30T22:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Meta NANOs: Rumble Race",
-    "Developer": "Nano Meta Games GmbH",
-    "Publisher": "Nano Meta Games GmbH",
-    "Description": "Meta NANOs: Rumble Race is an exciting and action-packed game where your NANOs race against other NANOs for the top spots in the weekly leaderboards. Win awesome prices and show your opponents that your NANOs are just faster.",
-    "Url": "https://store.epicgames.com/en-US/p/meta_nanos_rumble_race-7f0696",
-    "ReleaseDate": "2023-08-30T15:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1548,6 +680,7 @@
     "ReleaseDate": "2023-08-29T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1559,28 +692,7 @@
     "ReleaseDate": "2023-08-21T08:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "FrontlineGrunt",
-    "Developer": "FrontlineGrunt",
-    "Publisher": "FrontlineGrunt",
-    "Description": "A First-Person Shooter game in which the main goal is to capture and secure objectives in a map and winning by draining other team's conquest points.",
-    "Url": "https://store.epicgames.com/en-US/p/frontlinegrunt-51eb6a",
-    "ReleaseDate": "2023-08-18T15:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Haven's Compass",
-    "Developer": "Ghost Ivy Development Studio AG",
-    "Publisher": "Ghost Ivy Development Studio AG",
-    "Description": "Haven's Compass is a Fast Paced but Tactical FPS with Hero Shooter elements that you can interchange!",
-    "Url": "https://store.epicgames.com/en-US/p/havens-compass-c31bb4",
-    "ReleaseDate": "2023-08-15T19:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1592,50 +704,7 @@
     "ReleaseDate": "2023-08-08T23:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Metaverser",
-    "Developer": "TerraMetas",
-    "Publisher": "TerraMetas",
-    "Description": "Metaverser is the first multi-platform, play-to-earn, free-to-play virtual world that offers players the opportunity to explore, create, and interact in a vast and immersive 3D environment.",
-    "Url": "https://store.epicgames.com/en-US/p/metaverser-725e3c",
-    "ReleaseDate": "2023-08-07T20:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Synergy of Serra",
-    "Developer": "Calystral Games GmbH",
-    "Publisher": "Calystral Games GmbH",
-    "Description": "Synergy of Serra, an upcoming free-to-play PC/MacOS deckbuilding trading card game, promises to revolutionize the card game genre by merging the collectibility of classic Trading Card Games with the infinite replayability of Deckbuilder Card Games.",
-    "Url": "https://store.epicgames.com/en-US/p/synergyofserra-3243db",
-    "ReleaseDate": "2023-08-07T15:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Senile Wizards",
-    "Developer": "Abraca Doom Studio",
-    "Publisher": "Abraca Doom Studio",
-    "Description": "Take the roll of a mighty wizard battling for honor and glory. Choose from dozens of crazy upgrades and smite your opponents",
-    "Url": "https://store.epicgames.com/en-US/p/senile-wizards-98b114",
-    "ReleaseDate": "2023-08-05T20:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "canVERSE",
-    "Developer": "canVERSE Games LTD",
-    "Publisher": "canVERSE Games LTD",
-    "Description": "Play backgammon, checkers, and chess versus friends or computer AI with different difficulty levels. Local and online gameplay, with online support for 2 players and 62 spectators. All with voice chat.",
-    "Url": "https://store.epicgames.com/en-US/p/canverse-ea3961",
-    "ReleaseDate": "2023-08-02T09:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1647,6 +716,7 @@
     "ReleaseDate": "2023-07-25T09:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1658,50 +728,7 @@
     "ReleaseDate": "2023-07-24T02:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Precious Stones",
-    "Developer": "funball studios",
-    "Publisher": "funball studios",
-    "Description": "This is a physics-based platform game where players control a sphere to collect diamonds while avoiding obstacles and hazards. The game requires players to use their knowledge of physics to navigate through levels filled with slopes and moving platforms.",
-    "Url": "https://store.epicgames.com/en-US/p/precious-stones-ab13c8",
-    "ReleaseDate": "2023-07-23T03:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Raid Shadow Legends",
-    "Developer": "Raid",
-    "Publisher": "Plarium",
-    "Description": "Raid",
-    "Url": "https://store.epicgames.com/en-US/p/raid-shadow-legends-b70e14",
-    "ReleaseDate": "2023-07-20T10:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Revive and Prosper - Prologue",
-    "Developer": "Mystiqular",
-    "Publisher": "Mystiqular",
-    "Description": "Gather resources, build a base, automate, and optimize in Revive & Prosper, a voxel base-building strategy game. Remodel terrain and cultivate food. Control mutants and their golem sidekicks. Produce and deliver by belts and catapults. Can you revive and prosper?",
-    "Url": "https://store.epicgames.com/en-US/p/revive-and-prosper-prequel-bf20c6",
-    "ReleaseDate": "2023-07-20T08:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Snowbreak Containment Zone",
-    "Developer": "SEASUN GAMES PTE. LTD.",
-    "Publisher": "SEASUN GAMES PTE. LTD.",
-    "Description": "Sci-Fi RPG-Shooter! Clear the specified stage to claim an Orange-Tier Operative!",
-    "Url": "https://store.epicgames.com/en-US/p/snowbreak-containment-zone-abc820",
-    "ReleaseDate": "2023-07-20T02:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1713,6 +740,7 @@
     "ReleaseDate": "2023-07-17T05:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1724,17 +752,7 @@
     "ReleaseDate": "2023-07-01T11:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Samorost 1",
-    "Developer": "Amanita Design",
-    "Publisher": "Amanita Design",
-    "Description": "Explore the beginnings of the Samorost series in the space gnome’s original bite-sized adventure, formerly released in 2003. Now with remastered sounds, enhanced graphics, and new music by Floex.",
-    "Url": "https://store.epicgames.com/en-US/p/samorost-1-280ea4",
-    "ReleaseDate": "2023-06-30T13:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1746,17 +764,7 @@
     "ReleaseDate": "2023-06-30T02:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "DinoDash",
-    "Developer": "Alphack Studios Development Team",
-    "Publisher": "Alphack Studios LLC",
-    "Description": "DinoDash is a fast paced hover racer that will put your racing skills and reaction times to the test! See if you have what it takes to win",
-    "Url": "https://store.epicgames.com/en-US/p/dinodashgame-46ad90",
-    "ReleaseDate": "2023-06-30T00:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1768,6 +776,7 @@
     "ReleaseDate": "2023-06-29T22:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1779,6 +788,7 @@
     "ReleaseDate": "2023-06-29T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1790,6 +800,7 @@
     "ReleaseDate": "2023-06-29T11:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1801,6 +812,7 @@
     "ReleaseDate": "2023-06-27T10:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1812,6 +824,7 @@
     "ReleaseDate": "2023-06-23T22:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1823,72 +836,7 @@
     "ReleaseDate": "2023-06-22T00:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Scribble It!",
-    "Developer": "Detach Entertainment UG",
-    "Publisher": "Detach Entertainment UG",
-    "Description": "Scribble It! is a multiplayer drawing and guessing game. Get in a lobby with up to 16 players and choose from thousands of official words, packaged in a variety of high-quality themes and 3 multiplayer game modes. Perfect for game nights, parties or just hanging out with friends.",
-    "Url": "https://store.epicgames.com/en-US/p/scribble-it-c61a6f",
-    "ReleaseDate": "2023-06-16T16:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Madcar for PC",
-    "Developer": "forplayers.studio",
-    "Publisher": "forplayers.studio",
-    "Description": "One rule: Press the pedal !",
-    "Url": "https://store.epicgames.com/en-US/p/madcar-f-multiplayer-65691b",
-    "ReleaseDate": "2023-06-09T19:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Bugby",
-    "Developer": "Whimsical Violence",
-    "Publisher": "Whimsical Violence",
-    "Description": "Bugby is a team sport, set in a magical forest, full of hijinks, mayhem and fun. Try to score the most points by carrying the ball into one of the nearby goals around the arena. Use the bouncy mushrooms to traverse across the arena, but don’t fall into the giant pit!",
-    "Url": "https://store.epicgames.com/en-US/p/bugby-c6bc9c",
-    "ReleaseDate": "2023-06-03T22:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Celestia Ultimate",
-    "Developer": "Sigma Studios LLC",
-    "Publisher": "Sigma Studios LLC",
-    "Description": "Collect, train, and battle with Champions in this RPG built on Unreal Engine 5.",
-    "Url": "https://store.epicgames.com/en-US/p/celestia-ultimate-15fae5",
-    "ReleaseDate": "2023-06-03T19:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Conjury Revell",
-    "Developer": "SMU Guildhall",
-    "Publisher": "SMU Guildhall",
-    "Description": "Conjury Revell is a first-person action game from the students at SMU Guildhall. Use your magical spells and abilities to eliminate waves of faceless oppressors as they attempt to keep you from rebelling against the system.",
-    "Url": "https://store.epicgames.com/en-US/p/conjury-revell-074445",
-    "ReleaseDate": "2023-06-01T17:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Worlds War 1",
-    "Developer": "Gal Maron",
-    "Publisher": "Gal Maron",
-    "Description": "Worlds War 1 is a sci-fi shooter game. Start your mission to find the secret weapon while fighting the aliens and defend the earth before its to late!",
-    "Url": "https://store.epicgames.com/en-US/p/worlds-war-1-9c607f",
-    "ReleaseDate": "2023-05-31T09:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1900,17 +848,7 @@
     "ReleaseDate": "2023-05-29T18:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Operation New Earth",
-    "Developer": "Hunted Cow Games",
-    "Publisher": "Hunted Cow Games",
-    "Description": "Operation: New Earth is an intense sci-fi multiplayer strategy game in which you must command an advanced military facility to defend Earth from a hostile alien invasion. Create an alliance, gather resources, and unlock advanced technology to level up your stronghold!",
-    "Url": "https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4",
-    "ReleaseDate": "2023-05-26T08:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1922,17 +860,7 @@
     "ReleaseDate": "2023-05-26T07:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Warhammer: Chaos And Conquest",
-    "Developer": "Hunted Cow Games",
-    "Publisher": "Tilting Point",
-    "Description": "MMORPG and strategy gameplay in one. Living realms of Chaos Champions battle in PVE and PVP strategic combat. Persistent army management and constant live events. Collect Warlords, manage resources, and conquer your foes.",
-    "Url": "https://store.epicgames.com/en-US/p/warhammer-939868",
-    "ReleaseDate": "2023-05-25T16:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1944,6 +872,7 @@
     "ReleaseDate": "2023-05-23T14:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1955,6 +884,7 @@
     "ReleaseDate": "2023-05-23T13:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1966,28 +896,7 @@
     "ReleaseDate": "2023-05-22T14:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Book of Yog Idle RPG",
-    "Developer": "YuanQi Studio",
-    "Publisher": "YuanQi Studio",
-    "Description": "The Book of Yog is a 3D idle RPG game. You can rally heroes, develop the kingdom and explore the secrets of a lost world. Dozens of heroes, hundreds of skills, thousands of loot for you to combine freely. Come to embark on a journey to build the strongest team!",
-    "Url": "https://store.epicgames.com/en-US/p/book-of-yog-idle-rpg-74cebc",
-    "ReleaseDate": "2023-05-22T10:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "CoopValor 2056: Ukraine WW3",
-    "Developer": "GamesTrilla",
-    "Publisher": "GamesTrilla",
-    "Description": "Single player and multiplayer. You will start fighting in Ukraine as a soldier of the Ukrainian special forces or the International Legion. Fight alone or with your friends against the AI, ruthless and difficult enemies and against other players! Reconquer Europe!",
-    "Url": "https://store.epicgames.com/en-US/p/coopvalor-2056-ukraine-ww3-718385",
-    "ReleaseDate": "2023-05-17T12:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -1999,6 +908,7 @@
     "ReleaseDate": "2023-05-15T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2010,6 +920,7 @@
     "ReleaseDate": "2023-05-11T14:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2021,6 +932,7 @@
     "ReleaseDate": "2023-05-10T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2032,6 +944,7 @@
     "ReleaseDate": "2023-05-10T08:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2043,6 +956,7 @@
     "ReleaseDate": "2023-05-08T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2054,17 +968,7 @@
     "ReleaseDate": "2023-05-03T04:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Kakele Online - MMORPG",
-    "Developer": "ViVa Games",
-    "Publisher": "ViVa Games",
-    "Description": "Kakele Online is a free 2D MMORPG! It is a multiplayer open world nostalgic 2D pixel real time role playing game.\n\nIn Kakele, you join players from all over the world to fight monsters, explore mysterious caves, complete tasks and quests, collect items and much more!",
-    "Url": "https://store.epicgames.com/en-US/p/kakele-online-mmorpg-790f2f",
-    "ReleaseDate": "2023-05-02T16:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2076,17 +980,7 @@
     "ReleaseDate": "2023-04-26T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Jill of the Jungle: The Complete Trilogy",
-    "Developer": "Epic Games, Inc.",
-    "Publisher": "Epic Games, Inc.",
-    "Description": "She's beautiful. She's brave. She knows her way around a jungle. She is fighting the most difficult battle of her life. Fortunately, she can run, jump, and skillfully use her knife and spinning blade. Do you have the courage to help her?",
-    "Url": "https://store.epicgames.com/en-US/p/jill-of-the-jungle:-the-complete-trilogy",
-    "ReleaseDate": "2023-04-26T15:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2098,6 +992,7 @@
     "ReleaseDate": "2023-04-26T00:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2109,39 +1004,19 @@
     "ReleaseDate": "2023-04-25T09:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Grief Trigger",
-    "Developer": "Indignation LLC",
-    "Publisher": "Indignation LLC",
-    "Description": "Inspired by my own grief journey, join Azrael and The Ghost on an indie adventure to put grief in a grave. Explore your hometown for grief triggers that distorted memories of your late father. Survive the bullet hells and puzzles inside to make those memories nostalgic.",
-    "Url": "https://store.epicgames.com/en-US/p/grief-trigger-012a5c",
-    "ReleaseDate": "2023-04-21T04:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "ZZT!",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "ZZT is an action/adventure game based on object-oriented programming. The game requires fast reflexes and deep planning. A game editor is included so you can create your own game worlds. You can also control objects using the built in programming language.",
     "Url": "https://store.epicgames.com/en-US/p/zzt!",
     "ReleaseDate": "2023-03-31T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Barrett Foster Prologue",
-    "Developer": "Particules Studio",
-    "Publisher": "Particules Studio",
-    "Description": "Description is not set",
-    "Url": "https://store.epicgames.com/en-US/p/barrett-foster-prologue-3e98dc",
-    "ReleaseDate": "2023-03-27T18:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2153,6 +1028,7 @@
     "ReleaseDate": "2023-03-08T20:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2164,28 +1040,7 @@
     "ReleaseDate": "2023-03-07T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "The Light in the Darkness",
-    "Developer": "Voices of the Forgotten",
-    "Publisher": "Arcade Distillery",
-    "Description": "The Light in the Darkness tells the story of a working-class family of Polish Jews in France during the Holocaust. It is the first videogame to portray the Holocaust accurately, releasing free for educational purposes.",
-    "Url": "https://store.epicgames.com/en-US/p/the-light-in-the-darkness-6ee5e4",
-    "ReleaseDate": "2023-02-17T08:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "The Sims™ 4",
-    "Developer": "Maxis",
-    "Publisher": "Electronic Arts",
-    "Description": "The Sims 4 is free to download! Unleash your imagination and create a unique world of Sims that’s an expression of you. Choose how Sims look, act, and dress, then manage the ups and downs of their everyday lives.",
-    "Url": "https://store.epicgames.com/en-US/p/the-sims™-4",
-    "ReleaseDate": "2023-02-02T18:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2197,6 +1052,7 @@
     "ReleaseDate": "2022-12-08T04:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2208,6 +1064,7 @@
     "ReleaseDate": "2022-12-06T05:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2219,6 +1076,7 @@
     "ReleaseDate": "2022-12-01T08:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2230,6 +1088,7 @@
     "ReleaseDate": "2022-11-30T18:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2241,6 +1100,7 @@
     "ReleaseDate": "2022-11-29T12:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2252,6 +1112,7 @@
     "ReleaseDate": "2022-11-15T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2263,6 +1124,7 @@
     "ReleaseDate": "2022-11-07T18:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2274,17 +1136,7 @@
     "ReleaseDate": "2022-10-27T06:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Blankos Block Party",
-    "Developer": "Mythical, Inc., Third Kind Games",
-    "Publisher": "Mythical, Inc.",
-    "Description": "A vibrant open-world multiplayer game styled like a giant block party, with a focus on custom art and design, level building, exploration, and curating your collection of unique and rare Blankos!!",
-    "Url": "https://store.epicgames.com/en-US/p/blankos-block-party-09fc55",
-    "ReleaseDate": "2022-09-15T15:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2294,8 +1146,9 @@
     "Description": "Circus Electrique is part story-driven RPG, part tactics, part circus management, and completely enthralling. When everyday Londoners mysteriously turn into vicious killers, only the show’s talented performers possess the skills necessary to save the city. ",
     "Url": "https://store.epicgames.com/en-US/p/circus-electrique",
     "ReleaseDate": "2022-09-06T15:00:00Z",
-    "FullPrice": "€19.99",
+    "FullPrice": "RUB 669.00",
     "CurrentPrice": "0",
+    "Discount": "100 %",
     "DiscountEndDate": "2024-05-16T15:00:00Z"
   },
   {
@@ -2307,28 +1160,7 @@
     "ReleaseDate": "2022-08-23T13:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Shop Titans",
-    "Developer": "Kabam Games, Inc.",
-    "Publisher": "Kabam Games, Inc.",
-    "Description": "Design and build a thriving shop in this tycoon simulation adventure! Outfit your heroes and champions with epic gear, and send them on quests to defeat powerful bosses!",
-    "Url": "https://store.epicgames.com/en-US/p/shop-titans-d95c1c",
-    "ReleaseDate": "2022-07-21T15:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Roller Champions™",
-    "Developer": "UBISOFT MONTREAL",
-    "Publisher": "UBISOFT",
-    "Description": "Skate and roll your way up to glory in Roller Champions™. Discover a free-to-play, team PvP sports game like no other!",
-    "Url": "https://store.epicgames.com/en-US/p/roller-champions™",
-    "ReleaseDate": "2022-06-23T13:40:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2340,6 +1172,7 @@
     "ReleaseDate": "2022-06-22T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2351,17 +1184,19 @@
     "ReleaseDate": "2022-06-21T08:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Destroy All Humans! - Clone Carnage",
-    "Developer": null,
+    "Developer": "-",
     "Publisher": "THQ Nordic",
     "Description": "Destroy All Humans! - Clone Carnage",
     "Url": "https://store.epicgames.com/en-US/p/destroy-all-humans!---clone-carnage",
     "ReleaseDate": "2022-05-31T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2373,39 +1208,19 @@
     "ReleaseDate": "2022-05-12T14:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Armored Warfare",
-    "Developer": null,
+    "Developer": "-",
     "Publisher": "WL Games LTD",
     "Description": "Armored Warfare is a free-to-play MMO where you can engage in explosive online tank battles against millions of players around the world.  With a force of the most powerful combat vehicles, take to the battlefield to wage war with over 100 powerful vehicles.",
     "Url": "https://store.epicgames.com/en-US/p/armored-warfare",
     "ReleaseDate": "2022-04-21T14:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Pinball FX",
-    "Developer": null,
-    "Publisher": null,
-    "Description": "Pinball FX is digital pinball evolved. Get the highest score on tables inspired by the biggest brands in entertainment. New tables arrive frequently!",
-    "Url": "https://store.epicgames.com/en-US/p/pinball-fx",
-    "ReleaseDate": "2022-03-31T15:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Ghostwire: Tokyo - Prelude",
-    "Developer": "Bethesda Softworks LLC",
-    "Publisher": "Bethesda Softworks LLC",
-    "Description": "Join KK and his gang of supernatural detectives as they investigate a strange disappearance, only to stumble upon something more sinister. Build relationships with your team and piece together their stories before taking to the streets of Ghostwire: Tokyo.",
-    "Url": "https://store.epicgames.com/en-US/p/ghostwire:-tokyo---prelude",
-    "ReleaseDate": "2022-03-08T18:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2417,6 +1232,7 @@
     "ReleaseDate": "2022-02-23T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2428,17 +1244,19 @@
     "ReleaseDate": "2021-12-08T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "KID A MNESIA EXHIBITION",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "An upside-down digital/analogue universe created from original artwork and recordings to commemorate 21 years of Radiohead’s Kid A and Amnesiac. Coming in November 2021. Add it to your wishlist now.",
     "Url": "https://store.epicgames.com/en-US/p/kid-a-mnesia-exhibition",
     "ReleaseDate": "2021-11-18T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2450,6 +1268,7 @@
     "ReleaseDate": "2021-11-04T16:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2461,17 +1280,19 @@
     "ReleaseDate": "2021-11-04T16:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Legends of Runeterra",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Skill and creativity conquer all in Legends of Runeterra, a strategy card game featuring iconic champions and allies from the League of Legends universe. ",
     "Url": "https://store.epicgames.com/en-US/p/legends-of-runeterra",
     "ReleaseDate": "2021-11-04T16:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2483,6 +1304,7 @@
     "ReleaseDate": "2021-11-04T16:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2494,17 +1316,7 @@
     "ReleaseDate": "2021-10-20T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Animation Throwdown: The Quest for Cards",
-    "Developer": "Kongregate",
-    "Publisher": "Kongregate",
-    "Description": "Family Guy, Bob's Burgers, Futurama, American Dad, and King of the Hill join forces in Animation Throwdown, your favorite new collectible card game.",
-    "Url": "https://store.epicgames.com/en-US/p/animation-throwdown-the-quest-for-cards",
-    "ReleaseDate": "2021-10-04T17:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2516,28 +1328,19 @@
     "ReleaseDate": "2021-09-23T13:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Warface: Clutch",
-    "Developer": null,
-    "Publisher": null,
-    "Description": "Warface: Clutch is a contemporary MMO first person shooter with millions of fans around the world. It offers intense PvP modes, compelling PvE missions and raids that you can challenge with five diverse classes as well as colossal customizable arsenal.",
-    "Url": "https://store.epicgames.com/en-US/p/warface:-clutch",
-    "ReleaseDate": "2021-06-29T09:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Super Squad",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Super Squad is a team-based Multiplayer Online Shoot-‘Em-Up (MOSH) where squads duke it out in a manic-strategic battle for domination. Tactics, teamwork and twitch reflexes are vital, with top-down shooter controls and a myriad of epic abilities to fire off.",
     "Url": "https://store.epicgames.com/en-US/p/super-squad",
     "ReleaseDate": "2021-06-25T14:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2549,94 +1352,67 @@
     "ReleaseDate": "2021-06-08T23:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Core",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Core is a multiverse of free games to play and worlds to explore designed by a global community of developers. Play thousands of Unreal-powered games from every genre, or create and earn from your own! Download now to get a limited-time free reward bundle.",
     "Url": "https://store.epicgames.com/en-US/p/core",
     "ReleaseDate": "2021-04-15T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "3 out of 10: Season Two",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Caffeinated super-powers, sentient AIs, and rival game studios all stand in the way of Shovelworks studios as they struggle to finally make a game that scores better than “3 out of 10”. Will this be the Season that they finally do it?",
     "Url": "https://store.epicgames.com/en-US/p/3-out-of-10:-season-two",
     "ReleaseDate": "2021-04-08T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "World of Warships",
-    "Developer": null,
-    "Publisher": null,
-    "Description": "Experience epic, free-to-play naval combat when you helm one of over 350 historic vessels in the exciting balance of strategy and real-time combat that World of Warships offers.",
-    "Url": "https://store.epicgames.com/en-US/p/world-of-warships",
-    "ReleaseDate": "2021-03-18T13:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Primordials: Battle of Gods",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Primordials: Battle of Gods",
     "Url": "https://store.epicgames.com/en-US/p/primordials:-battle-of-gods",
     "ReleaseDate": "2021-03-04T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Phantasy Star Online 2 New Genesis",
-    "Developer": null,
-    "Publisher": null,
-    "Description": "Phantasy Star Online 2 New Genesis, the latest chapter in the Phantasy Star Online 2 series, is here at last! It's time to jump into adventures beyond imagination!",
-    "Url": "https://store.epicgames.com/en-US/p/phantasy-star-online-2-new-genesis",
-    "ReleaseDate": "2021-02-17T06:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Idle Champions of the Forgotten Realms",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Idle Champions is a licensed Dungeons & Dragons strategy management video game uniting iconic characters from novels, campaigns, and shows into one epic adventure.",
     "Url": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
     "ReleaseDate": "2021-02-16T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "SpellForce 3: Versus Edition",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "The SpellForce 3: Versus Edition gives you the chance to enter the battlefields of Eo for free, letting you test your RTS skills against AI opponents or even other human players.",
     "Url": "https://store.epicgames.com/en-US/p/spellforce-3:-versus-edition",
     "ReleaseDate": "2020-12-14T18:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Warframe",
-    "Developer": null,
-    "Publisher": null,
-    "Description": "Warring factions have brought the Origin System to the brink of destruction. Join the Tenno and defend an ever-expanding universe. Master your Warframe, build your Arsenal and become an unstoppable force in this genre-defining looter-shooter.",
-    "Url": "https://store.epicgames.com/en-US/p/warframe",
-    "ReleaseDate": "2020-12-11T00:55:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2648,6 +1424,7 @@
     "ReleaseDate": "2020-12-03T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2659,6 +1436,7 @@
     "ReleaseDate": "2020-11-10T17:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2670,116 +1448,115 @@
     "ReleaseDate": "2020-10-06T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Rogue Company",
     "Developer": "Hi-Rez Studios",
-    "Publisher": null,
+    "Publisher": "-",
     "Description": "The world needs saving and only the best of the best can do it. Suit up as one of the elite agents of Rogue Company and go to war in a variety of different game modes.  Gear up and go Rogue! Download and play FREE now!",
     "Url": "https://store.epicgames.com/en-US/p/rogue-company",
     "ReleaseDate": "2020-09-30T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Rocket League®",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
     "Url": "https://store.epicgames.com/en-US/p/rocket-league®",
     "ReleaseDate": "2020-09-23T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Path of Exile",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "You are an Exile, struggling to survive on the dark continent of Wraeclast, as you fight to earn power to exact your revenge against those who wronged you. Created by hardcore gamers, Path of Exile is an online Action RPG set in a dark fantasy world.",
     "Url": "https://store.epicgames.com/en-US/p/path-of-exile",
     "ReleaseDate": "2020-09-16T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "3 out of 10, EP 5: The Rig Is Up!",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Pylon and Kevin set out on an adventure to fix Pylon's missing... face.",
     "Url": "https://store.epicgames.com/en-US/p/3-out-of-10,-ep-5:-the-rig-is-up!",
     "ReleaseDate": "2020-09-03T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Diabotical",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "A free to play, fast-paced multiplayer FPS set in a colorful robot universe. Create your own Eggbot and join the community in playing over 15 game modes and 30 maps.",
     "Url": "https://store.epicgames.com/en-US/p/diabotical",
     "ReleaseDate": "2020-09-03T13:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "3 out of 10, EP 4: Thank You For Being An Asset",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Big investors are coming to the studio. Can Ben and the team survive Francine's grand plan to impress them?",
     "Url": "https://store.epicgames.com/en-US/p/3-out-of-10,-ep-4:-thank-you-for-being-an-asset",
     "ReleaseDate": "2020-08-27T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "3 out of 10, EP 3: Pivot Like A Champion",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "The team settles a question the way only game developers can with an office wide Battle Royale.",
     "Url": "https://store.epicgames.com/en-US/p/3-out-of-10,-ep-3:-pivot-like-a-champion",
     "ReleaseDate": "2020-08-20T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "3 out of 10, EP 2: Foundation 101",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "The team goes back to college as a new shipment of interns is delivered to the studio and Midge has had enough.",
     "Url": "https://store.epicgames.com/en-US/p/3-out-of-10,-ep-2:-foundation-101",
     "ReleaseDate": "2020-08-13T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "3 out of 10, EP 1: Welcome To Shovelworks",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Midge joins Shovelworks Studios as a new animator, but not all is as it seems at the studio.",
     "Url": "https://store.epicgames.com/en-US/p/3-out-of-10,-ep-1:-welcome-to-shovelworks",
     "ReleaseDate": "2020-08-06T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
-    "DiscountEndDate": null
-  },
-  {
-    "Title": "Trackmania Starter Access",
-    "Developer": null,
-    "Publisher": null,
-    "Description": "Trackmania, the racing franchise from Ubisoft Nadeo, is back with the most compelling remake of Trackmania Nations.",
-    "Url": "https://store.epicgames.com/en-US/p/trackmania-starter-access",
-    "ReleaseDate": "2020-07-01T15:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2791,28 +1568,31 @@
     "ReleaseDate": "2020-04-28T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Paladins",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Join 30+ million players in Paladins, the free-to-play fantasy team-based shooter sensation. Wield guns and magic as a legendary Champion of the Realm, customizing your core set of abilities to play exactly how you want to play.",
     "Url": "https://store.epicgames.com/en-US/p/paladins",
     "ReleaseDate": "2020-03-24T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Dauntless",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Dauntless",
     "Url": "https://store.epicgames.com/en-US/p/dauntless",
     "ReleaseDate": "2020-03-19T13:51:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2824,6 +1604,7 @@
     "ReleaseDate": "2020-01-16T08:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
@@ -2835,17 +1616,19 @@
     "ReleaseDate": "2019-08-23T15:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   },
   {
     "Title": "Fortnite",
-    "Developer": null,
-    "Publisher": null,
+    "Developer": "-",
+    "Publisher": "-",
     "Description": "Fortnite",
     "Url": "https://store.epicgames.com/en-US/p/fortnite",
     "ReleaseDate": "2017-07-21T09:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
+    "Discount": "Free",
     "DiscountEndDate": null
   }
 ]
