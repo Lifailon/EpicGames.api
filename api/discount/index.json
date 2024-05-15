@@ -1,5 +1,41 @@
 [
   {
+    "Title": "Creaks",
+    "Developer": "Amanita Design",
+    "Publisher": "Amanita Design",
+    "Description": "The ground starts shaking, light bulbs are breaking - and something rather unusual is happening right behind the walls of your very room. Equipped with nothing but wit and courage, you slowly descend into a world inhabited by avian folk and seemingly deadly furniture monsters.",
+    "Url": "https://store.epicgames.com/en-US/p/creaks-43f0f6",
+    "ReleaseDate": "2024-05-15T11:00:00Z",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$11.99",
+    "Discount": "40.02 %",
+    "DiscountEndDate": "2024-05-22T11:00:00Z"
+  },
+  {
+    "Title": "Athenian Rhapsody",
+    "Developer": "Nico Papalia",
+    "Publisher": "Top Hat Studios, Inc.",
+    "Description": "Welcome to the world of Athens! Write your Rhapsody - meet friends (or make them enemies), navigate mind-bendingly hard challenges such as \"Push Button\" and \"Spell Richard\", and fight for dear life. What will your story be?",
+    "Url": "https://store.epicgames.com/en-US/p/athenian-rhapsody-5ef478",
+    "ReleaseDate": "2024-05-14T16:00:00Z",
+    "FullPrice": "$14.99",
+    "CurrentPrice": "$12.74",
+    "Discount": "15.01 %",
+    "DiscountEndDate": "2024-05-21T16:00:00Z"
+  },
+  {
+    "Title": "ROBOBEAT",
+    "Developer": "Simon Fredholm",
+    "Publisher": "Kwalee",
+    "Description": "Keep your trigger finger on the pulse! In rhythm shooter ROBOBEAT, you'll play as Ace - a bounty hunter on a mission to capture robot-gone-rogue Frazzer in his ever-shifting lair. Wall run, slide, and shoot to the beat, blast through robot armies, and track down your target.",
+    "Url": "https://store.epicgames.com/en-US/p/robobeat-5f084b",
+    "ReleaseDate": "2024-05-14T16:00:00Z",
+    "FullPrice": "$19.99",
+    "CurrentPrice": "$15.99",
+    "Discount": "20.01 %",
+    "DiscountEndDate": "2024-05-21T16:00:00Z"
+  },
+  {
     "Title": "Lizard Slayer",
     "Developer": "Astra Playroom",
     "Publisher": "Astra Playroom",
