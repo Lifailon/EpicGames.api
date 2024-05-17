@@ -6,7 +6,7 @@
     "Description": "Winner of over 130 Game of the Year awards, discover the definitive Dragon Age: Inquisition experience. The Game of the Year Edition includes the critically acclaimed game, all three official add-ons - Jaws of Hakkon, The Descent, and Trespasser - and more.",
     "Url": "https://store.epicgames.com/en-US/p/dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
     "ReleaseDate": "2024-05-16T14:30:00Z",
-    "FullPrice": "€39.99",
+    "FullPrice": "$39.99",
     "CurrentPrice": "0",
     "Discount": "100 %",
     "DiscountEndDate": "2024-05-23T15:00:00Z"
@@ -984,6 +984,18 @@
     "DiscountEndDate": "-"
   },
   {
+    "Title": "Master of Music",
+    "Developer": "Musically Certified",
+    "Publisher": "Catalyst Games, LLC",
+    "Description": "Play through the world of the Master of Music as a young bard setting out to explore new territory using his trusty lute and the power of music to destroy his enemies.",
+    "Url": "https://store.epicgames.com/en-US/p/master-of-music-b8e0ea",
+    "ReleaseDate": "2023-11-22T09:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
     "Title": "Null Gravity Labyrinth",
     "Developer": "Vincent Vogl",
     "Publisher": "Vincent Vogl",
@@ -1122,18 +1134,6 @@
     "Description": "Take the role of The InVincible Iron Ivy (\"Iron Ivy\") in this Soulslike 3rd person RPG. You will unlock Iron Ivy's Sci-FI Powers by accumulating experience points (“XP”), deactivating enemy troopers, acquiring items, and completing quests.",
     "Url": "https://store.epicgames.com/en-US/p/the-invincible-iron-ivyenter-the-pretty-pretty-princess-ed912d",
     "ReleaseDate": "2023-11-10T03:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "Discount": "Free",
-    "DiscountEndDate": "-"
-  },
-  {
-    "Title": "Meta Lordz",
-    "Developer": "Starlight Worlds",
-    "Publisher": "Starlight Worlds",
-    "Description": "Meta Lordz is a web3 free-to-play competitive game. The game features MOBA-style combat focusing on precise skillshots, which is presented in a team based game mode that combines thrilling Boss battles with objectives similar to capture-the-flag, creating a unique experience.",
-    "Url": "https://store.epicgames.com/en-US/p/meta_lordz-8b5183",
-    "ReleaseDate": "2023-11-06T18:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
     "Discount": "Free",
@@ -2484,6 +2484,18 @@
     "DiscountEndDate": "-"
   },
   {
+    "Title": "STG Football",
+    "Developer": "SuperTeam Games",
+    "Publisher": "SuperTeam Games",
+    "Description": "Officially licensed by the NFLPA, STG Football is a free-to-play, real-time, arcade football game designed from the ground up to be a true multiplayer game supporting unique 4v4 gameplay that emphasizes teamwork and strategy.",
+    "Url": "https://store.epicgames.com/en-US/p/superteam-football-6ce66c",
+    "ReleaseDate": "2022-10-26T16:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
     "Title": "Blankos Block Party",
     "Developer": "Mythical, Inc., Third Kind Games",
     "Publisher": "Mythical, Inc.",
@@ -2622,6 +2634,18 @@
     "Description": "Century: Age of Ashes is a free-to-play multiplayer dragon battle game. Master a growing roster of classes and dragons, compete in intense arena battles and rule the skies in fast-paced aerial combats.",
     "Url": "https://store.epicgames.com/en-US/p/century:-age-of-ashes",
     "ReleaseDate": "2022-02-23T16:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
+    "Title": "Eternal Kingdom Battle Peak",
+    "Developer": "ASOBIMO, Inc.",
+    "Publisher": "ASOBIMO, Inc.",
+    "Description": "Character/Monster Design：Yoshitaka Amano\nTheme Song：LUNA SEA\nIn-game Sound：MONACA\nIntroducing our huge \"Japanese\" MMORPG, featuring a team of renowned Japanese creators!",
+    "Url": "https://store.epicgames.com/en-US/p/eternal-d70f99",
+    "ReleaseDate": "2022-02-07T15:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
     "Discount": "Free",
