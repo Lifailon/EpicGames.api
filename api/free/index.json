@@ -1,11 +1,47 @@
 [
   {
+    "Title": "HAWKED",
+    "Developer": "MY.GAMES",
+    "Publisher": "MY.GAMES",
+    "Description": "HAWKED is an online Extraction Shooter full of daring adventures, boundless exploration, and all-out PvPvE action in pursuit of ancient treasures. Play for free today!",
+    "Url": "https://store.epicgames.com/en-US/p/hawked-b256b5",
+    "ReleaseDate": "2024-05-23T12:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
     "Title": "Wuthering Waves",
     "Developer": "KURO GAMES",
     "Publisher": "KURO GAMES",
     "Description": "Wuthering Waves is a story-rich open-world action RPG with a high degree of freedom. You wake from your slumber as Rover, joined by a vibrant cast of Resonators on a journey to reclaim your lost memories and surmount the Lament.",
     "Url": "https://store.epicgames.com/en-US/p/wuthering-waves-76ebc5",
     "ReleaseDate": "2024-05-23T02:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
+    "Title": "The Dark Isle",
+    "Developer": "Time Crunch Studios",
+    "Publisher": "Catalyst Games, LLC",
+    "Description": "Dive into this chilling survival horror game where you are stranded on a forsaken isle with a monster who hunts you by sound. Can you craft in silence and plan your escape? Or will the sound of your footsteps become your doom?",
+    "Url": "https://store.epicgames.com/en-US/p/the-dark-isle-4504b4",
+    "ReleaseDate": "2024-05-22T18:30:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
+    "Title": "Phoots and the Pineapple Throne",
+    "Developer": "Orcabyte Studios",
+    "Publisher": "Catalyst Games, LLC",
+    "Description": "Take action as a demon from another world takes over your home island! Play as Ridge, a Phoot who lost his memories and must save the island from being destroyed. Travel across hand drawn environments, unlock weapons and spells, and defeat challenging bosses.",
+    "Url": "https://store.epicgames.com/en-US/p/phoots-and-the-pineapple-throne-3df749",
+    "ReleaseDate": "2024-05-22T17:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
     "Discount": "Free",
