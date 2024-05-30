@@ -1,5 +1,17 @@
 [
   {
+    "Title": "MultiVersus",
+    "Developer": "Player First Games",
+    "Publisher": "Warner Bros. Games",
+    "Description": "MultiVersus is a free-to-play platform fighter that brings the depth of iconic WB stars to life across the nearly endless possibilities of play. ",
+    "Url": "https://store.epicgames.com/en-US/p/multiversus",
+    "ReleaseDate": "2024-05-28T17:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
     "Title": "Asilium",
     "Developer": "Asilium Yazilim A.S",
     "Publisher": "Asilium Yazilim A.S",
@@ -102,6 +114,18 @@
     "Description": "Solar Dominion is a battle royal game where users can go toe to toe to battle to see whos the best.",
     "Url": "https://store.epicgames.com/en-US/p/solars-dominion-200fd8",
     "ReleaseDate": "2024-05-19T19:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
+    "Title": "FuseWars",
+    "Developer": "Symbiote Creatives",
+    "Publisher": "Symbiote Creatives",
+    "Description": "Experience FUSE WARS: a thrilling third-person shooter offering Web2 multiplayer excitement fused with full Web3 blockchain integration. Built on Unreal Engine 5 by Symbiote Creatives. Join battles, test skills, and conquer opponents!",
+    "Url": "https://store.epicgames.com/en-US/p/symbiotefusewars-b9adaf",
+    "ReleaseDate": "2024-05-15T00:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
     "Discount": "Free",
