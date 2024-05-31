@@ -1,26 +1,12 @@
-[
-  {
-    "Title": "Chivalry 2",
-    "Developer": "Torn Banner Studios",
-    "Publisher": "Tripwire Interactive",
-    "Description": "Chivalry 2 is a multiplayer first person slasher inspired by epic medieval movie battles. Players are thrust into the action of every iconic moment of the era - from clashing swords, to storms of flaming arrows, to sprawling castle sieges and more.",
-    "Url": "https://store.epicgames.com/en-US/p/chivalry-2",
-    "ReleaseDate": "2021-06-08T15:00:00Z",
-    "FullPrice": "$39.99",
-    "CurrentPrice": "0",
-    "Discount": "100 %",
-    "DiscountEndDate": "2024-06-06T15:00:00Z"
-  },
-  {
-    "Title": "Warhammer 40,000: Gladius - Relics of War",
-    "Developer": "Proxy Studios",
-    "Publisher": "Slitherine Ltd.",
-    "Description": "Warhammer 40,000: Gladius – Relics of War is the first turn-based 4X strategy game set in the Warhammer 40,000 universe. Four factions will engage in a brutal war for dominance over the planet’s resources.",
-    "Url": "https://store.epicgames.com/en-US/p/warhammer-40,000:-gladius---relics-of-war",
-    "ReleaseDate": "2020-11-12T16:00:00Z",
-    "FullPrice": "$39.99",
-    "CurrentPrice": "0",
-    "Discount": "100 %",
-    "DiscountEndDate": "2024-05-30T16:00:00Z"
-  }
-]
+{
+  "Title": "Chivalry 2",
+  "Developer": "Torn Banner Studios",
+  "Publisher": "Tripwire Interactive",
+  "Description": "Chivalry 2 is a multiplayer first person slasher inspired by epic medieval movie battles. Players are thrust into the action of every iconic moment of the era - from clashing swords, to storms of flaming arrows, to sprawling castle sieges and more.",
+  "Url": "https://store.epicgames.com/en-US/p/chivalry-2",
+  "ReleaseDate": "2021-06-08T15:00:00Z",
+  "FullPrice": "€35.99",
+  "CurrentPrice": "0",
+  "Discount": "100 %",
+  "DiscountEndDate": "2024-06-06T15:00:00Z"
+}
