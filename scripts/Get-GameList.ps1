@@ -99,8 +99,6 @@ switch (Get-Random -InputObject @(1, 2)) {
         }
         Write-Host "---------------------- End function Free -----------------------------"
         
-        Start-Sleep $(Get-Random -Minimum 10 -Maximum 30)
-
         Write-Host "---------------------- Start function Discouted ----------------------"
         $Discount = Get-GameList -Price tierDiscouted -Region en-US -Count 500
         if ($null -ne $Discount) {
@@ -115,8 +113,6 @@ switch (Get-Random -InputObject @(1, 2)) {
             $Discount | ConvertTo-Json -Depth 10 | Out-File $pathDiscount
         }
         Write-Host "---------------------- End function Discouted ------------------------"
-        
-        Start-Sleep $(Get-Random -Minimum 10 -Maximum 30)
         
         Write-Host "---------------------- Start function Free ---------------------------"
         $Free = Get-GameList -Price tierFree -Region en-US -Count 500
