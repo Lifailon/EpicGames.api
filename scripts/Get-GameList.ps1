@@ -311,7 +311,7 @@ $html = @"
     </head>
     <body>
         <header onclick="window.location.href='https://lifailon.github.io/';">
-            <a href="https://lifailon.github.io">Home</a>
+            <a href="https://lifailon.github.io">PS-Commands</a>
             <span> 🔹 </span>
             <a href="https://lifailon.github.io/epic-games-radar">Epic Games Radar</a>
         </header>
