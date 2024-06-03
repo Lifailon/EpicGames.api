@@ -45,7 +45,12 @@ function Get-GameList {
     # Get json from html
     $json = $($($($content -split "__REACT_QUERY_INITIAL_QUERIES__ = ")[1] -split "window.server_rendered")[0] -replace ";")
     # Data filtering
-    $games = $($json | ConvertFrom-Json).queries.state.data[-1].catalog.searchStore.elements
+    if ($Price -eq "tierDiscouted") {
+        $games = $($json | ConvertFrom-Json).queries.state.data.Storefront.browseLayout.data.offerBlades.offers.offer
+    }
+    else {
+        $games = $($json | ConvertFrom-Json).queries.state.data[-1].catalog.searchStore.elements
+    }
 
     # Output formatting
     $Collections = New-Object System.Collections.Generic.List[System.Object]
