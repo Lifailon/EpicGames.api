@@ -1,5 +1,17 @@
 [
   {
+    "Title": "BattleCore Arena",
+    "Developer": "Ubisoft Bordeaux",
+    "Publisher": "Ubisoft Entertainment",
+    "Description": "BattleCore Arena",
+    "Url": "https://store.epicgames.com/en-US/p/battlecore-arena",
+    "ReleaseDate": "2024-06-06T14:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
     "Title": "Buff",
     "Developer": "Buff Technologies Ltd",
     "Publisher": "Buff Technologies Ltd",
@@ -1152,18 +1164,6 @@
     "DiscountEndDate": "-"
   },
   {
-    "Title": "Master of Music",
-    "Developer": "Musically Certified",
-    "Publisher": "Catalyst Games, LLC",
-    "Description": "Play through the world of the Master of Music as a young bard setting out to explore new territory using his trusty lute and the power of music to destroy his enemies.",
-    "Url": "https://store.epicgames.com/en-US/p/master-of-music-b8e0ea",
-    "ReleaseDate": "2023-11-22T09:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "Discount": "Free",
-    "DiscountEndDate": "-"
-  },
-  {
     "Title": "Null Gravity Labyrinth",
     "Developer": "Vincent Vogl",
     "Publisher": "Vincent Vogl",
@@ -1252,7 +1252,7 @@
     "Developer": "Archosaur Games",
     "Publisher": "Archosaur Games",
     "Description": "Explore Life Makeover: Unleash your style, dye outfits, and design freely. Dive into unlimited dress-up, build your dream home - all for free.",
-    "Url": "https://store.epicgames.com/en-US/p/lifemakeoverglobal-1aa05a",
+    "Url": "https://store.epicgames.com/en-US/p/life-makeover-global",
     "ReleaseDate": "2023-11-15T08:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
@@ -1302,6 +1302,18 @@
     "Description": "Take the role of The InVincible Iron Ivy (\"Iron Ivy\") in this Soulslike 3rd person RPG. You will unlock Iron Ivy's Sci-FI Powers by accumulating experience points (“XP”), deactivating enemy troopers, acquiring items, and completing quests.",
     "Url": "https://store.epicgames.com/en-US/p/the-invincible-iron-ivyenter-the-pretty-pretty-princess-ed912d",
     "ReleaseDate": "2023-11-10T03:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
+    "Title": "Meta Lordz",
+    "Developer": "Starlight Worlds",
+    "Publisher": "Starlight Worlds",
+    "Description": "Meta Lordz is a web3 free-to-play competitive game. The game features MOBA-style combat focusing on precise skillshots, which is presented in a team based game mode that combines thrilling Boss battles with objectives similar to capture-the-flag, creating a unique experience.",
+    "Url": "https://store.epicgames.com/en-US/p/meta_lordz-8b5183",
+    "ReleaseDate": "2023-11-06T18:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
     "Discount": "Free",
@@ -2580,6 +2592,18 @@
     "DiscountEndDate": "-"
   },
   {
+    "Title": "Marvel's Midnight Suns",
+    "Developer": "Firaxis Games",
+    "Publisher": "2K",
+    "Description": "Confront the darker side of the Marvel universe in an all-new Tactical RPG featuring Iron Man, Wolverine, Captain America, Ghost Rider, Blade, and more. ",
+    "Url": "https://store.epicgames.com/en-US/p/marvel's-midnight-suns",
+    "ReleaseDate": "2022-12-02T05:00:00Z",
+    "FullPrice": "€59.99",
+    "CurrentPrice": "0",
+    "Discount": "100 %",
+    "DiscountEndDate": "2024-06-13T15:00:00Z"
+  },
+  {
     "Title": "Predecessor",
     "Developer": "Omeda Studios",
     "Publisher": "Omeda Studios",
@@ -2646,18 +2670,6 @@
     "Description": "miHoYo's flagship action roleplay game!\nHD cel-shaded graphics, infinite combo, ultra-tight controls... Experience next-gen real-time action!\nEpic storyline spanning works, immersive stage dialogues... Become the center of the legend!",
     "Url": "https://store.epicgames.com/en-US/p/honkai-impact-3rd",
     "ReleaseDate": "2022-10-27T06:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "Discount": "Free",
-    "DiscountEndDate": "-"
-  },
-  {
-    "Title": "STG Football",
-    "Developer": "SuperTeam Games",
-    "Publisher": "SuperTeam Games",
-    "Description": "Officially licensed by the NFLPA, STG Football is a free-to-play, real-time, arcade football game designed from the ground up to be a true multiplayer game supporting unique 4v4 gameplay that emphasizes teamwork and strategy.",
-    "Url": "https://store.epicgames.com/en-US/p/superteam-football-6ce66c",
-    "ReleaseDate": "2022-10-26T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
     "Discount": "Free",
@@ -2808,18 +2820,6 @@
     "DiscountEndDate": "-"
   },
   {
-    "Title": "Eternal Kingdom Battle Peak",
-    "Developer": "ASOBIMO, Inc.",
-    "Publisher": "ASOBIMO, Inc.",
-    "Description": "Character/Monster Design：Yoshitaka Amano\nTheme Song：LUNA SEA\nIn-game Sound：MONACA\nIntroducing our huge \"Japanese\" MMORPG, featuring a team of renowned Japanese creators!",
-    "Url": "https://store.epicgames.com/en-US/p/eternal-d70f99",
-    "ReleaseDate": "2022-02-07T15:30:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "Discount": "Free",
-    "DiscountEndDate": "-"
-  },
-  {
     "Title": "NARAKA: BLADEPOINT",
     "Developer": "24 Entertainment",
     "Publisher": "NetEase Montreal",
@@ -2962,18 +2962,6 @@
     "CurrentPrice": "0",
     "Discount": "Free",
     "DiscountEndDate": "-"
-  },
-  {
-    "Title": "Chivalry 2",
-    "Developer": "Torn Banner Studios",
-    "Publisher": "Tripwire Interactive",
-    "Description": "Chivalry 2 is a multiplayer first person slasher inspired by epic medieval movie battles. Players are thrust into the action of every iconic moment of the era - from clashing swords, to storms of flaming arrows, to sprawling castle sieges and more.",
-    "Url": "https://store.epicgames.com/en-US/p/chivalry-2",
-    "ReleaseDate": "2021-06-08T15:00:00Z",
-    "FullPrice": "$39.99",
-    "CurrentPrice": "0",
-    "Discount": "100 %",
-    "DiscountEndDate": "2024-06-06T15:00:00Z"
   },
   {
     "Title": "Core",
