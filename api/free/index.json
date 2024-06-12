@@ -1,5 +1,17 @@
 [
   {
+    "Title": "Olympics Go! Paris 2024",
+    "Developer": "nWay",
+    "Publisher": "nWay",
+    "Description": "Immerse yourself in the Olympic Games and train like a champion in 12 crowd-roaring mini-games. Dominate the swimming pool, master archery and push your limits in track and field. Unleash your inner architect and build up your dream city around Olympic venues with iconic landmark",
+    "Url": "https://store.epicgames.com/en-US/p/olympics-go-paris-2024-5d5f77",
+    "ReleaseDate": "2024-06-11T16:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
     "Title": "The New Order",
     "Developer": "Reality MagiQ",
     "Publisher": "3MERGED",
@@ -366,6 +378,18 @@
     "Description": "The Machines Arena is an adrenaline-fueled PvP game where players are put right into the action! Battle competitively in teams of 4vs4 for some fast-paced combat mayhem, delivered in a top-down perspective. Get rewarded with digital collectibles in PvP and PvE game plays.",
     "Url": "https://store.epicgames.com/en-US/p/the-machines-arena-74e0f1",
     "ReleaseDate": "2024-04-23T12:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
+    "Title": "Parallel TCG",
+    "Developer": "Parallel Studios / Electric Square",
+    "Publisher": "Parallel Studios",
+    "Description": "Earth, 10,000 years in the future. Five parallel evolutions of humanity fight for control of the planet they once called home. Pick a faction, build a deck, and battle your peers from around the world for control over Earth and the ultimate source of power in the galaxy.",
+    "Url": "https://store.epicgames.com/en-US/p/parallel-tcg-724880",
+    "ReleaseDate": "2024-04-22T00:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
     "Discount": "Free",
@@ -1188,6 +1212,18 @@
     "DiscountEndDate": "-"
   },
   {
+    "Title": "Master of Music",
+    "Developer": "Musically Certified",
+    "Publisher": "Catalyst Games, LLC",
+    "Description": "Play through the world of the Master of Music as a young bard setting out to explore new territory using his trusty lute and the power of music to destroy his enemies.",
+    "Url": "https://store.epicgames.com/en-US/p/master-of-music-b8e0ea",
+    "ReleaseDate": "2023-11-22T09:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
     "Title": "Null Gravity Labyrinth",
     "Developer": "Vincent Vogl",
     "Publisher": "Vincent Vogl",
@@ -1326,18 +1362,6 @@
     "Description": "Take the role of The InVincible Iron Ivy (\"Iron Ivy\") in this Soulslike 3rd person RPG. You will unlock Iron Ivy's Sci-FI Powers by accumulating experience points (“XP”), deactivating enemy troopers, acquiring items, and completing quests.",
     "Url": "https://store.epicgames.com/en-US/p/the-invincible-iron-ivyenter-the-pretty-pretty-princess-ed912d",
     "ReleaseDate": "2023-11-10T03:00:00Z",
-    "FullPrice": "0",
-    "CurrentPrice": "0",
-    "Discount": "Free",
-    "DiscountEndDate": "-"
-  },
-  {
-    "Title": "Meta Lordz",
-    "Developer": "Starlight Worlds",
-    "Publisher": "Starlight Worlds",
-    "Description": "Meta Lordz is a web3 free-to-play competitive game. The game features MOBA-style combat focusing on precise skillshots, which is presented in a team based game mode that combines thrilling Boss battles with objectives similar to capture-the-flag, creating a unique experience.",
-    "Url": "https://store.epicgames.com/en-US/p/meta_lordz-8b5183",
-    "ReleaseDate": "2023-11-06T18:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
     "Discount": "Free",
@@ -2622,7 +2646,7 @@
     "Description": "Confront the darker side of the Marvel universe in an all-new Tactical RPG featuring Iron Man, Wolverine, Captain America, Ghost Rider, Blade, and more. ",
     "Url": "https://store.epicgames.com/en-US/p/marvel's-midnight-suns",
     "ReleaseDate": "2022-12-02T05:00:00Z",
-    "FullPrice": "€59.99",
+    "FullPrice": "$59.99",
     "CurrentPrice": "0",
     "Discount": "100 %",
     "DiscountEndDate": "2024-06-13T15:00:00Z"
@@ -2694,6 +2718,18 @@
     "Description": "miHoYo's flagship action roleplay game!\nHD cel-shaded graphics, infinite combo, ultra-tight controls... Experience next-gen real-time action!\nEpic storyline spanning works, immersive stage dialogues... Become the center of the legend!",
     "Url": "https://store.epicgames.com/en-US/p/honkai-impact-3rd",
     "ReleaseDate": "2022-10-27T06:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
+    "Title": "STG Football",
+    "Developer": "SuperTeam Games",
+    "Publisher": "SuperTeam Games",
+    "Description": "Officially licensed by the NFLPA, STG Football is a free-to-play, real-time, arcade football game designed from the ground up to be a true multiplayer game supporting unique 4v4 gameplay that emphasizes teamwork and strategy.",
+    "Url": "https://store.epicgames.com/en-US/p/superteam-football-6ce66c",
+    "ReleaseDate": "2022-10-26T16:00:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
     "Discount": "Free",
@@ -2838,6 +2874,18 @@
     "Description": "Century: Age of Ashes is a free-to-play multiplayer dragon battle game. Master a growing roster of classes and dragons, compete in intense arena battles and rule the skies in fast-paced aerial combats.",
     "Url": "https://store.epicgames.com/en-US/p/century:-age-of-ashes",
     "ReleaseDate": "2022-02-23T16:00:00Z",
+    "FullPrice": "0",
+    "CurrentPrice": "0",
+    "Discount": "Free",
+    "DiscountEndDate": "-"
+  },
+  {
+    "Title": "Eternal Kingdom Battle Peak",
+    "Developer": "ASOBIMO, Inc.",
+    "Publisher": "ASOBIMO, Inc.",
+    "Description": "Character/Monster Design：Yoshitaka Amano\nTheme Song：LUNA SEA\nIn-game Sound：MONACA\nIntroducing our huge \"Japanese\" MMORPG, featuring a team of renowned Japanese creators!",
+    "Url": "https://store.epicgames.com/en-US/p/eternal-d70f99",
+    "ReleaseDate": "2022-02-07T15:30:00Z",
     "FullPrice": "0",
     "CurrentPrice": "0",
     "Discount": "Free",
