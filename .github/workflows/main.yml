@@ -2,8 +2,8 @@ name: build-game-list
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: '00 * * * *'
+  # schedule:
+  # - cron: '00 * * * *'
 
 jobs:
   Job_01:
